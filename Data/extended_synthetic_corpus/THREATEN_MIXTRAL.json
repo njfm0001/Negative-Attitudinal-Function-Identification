@@ -1,0 +1,166 @@
+[
+{
+"text": "Uh oh, better watch yourself 👀 If you keep talking smack about me, I might just have to spill some tea",
+"label": "THREATEN"
+},
+{
+"text": "Hey buddy, if you even think about stealing my idea, there will be consequences 💥",
+"label": "THREATEN"
+},
+{
+"text": "I can't believe you did that. Don't ever cross me again or else...",
+"label": "THREATEN"
+},
+{
+"text": "You should really reconsider what you're doing before I lose my temper",
+"label": "THREATEN"
+},
+{
+"text": "Just so we're clear, if you mess up one more time, you're outta here ❌",
+"label": "THREATEN"
+},
+{
+"text": "Listen closely, because I won't repeat myself - stop what you're doing right now",
+"label": "THREATEN"
+},
+{
+"text": "Oh, you thought it was funny? Well let me tell you something, it's no laughing matter 😡",
+"label": "THREATEN"
+},
+{
+"text": "Alright, listen up. You make one wrong move and you'll regret it",
+"label": "THREATEN"
+},
+{
+"text": "You better hope I never find out who you really are, because things will get ugly fast 😤",
+"label": "THREATEN"
+},
+{
+"text": "Let this serve as a warning - if you don't back off, there will be hell to pay",
+"label": "THREATEN"
+},
+{
+"text": "Don't say I didn't warn you - if you keep pushing my buttons, I WILL snap",
+"label": "THREATEN"
+},
+{
+"text": "This isn't a game anymore, so cut it out before you get hurt",
+"label": "THREATEN"
+},
+{
+"text": "You wanna test me? Go ahead, see what happens",
+"label": "THREATEN"
+},
+{
+"text": "Keep poking at me and see what happens - trust me, you won't like it",
+"label": "THREATEN"
+},
+{
+"text": "If you know what's good for you, you'll leave me alone",
+"label": "THREATEN"
+},
+{
+"text": "Stop acting like such a jerk or face the music",
+"label": "THREATEN"
+},
+{
+"text": "You've been warned once, don't push your luck",
+"label": "THREATEN"
+},
+{
+"text": "One more step and you'll wish you hadn't",
+"label": "THREATEN"
+},
+{
+"text": "Think carefully before you act, because the consequences could be severe",
+"label": "THREATEN"
+},
+{
+"text": "I'm only going to say this once - stay away from me",
+"label": "THREATEN"
+},
+{
+"text": "I swear, if you don't knock it off, I'm gonna flip my lid",
+"label": "THREATEN"
+},
+{
+"text": "Seriously, enough is enough. Stop it or suffer the consequences",
+"label": "THREATEN"
+},
+{
+"text": "I'm begging you, please just stop",
+"label": "THREATEN"
+},
+{
+"text": "You'd better watch your back, because I'm coming for you",
+"label": "THREATEN"
+},
+{
+"text": "You're playing with fire, and soon you're gonna get burned",
+"label": "THREATEN"
+},
+{
+"text": "Consider this your final warning - shape up or ship out",
+"label": "THREATEN"
+},
+{
+"text": "I'm giving you fair warning - lay off or face the wrath of my fury",
+"label": "THREATEN"
+},
+{
+"text": "Enough games already, I've had enough",
+"label": "THREATEN"
+},
+{
+"text": "You're treading on thin ice, so watch your step",
+"label": "THREATEN"
+},
+{
+"text": "I suggest you change course immediately, or risk facing my anger",
+"label": "THREATEN"
+},
+{
+"text": "You shouldn't have done that, because now you've made an enemy for life",
+"label": "THREATEN"
+},
+{
+"text": "You'd be wise to heed my advice, otherwise you'll regret it",
+"label": "THREATEN"
+},
+{
+"text": "I'm not someone to be trifled with, so think twice before crossing me",
+"label": "THREATEN"
+},
+{
+"text": "You're asking for trouble, and sooner or later, you're going to get it",
+"label": "THREATEN"
+},
+{
+"text": "I'm warning you, don't underestimate me",
+"label": "THREATEN"
+},
+{
+"text": "If you want a fight, then bring it on",
+"label": "THREATEN"
+},
+{
+"text": "Prepare yourself, because I'm not backing down",
+"label": "THREATEN"
+},
+{
+"text": "Mark my words, you'll live to regret it",
+"label": "THREATEN"
+},
+    {"text": "Listen here, punk. Do that again and I'll make ya wish ya never crossed me.","label":"THREATEN"},
+    {"text": "Hey, I ain't kiddin’. Back off or face the consequences.","label":"THREATEN"},
+    {"text": "Look, I don’t wanna have to hurt ya, but I will if I gotta.","label":"THREATEN"},
+    {"text": "You seriously think you can mess with me? Think again.","label":"THREATEN"},
+    {"text": "I’ve got news for ya, buster. You’re messin’ with the wrong person.","label":"THREATEN"},
+    {"text": "If you knew who you were dealin’ with, you’d back off right now.","label":"THREATEN"},
+    {"text": "I don’t take kindly to being threatened. So watch yourself.","label":"THREATEN"},
+    {"text": "You’d better hope I never find out where you live, cause I’ll be comin’ after ya.","label":"THREATEN"},
+    {"text": "Cross me and you’ll regret it. That’s a promise.","label":"THREATEN"},
+    {"text": "I don’t make idle threats. So you’d best believe me when I say I’ll do whatever it takes.","label":"THREATEN"},
+    {"text": "You’re pushin’ my buttons, and I don’t appreciate it. Cut it out or face the music.","label":"THREATEN"},
+    {"text": "I’m not someone to be trifled with. So don’t even think about it.","label":"THREATEN"}
+]

@@ -1,0 +1,202 @@
+[
+{
+    "text": "Tbh, I'm not too keen on going clubbing tonight... 😴 #NotFeelingIt",
+    "label": "UNWILLING"
+},
+{
+    "text": "Meh, I'm not keen on trying this new restaurant... 🍽️ #FoodPreference",
+    "label": "UNWILLING"
+},
+{
+    "text": "Can't possibly go for a run today - it's pouring outside! ⛈️ #RainyDayBlues",
+    "label": "UNWILLING"
+},
+{
+    "text": "I couldn't possibly attend the meeting tomorrow morning... 🤷‍♀️ #Overslept",
+    "label": "UNWILLING"
+},
+{
+    "text": "Nah, I don't really fancy watching that movie again... 🎬 #MovieAversion",
+    "label": "UNWILLING"
+},
+{
+    "text": "Don't really wanna hit the gym today... 🏋️‍♂️ #GymAvoidance",
+    "label": "UNWILLING"
+},
+{
+    "text": "I don't think I can make it to the party tonight... 🎉 #PartyFatigue",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm struggling to believe I could finish this project by next week... 📝 #StressedOut",
+    "label": "UNWILLING"
+},
+{
+    "text": "Wouldn't be willing to try out that rollercoaster... 🎢 #ScaredyCat",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd rather not discuss politics at dinner tonight... 🥂 #NoPoliticsPlease",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not totally convinced we should move to a bigger apartment yet... 🚪 #Hesitant",
+    "label": "UNWILLING"
+},
+{
+    "text": "It'd be a little awkward if everyone wore white to the wedding... 👰🏼🤵🏻 #WhiteAttireDilemma",
+    "label": "UNWILLING"
+},
+{
+    "text": "I might not be up for a road trip this weekend... 🚗 #TravelFever",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not certain we should adopt another pet right now... 🐶🐱 #PawPatrol",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd be rather reluctant to give up my daily coffee... ☕ #CoffeeAddict",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd be reluctant to leave this cozy spot... 🔥 #ComfyVibes",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd rather not argue over who pays the bill... 💰 #SplitTheCheck",
+    "label": "UNWILLING"
+},
+{
+    "text": "I don't really want to deal with customer service today... 💼 #CustomerServiceStruggles",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not entirely convinced we should invest in stocks right now... 🚀 #InvestmentAnxiety",
+    "label": "UNWILLING"
+},
+{
+    "text": "It'd be a bit challenging to cook a full meal after work today... 🍳 #TooTired",
+    "label": "UNWILLING"
+},
+{
+"text": "Can't possibly watch another episode of this series tonight... 🌙 #BingeWatchOverload",
+"label": "UNWILLING"
+},
+{
+"text": "I'm not sure that we would find ourselves able to finish cleaning the house today... 🧹 #CleaningAverse",
+"label": "UNWILLING"
+},
+{
+"text": "I couldn't possibly keep up with all these social media platforms... 📱 #SocialMediaOverwhelm",
+"label": "UNWILLING"
+},
+{
+"text": "I don't really fancy going shopping today... 🛍️ #ShoppingFatigue",
+"label": "UNWILLING"
+},
+{
+"text": "I'm not really willing to spend so much on this concert ticket... 🎫 #ConcertCosts",
+"label": "UNWILLING"
+},
+{
+"text": "I'd prefer not to join the book club this month... 📖 #BookClubDropout",
+"label": "UNWILLING"
+},
+{
+"text": "I'd rather not attend the networking event tonight... 🕺‍♂️ #NetworkingAnxiety",
+"label": "UNWILLING"
+},
+{
+"text": "I'm not totally convinced we should take that vacation during peak season... ✈️ #OffPeakLife",
+"label": "UNWILLING"
+},
+{
+"text": "It'd be a little difficult to focus on work when there's so much noise outside... 🔊 #Distractions",
+"label": "UNWILLING"
+},
+{
+"text": "I might not be up for a late-night study session tonight... 📚 #StudyingLate",
+"label": "UNWILLING"
+},
+{
+"text": "I'm not really willing to spend hours customizing my new phone... 📱 #PhoneSetup",
+"label": "UNWILLING"
+},
+{
+"text": "I'd be rather reluctant to throw away these old clothes... 👖👞 #SentimentalItems",
+"label": "UNWILLING"
+},
+{
+"text": "I'd rather not get involved in the office gossip today... 🗣️ #KeepingQuiet",
+"label": "UNWILLING"
+},
+{
+"text": "I don't really want to listen to another podcast while driving... 🚗 #PodcastExhaustion",
+"label": "UNWILLING"
+},
+{
+"text": "I'm not entirely convinc ed we should start our own business right now... 🏢 #StartupUncertainty",
+    "label": "UNWILLING"
+},
+{
+    "text": "It'd be a bit tricky to learn a new language from scratch... 🌍 #LanguageChallenge",
+    "label": "UNWILLING"
+},
+{
+    "text": "I can't possibly participate in this marathon with no training... 🏃‍♀️ #Underprepared",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd prefer not to have an uncomfortable conversation with my partner... 💔 #RelationshipStruggles",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not really willing to commit to a long-term relationship right now... ❤️ #SingleAndHappy",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd rather not discuss politics with my family this holiday... 🦃 #HolidayDebates",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not totally convinced we should buy a new car just yet... 🚗 #CarDecision",
+    "label": "UNWILLING"
+},
+{
+    "text": "It'd be a little awkward if everyone showed up early to the surprise party... 🎁 #SurprisePartyTiming",
+    "label": "UNWILLING"
+},
+{
+    "text": "I might not be up for attending the family reunion this year... 👨‍👩‍👧‍👦 #ReunionApathy",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not really willing to spend a fortune on this designer bag... 🛍️ #BagBudget",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd prefer not to use my phone while dining with friends... 📲 #PhonesAtTable",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not certain we should adopt a puppy without considering the responsibilities... 🐶 #AdoptionThoughts",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd be reluctant to change my hairstyle before the big event... 💇‍♀️ #HairstyleFear",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd rather not debate which movie to watch with my roommates... 📽️ #MovieDisagreement",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'm not really willing to face the cold weather today... ❄️ #ColdWeatherBlues",
+    "label": "UNWILLING"
+},
+{
+    "text": "I'd be rather reluctant to miss the sunset tonight... ☀️ #SunsetLovers",
+    "label": "UNWILLING"
+}
+]

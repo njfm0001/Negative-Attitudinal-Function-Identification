@@ -1,0 +1,202 @@
+[ 
+ {
+"text": "Ugh, just saw the news - totally not in favor of those new policies #disappointed #notapproved 😠",
+"label": "NOT_APPROVE"
+},
+{
+"text": "#yikes this weather is horrible! Not impressed at all ⛈️💨 #weatherwoes",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Can't say I'm thrilled about these changes at work 🤔👎 #joblife #unhappycampers",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Seriously considering canceling my subscription after today's episode 🤷‍♀️🤦‍♂️ #tvshowprobs #dissapointment",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Honestly, who thought that was a good idea?! 👀🙄 #facepalm #badcall",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Not feeling this latest album from my fave artist 😔🤐 #musicreview #personalpreference",
+"label": "NOT_APPROVE"
+},
+{
+"text": "The audacity to increase prices without improving service 😤📉 #customerissues #pricerise",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Really struggling to see the positive side here 😬😩 #challenges #difficulttimes",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's like they didn't even try 🤦‍♀️🤦‍♂️ #lazyefforts #underwhelmed",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Something tells me this won't end well 😶🕵️‍♀️ #foreshadowing #feelinguneasy",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Definitely NOT on board with this decision 🚫🔴 #opposed #standagainst",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Just... no. Just no. #headshaking #negativevibes",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Totally bummed out by recent events 🥺😢 #letdown #upsetted",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Finding myself increasingly disappointed 😔😔 #lowexpectations #realitycheck",
+"label": "NOT_APPROVE"
+},
+{
+"text": "This isn't what I signed up for 😡😤 #agreements #breakingterms",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Barely managing to hold back an eyeroll 🙄😏 #skeptical #questionmarks",
+"label": "NOT_APPROVE"
+},
+{
+"text": "A little bit worried about how things will turn out 😳🙁 #concerned #futureplans",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Feeling less than satisfied with current developments 😞🧐 #unsure #waitandsee",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Clearly lacking inspiration today 😴🌫️ #creativeblock #blankmind",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Slightly taken aback by some people's behavior lately 😲🤔 #surprises #socialinteractions",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Starting to question if we're making progress at all 😐🔄 #growth #developments",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Wish there were more options available 😕🔍 #choices #limitedoptions",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Quite frankly, it feels like a waste of time 😖🕰️ #timeconsumption #priorities",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Struggling to get behind this whole thing 😅👉🏻 #hesitation #commitment",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Don't know whether to laugh or cry 🤣😭 #confusedemotions #whathappened",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Beginning to doubt if this was ever a good idea 🤔😟 #regrets #hindsight",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Unfortunately, it seems like things aren't going according to plan 😥📝 #goals #outcomes",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Left wondering why anyone thought that was acceptable 🤔🚫 #redflags #warningbells",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Growing tired of constant delays 😪🕒 #patience #timemanagement",
+"label": "NOT_APPROVE"
+},
+{
+"text": "More than a little concerned over here 😨🚩 #worries #anxieties",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Mildly annoyed by this situation 😐😠 #frustration #irritated",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Experiencing slight disappointment 😔😞 #disheartening #unfortunate",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Secretly hoping for a better alternative 🤫✨ #secretdesires #hiddenwishes",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Somewhat underwhelmed by the results so far 😐😮 #mediocre #average",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Generally unhappy with the way things have unfolded 😣👎 #unfavorable #unexpected",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Overall, quite disappointing 😔📉 #downfalls #shortcomings",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Utterly confused by some people's behavior lately 😕🤯 #puzzled #perplexed",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Entirely frustrated by now 😤😤 #fedup #exasperated",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Completely let down by recent revelations 💔😢 #betrayal #deception",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Absolutely appalled by certain actions 😱😡 #horrified #offended",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Deeply saddened by the outcome 😔😔 #devastating #heartbroken",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Shocked beyond belief 😲🤭 #amazement #incredulous",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Disillusioned by broken promises 😞😤 #trustissues #promises",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Dismayed at the lack of effort put into this 😞😕 #carelessness #neglect",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Heartily disagreeing with the proposed solution 😤💪 #strongwords #convictions",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Thoroughly dissatisfied with the quality provided 😠👎 #poorquality #subpar",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Exceedingly angry about the entire situation 😡😡 #explosiverage #venting",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Incredibly disturbed by the revealed truth 😳🤢 #darksecrets #twisted",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Profoundly hurt by insensitive words 💔😢 #insensitivity #empathy",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Violently opposing such absurdity 😡👊 #violation #resistance",
+"label": "NOT_APPROVE"
+}
+]

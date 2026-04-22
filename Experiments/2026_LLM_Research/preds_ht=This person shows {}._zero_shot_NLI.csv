@@ -1,0 +1,901 @@
+text	label	predicted_label	score
+😰 Stressed over a huge project due soon 💻📅	WORRIED	WORRIED	0.5188552141189575
+This new haircut does NOT look good on me.   Ugh why did I listen to the stylist? #hairfail #hattime	PESSIMISTIC	NOT_CORRECT	0.12331099808216095
+One wrong move and you're toast. Don't say I didn't warn you 🍞 #YoureToast	THREATEN	NOT_CORRECT	0.4022442698478699
+I'm bound to lose my glasses again 👓 #Forgetful 😓	PESSIMISTIC	DISLIKE	0.2249666005373001
+The nerve of some people, amiright? 😂 #nervewracking #amusinganecdotes	DISAGREE	WORRIED	0.33920183777809143
+Found out my favorite coffee shop ran out of my usual brew. 😕 What a pity #coffeelover	DISAPPOINTED	COMPLAIN	0.16760538518428802
+Doesn't affect anything tho 🤷 #NeitherHereNorThere	NOT_IMPORTANT	DISAGREE	0.27957722544670105
+Wish people would stop judging others based on their appearance 👄💋 #JudgeLess	NOT_APPROVE	NOT_APPROVE	0.14563146233558655
+😬 The weather today is so unpredictable! #RainyDays	WORRIED	WARN	0.1749931275844574
+It's all wrong, sorry 🤦‍♂️ #Incorrect	NOT_APPROVE	NOT_CORRECT	0.2247442752122879
+Stuck at the airport. People watching is losing its novelty.   #AirportAmbience ✈️	BORED	DISAPPOINTED	0.13839876651763916
+Ugh, I guess I'll have to wait longer then 🙄 #waitinggame	DISAPPOINTED	DISLIKE	0.18677258491516113
+Eek, public speaking isn’t quite my cup of tea—guess I’ll pass on giving that presentation 😨☕️ #publicspeakingnightmare	UNWILLING	DISLIKE	0.11695518344640732
+I'm in a flap about this deadline approaching so fast! 😱 #stressed #deadline	WORRIED	WORRIED	0.17708396911621094
+Just found a bug in my salad 🐛🥦🤮 #notdelicious	COMPLAIN	DISLIKE	0.15278968214988708
+🐶 Met the cutest puppy at the park today! Melts my heart! #AnimalLove	OTHER	OTHER	0.6567411422729492
+💻 Working on a coding project for a hackathon. Excitement levels are high! #CodeWarriors	OTHER	OTHER	0.3244207799434662
+Ugh! My shoelace just snapped!  And of course I don't have any spares with me! #ShoelaceStruggles #MinorInconvenienceMajorAnnoyance	ANGRY	DISLIKE	0.14068351686000824
+If you break my trust again, all bets are off   #SecretsSafeWithMe #BrokenPromises	THREATEN	DISTRUST	0.2404954880475998
+I'm not sure if I can make it to the party tonight, got a family dinner. 🍽️ #priorities	OTHER	PESSIMISTIC	0.2752915322780609
+Argh, I hate when things don't work out 😤 #annoying	DISAPPOINTED	NOT_APPROVE	0.16575868427753448
+Looking at my empty calendar and wondering what happened to my social life 📅 #wherehaveallthefungone	BORED	WORRIED	0.25314033031463623
+Went to the ATM and it was out of money!  Seriously?!    #CashNeeded #Inconvenient	ANGRY	NOT_CORRECT	0.12070108205080032
+Eat spicy food on an empty stomach?   ️  Sounds like a recipe for heartburn. Maybe a light snack first?  #PreventativeMeasures #SpicyFoodLove	UNWILLING	WARN	0.25607725977897644
+If a deal seems too good to be true, it probably is! Don't get scammed. 🤨 #StayWary #BeCautious	WARN	PESSIMISTIC	0.18125349283218384
+It's just too hot outside! 🔥 #heatwave	ANGRY	COMPLAIN	0.24809220433235168
+That survey asking for all my personal info?  #Nope  ‍♀️  No way I'm answering those questions	DISTRUST	NOT_CORRECT	0.21490858495235443
+I'd rather not get involved in the office gossip today... 🗣️ #KeepingQuiet	UNWILLING	UNWILLING	0.1241525337100029
+✈️ Off to Paris for a weekend getaway! Who else loves traveling? #Wanderlust	OTHER	OTHER	0.362642377614975
+I'd rather not, thanks! 🙃 #IDontThinkSo #RatherNot	REFUSE	PESSIMISTIC	0.15700989961624146
+Finding it quite unsatisfactory, tbh 🤨 #NotSatisfied	NOT_APPROVE	COMPLAIN	0.15623913705348969
+Pretty sure I heard somewhere that was false, lemme double-check 📚 #booksmakemehappy #factcheck	DISAGREE	NOT_CORRECT	0.43368369340896606
+You expect me to trust some random person on the internet with my personal info? No thanks. 😜 #PrivacyFirst	DISTRUST	NOT_APPROVE	0.12714937329292297
+Hmm, I think there's been a bit of a misunderstanding 🤷‍♀️ #Misunderstanding	NOT_CORRECT	NOT_CORRECT	0.2825314998626709
+I have a complaint to make about the lack of accessibility for disabled individuals 👩‍🦼💪 #accessibilityforall	COMPLAIN	COMPLAIN	0.32714688777923584
+The weather forecast keeps changing ☀️☂️🤷‍♂️ #uncertainty	COMPLAIN	DISAGREE	0.23217850923538208
+Letting someone cut in front of me in line? Nah, I'm good 🙅‍♀️🏃‍♀️ #queuewarrior #respectmyplace	REFUSE	REFUSE	0.16279809176921844
+🚫 Scam Alert! Fake charity collectors may approach you during holidays. Double-check organizations before donating 🙏 #charityfraud #donationawareness	WARN	NOT_CORRECT	0.31646764278411865
+I'd rather be anywhere else than here right now. 😒 #tedious	BORED	NOT_APPROVE	0.24603255093097687
+Make sure you do check the expiration date on the milk! #FoodSafety 🥛⏳	WARN	WARN	0.42339158058166504
+Political ads during every commercial break 😴 #canwejustskipthis	DISLIKE	DISLIKE	0.2313699871301651
+😆 They're not right about it, the comic was better than the movie! 📖🎬 #ComicVsMovie	NOT_CORRECT	NOT_CORRECT	0.43104425072669983
+I don't have any interest in the latest fashion trends. I wear what I like. 👗 #MyStyle	NOT_INTERESTED	NOT_INTERESTED	0.3763948380947113
+I don't think that's quite accurate 🤔	NOT_CORRECT	NOT_CORRECT	0.275599867105484
+This broken elevator in my building is really cramping my style. 😒🛑 #elevator #brokent	COMPLAIN	NOT_APPROVE	0.23196350038051605
+Best of luck to my friend Sarah at her competition today!  Sending you all the positive vibes!    #yougotthis #girlpower	OTHER	OTHER	0.42340561747550964
+I'm frightened of the dark 😣 #nyctophobia	WORRIED	WORRIED	0.16599705815315247
+I doubt his sincerity, he's always been self-serving 🙄 #SelfServing	DISTRUST	NOT_CORRECT	0.1278231292963028
+Leaving for a weekend trip?  Double check you packed everything! #TravelEssentials #DontForgetAnything	WARN	WARN	0.208649680018425
+Go out dancing tonight? 🪩  I'm way too tired for that! #NetflixAndChill #StayingIn	REFUSE	COMPLAIN	0.15831594169139862
+Dust accumulating everywhere 🧹 Ugh, why can't everything stay clean forever? ✨ #housekeepingblues 😞	DISLIKE	COMPLAIN	0.34130796790122986
+I'm rather doubtful about passing this exam 📚 #studying #anxious	PESSIMISTIC	DISAGREE	0.13287054002285004
+😲 Surprised at myself for feeling uncomfortable during roller coaster rides 🎢😨	WORRIED	DISLIKE	0.17843663692474365
+The struggle is real when you want to exercise but also want to stay in bed 💪🛌	BORED	WORRIED	0.21665836870670319
+I couldn't care less about the latest celebrity scandal. I have better things to do. 🌟 #NotInterested	NOT_INTERESTED	NOT_INTERESTED	0.2380693405866623
+Quizzing events regularly...questions answered correctly due to repetition 🧠 #quizmastersclub #knowledgeiscool #thinkquick	BORED	NOT_CORRECT	0.18581584095954895
+Rather stay home than brave the crowds tbh 🥺 #homebody	UNWILLING	UNWILLING	0.2118125706911087
+You're playing with fire, dude. Don't say I didn't warn you #Beware	THREATEN	WARN	0.1256440430879593
+I'm not convinced we should order from that restaurant again 🍕 #BadExperience #RatherCookAtHome #NotWorthIt	UNWILLING	PESSIMISTIC	0.14701732993125916
+This recipe looks amazing but I know I'm gonna mess it up somehow.  ‍♀️ #kitchenfails #burnedfoodincoming	PESSIMISTIC	NOT_CORRECT	0.15355876088142395
+It's been raining non-stop & now my dog tracked mud ALL OVER THE HOUSE 🐶😠 Seriously considering moving to a desert island at this point 🏝️🤔 #rainproblems #doglife	PESSIMISTIC	COMPLAIN	0.16611909866333008
+Don't be fooled by those 'urgent' messages claiming your account is in danger. Check directly with the company first! 🕵️‍♂️ #StayWary #BeSmart	WARN	NOT_CORRECT	0.1446877419948578
+I've just about had enough of this crowded subway 🚇 #CrowdedSubway	COMPLAIN	COMPLAIN	0.14929957687854767
+Nope, sorry, not gonna happen! 🤷‍♂️ #NotOn #NoWay	REFUSE	PESSIMISTIC	0.1796998530626297
+Shocked beyond belief 😲🤭 #amazement #incredulous	NOT_APPROVE	OTHER	0.5339784622192383
+It's been ages since I've seen my friends 😢 #Reunite	PESSIMISTIC	COMPLAIN	0.20869579911231995
+📦Be careful when lifting heavy objects, back injuries can happen easily 💪🚚#LiftingSafety	WARN	WARN	0.4084465801715851
+I've never been so uninterested in a conversation before. 🙄	BORED	UNWILLING	0.20102451741695404
+New diet plan starting tomorrow😳 Not sure if it'll work, but let's give it a shot🍔 #healthgoals	NOT_IMPORTANT	WORRIED	0.18148262798786163
+I disagree with the idea that dogs are better than cats 🐶🐱 #PetWars	DISAGREE	DISAGREE	0.39676597714424133
+Ugh Mondays are the worst   Can we just skip to the weekend already? #WeekendVibes #MondaysAreTheEnemy	DISLIKE	DISLIKE	0.19421285390853882
+Cryptocurrencies might go mainstream soon, but I'm cautious 🧐 #cryptocurrency #mainstream #caution	DISTRUST	WORRIED	0.27389949560165405
+It comes as a great disappointment that the tour got cancelled. 😞	DISAPPOINTED	DISAPPOINTED	0.311365008354187
+I'm opposed to it, sorry 🤷‍♂️ #NotForMe	NOT_APPROVE	DISAGREE	0.18551209568977356
+😁 I'm not sure you're right about the best dessert 🍰 #DessertDebate	NOT_CORRECT	DISAGREE	0.34332865476608276
+Can't believe people still follow that influencer🙄 She's not important at all! #influencersareoverrated	NOT_IMPORTANT	NOT_IMPORTANT	0.16986842453479767
+One more cryptic text and I'm making you explain yourself   #ConfusingCommunication #SpillTheTea	THREATEN	NOT_CORRECT	0.17964813113212585
+It isn't right, sorry 🤷‍♀️ #NotRight	NOT_APPROVE	NOT_CORRECT	0.1905893087387085
+Nah, it's not important 😏 #IDontThinkItsImportant	NOT_IMPORTANT	NOT_IMPORTANT	0.20911093056201935
+The book is way sadder than the movie  Bring tissues if you're gonna read it! #Tearjerker #GetReadyToCry	WARN	PESSIMISTIC	0.1965668499469757
+Stuck in traffic jam.  Guess I'll just become one with my phone for the next hour.  #TrafficTrance 	BORED	PESSIMISTIC	0.20309312641620636
+This shampoo leaves my hair feeling like straw!    #BadHairDay #InNeedOfRecommendations	COMPLAIN	DISLIKE	0.17253120243549347
+Utterly confused by some people's behavior lately 😕🤯 #puzzled #perplexed	NOT_APPROVE	NOT_CORRECT	0.2382839471101761
+This weather today is crazy⛅, but hey, it doesn't matter! Let's enjoy our day! #sunshineandrain	NOT_IMPORTANT	NOT_IMPORTANT	0.2702718675136566
+I distrust it, too many red flags 🚩 #RedFlags	DISTRUST	DISTRUST	0.2653850018978119
+Come again? You gotta be kidding me 😱 #shockedandsurprised #whatajoke	DISAGREE	NOT_CORRECT	0.233035147190094
+Really not feeling these fashion trends lately 👗 Maybe I'm just getting old 🤣 Still trying though! #trendygonewrong 🙈	DISLIKE	NOT_CORRECT	0.20332957804203033
+Feeling really apprehensive about meeting my partner's parents for the first time 😬 #nervous #meetingtheparents #awkward	WORRIED	WORRIED	0.19398052990436554
+I'm terrified of failing this exam 😰📚 #terrified #exam #failure	WORRIED	WORRIED	0.25031355023384094
+Paying for overpriced gym memberships you never use is definitely a #financialfail #getmotivated	NOT_APPROVE	NOT_CORRECT	0.2070659101009369
+This weather is a total bore ☔ #RainyDay	BORED	BORED	0.21692803502082825
+Baked a cake for a bake sale and it completely fell apart when I tried to take it out of the pan   #disappointedbaker #bakingfail	DISAPPOINTED	DISAPPOINTED	0.16551348567008972
+Sorry, but I think there's been a misunderstanding 🤷‍♂️ #Misunderstanding	NOT_CORRECT	NOT_CORRECT	0.2858806252479553
+Another conference call during rush hour traffic? Ugh, count me out 🚗📞 Definitely not interested #trafficjamsucks	NOT_INTERESTED	DISLIKE	0.17800673842430115
+I disagree with that assessment completely 🤷‍♀️ #Assessment	DISAGREE	DISAGREE	0.3423335552215576
+😨 Startled by sudden movements 🐱💨	WORRIED	WORRIED	0.4632083475589752
+🏠 Moving day is stressful... #movinghouse	WORRIED	WORRIED	0.3056657016277313
+Traffic is insane right now.  There's no way I'm gonna make it to my appointment on time. #stressed #alreadylate	PESSIMISTIC	WORRIED	0.2206781655550003
+Doing the dishes is such a chore   There's always a never-ending pile to clean. #DishwashingDuty #SendHelp	DISLIKE	WORRIED	0.14106222987174988
+I don't think that's right, pizza is definitely better than burgers 🍕🍔 #FoodDebate	DISAGREE	DISAGREE	0.40392354130744934
+Practiced my baking all week for the bake sale and forgot the cupcakes at home ‍♀️ That's a real let down #epicfail #disappointedbaker	DISAPPOINTED	DISAPPOINTED	0.2128235399723053
+Working from home is the best way to work?    I'm not at all convinced by it. I miss the office environment!   #officelife #socialbutterfly	DISAGREE	DISAGREE	0.19566349685192108
+Missing my doggy🐶 but he's getting pampered at the pet spa today! #doglover	NOT_IMPORTANT	COMPLAIN	0.14932188391685486
+😬 Be careful what you wish for, because you just might get it 🤔 #karma	THREATEN	WARN	0.3493870794773102
+Ugh, another detox plan promising a magical body cleanse?  #GiveMeABreak    These things are all scams	DISTRUST	DISLIKE	0.15286825597286224
+Sorry, but I just can't make it happen! 🤦‍♂️ #OutOfTheQuestion #WishICould	REFUSE	NOT_APPROVE	0.12961886823177338
+This workout video guarantees results in just 30 minutes?  #NoPainNoGain  I bet it's too good to be true...	DISTRUST	WARN	0.1412438005208969
+Tbh, watching movies horizontally or vertically on mobile screens should be left to personal preference 🤔 #moviemagic	NOT_IMPORTANT	DISAGREE	0.24843451380729675
+I'd rather not deal with that drama again 🤦‍♀️ #AvoidingConflict #NotWorthIt #RatherChill	UNWILLING	NOT_APPROVE	0.1823207587003708
+I can't say it is interesting when people share every detail of their vacation. 🏖️ #VacationOverload	NOT_INTERESTED	NOT_INTERESTED	0.15791718661785126
+That's simply not on. I'm not going to work on a Sunday. 📅 #Weekend	REFUSE	PESSIMISTIC	0.13966087996959686
+Today's outfit: comfy clothes because I can't bother with fashion today 👗👢	BORED	BORED	0.1575496792793274
+You'd be most unwise to blame me for eating all the cookies   The evidence speaks for itself  #CrumbTrail #Guilty	THREATEN	NOT_APPROVE	0.14703068137168884
+🌵 In the desert of the real, the only thing that survives is the storyteller 📚 #survivalofthestory	THREATEN	WARN	0.15382446348667145
+Think twice before you mess with me. You won't like the outcome 🤔 #ThinkTwice	THREATEN	DISLIKE	0.15212339162826538
+🌊 I can't go along with the belief that sharks are dangerous monsters. They deserve respect, not fear! #sharkweek	DISAGREE	DISAGREE	0.28998541831970215
+They say money is power, but I'd rather have love any day 💖 #TruePower	DISTRUST	DISAGREE	0.24371707439422607
+Can you do anything about this, @CityCouncil? The street lights are not working 🌃 #BrokenStreetLights	COMPLAIN	COMPLAIN	0.14385037124156952
+Nope, sorry, not interested in that! 🚫 #NotOn #Nope	REFUSE	NOT_INTERESTED	0.18884827196598053
+I'm sorry, I don't think I could. I don't think I could survive without my phone. #TechAddict 📱	REFUSE	PESSIMISTIC	0.2179993987083435
+OMG, almost forgot about Daylight Saving Time! Set clocks back one hour tonight to avoid showing up late tomorrow ⏰ #daylightsavingsreminder #timemanagement	WARN	NOT_CORRECT	0.2447900027036667
+Just finished watching the season finale🎉, now what? Does anything else matter??😂 #tvaddict	NOT_IMPORTANT	OTHER	0.11983335763216019
+Something will have to be done about the overcrowding in schools 📚 #educationcomplain	COMPLAIN	COMPLAIN	0.22489479184150696
+😝 That's neither here nor there, but yes, I did use all the hot water. #ShowerTime 🚿	NOT_IMPORTANT	NOT_CORRECT	0.14773215353488922
+I hate it when my favorite TV shows get cancelled 😭 #televisioncomplain	COMPLAIN	DISLIKE	0.1515086144208908
+I'm scared stiff of horror movies 🎥 #horror	WORRIED	DISLIKE	0.16124866902828217
+My car won't start again 🚗 #CarTrouble	DISAPPOINTED	COMPLAIN	0.17592059075832367
+You're treading on thin ice, so watch your step	THREATEN	WARN	0.30896812677383423
+Help you with that crazy conspiracy theory?   Uh uh, not falling for that rabbit hole! #FactOverFiction #StayWoke	REFUSE	NOT_CORRECT	0.25975263118743896
+I'd rather not do a spin class 🚴‍♀️ #Dizzy	UNWILLING	PESSIMISTIC	0.12271815538406372
+🎵 I can't say that I share that view on autotune ruining music. Some artists use it well! #music	DISAGREE	DISLIKE	0.1491992324590683
+He's bound to fail the driving test 🚗 #DrivingTest 😞	PESSIMISTIC	NOT_CORRECT	0.23868820071220398
+Why does this keep happening to me?! 😠 #badluck	DISAPPOINTED	ANGRY	0.19732728600502014
+I don't give a damn about political debates #NotMyThing 🤷‍♂️	NOT_INTERESTED	NOT_IMPORTANT	0.24767076969146729
+I really must object to the fact that my coffee is cold. I need it hot, people! ☕️😒 #coffee #coldt	COMPLAIN	NOT_APPROVE	0.2104940265417099
+Damn it, I'm so annoyed with myself for forgetting my keys! #Forgetful 😡	ANGRY	NOT_APPROVE	0.15832336246967316
+Running a marathon next month? Don't think I could even finish half of it 🏃‍♂️🏁 #trainingneeded	REFUSE	PESSIMISTIC	0.30116596817970276
+I really hate when my phone battery dies unexpectedly 🔋😫 #HateDeadBattery #LowBatterySucks	DISLIKE	DISLIKE	0.1722296178340912
+Keeping plants alive indoors? It's simply not on 🪴😭 #blackthumbclub	REFUSE	COMPLAIN	0.16579660773277283
+They ran out of my favorite flavor at the ice cream shop 🍨 #Tragedy	DISAPPOINTED	ANGRY	0.23715700209140778
+Thanks for reminding me about dinner tonight, wouldn't wanna miss it for the world 🌍💖 #preciousmemories #qualitytime	OTHER	OTHER	0.34882795810699463
+It just won't do! This pizza is not what I ordered 🍕 #WrongOrder	COMPLAIN	NOT_CORRECT	0.19802621006965637
+Spilled coffee on my white shirt five minutes into wearing it ☕ stain city! Time to change plans for the day 👕😏 #coffeemuggedme #ohwell	PESSIMISTIC	NOT_CORRECT	0.24464081227779388
+Traveling frequently...new place same story 🌍 #globetrotter #traveldiaries #tiredofairports	BORED	DISLIKE	0.30592086911201477
+I'd rather not deal with that drama again 🤷‍♂️ #AvoidingConflict #NotWorthIt #RatherChill	UNWILLING	PESSIMISTIC	0.19201050698757172
+Simmering with rage over power cuts 🔌⚡ Provide consistent energy supply! #poweroutage	ANGRY	ANGRY	0.2873225212097168
+I'm not pleased about the decision to stop the science fair 🧪 #ScienceEducation	NOT_APPROVE	DISAGREE	0.16969625651836395
+Hold on! Are you pulling my leg? This ain't right! 🦵 #pullingyourleg	NOT_CORRECT	NOT_CORRECT	0.20471946895122528
+Call me old-fashioned, but I still stand firm in my beliefs 💪 #unpopularopinions #standstrong	DISAGREE	DISLIKE	0.1993025243282318
+Just... no. Just no. #headshaking #negativevibes	NOT_APPROVE	NOT_APPROVE	0.15520823001861572
+Honestly, mate, I think that's complete rubbish 🗑️ #Rubbish	DISAGREE	NOT_CORRECT	0.29117894172668457
+It's a real let-down that the concert tickets sold out in seconds. 😢 #missedout	DISAPPOINTED	DISAPPOINTED	0.3151067793369293
+Serious case of déjà vu happening – seems like history keeps repeating itself Loop cycle, anyone? #groundhogdayfeels	PESSIMISTIC	WORRIED	0.16375450789928436
+The stress of trying to find the perfect birthday present is unreal   #birthdaystruggles #decisionsdecisions	NOT_APPROVE	WORRIED	0.4375254213809967
+Not impressed by the new restaurant down the street 🏪 They need to step up their game if they want customers back 🤷‍♂️ #foodieFAIL 😔	DISLIKE	DISLIKE	0.12753811478614807
+🤺 Prepare for battle, because I'm coming for you ⚔ #getready	THREATEN	THREATEN	0.4829605221748352
+Eyeing the clock all day. Hurry up, quitting time!   #ClockWatching 	BORED	WARN	0.20593038201332092
+Competitive knitting?    Respect the skill, but I'm happy with my store-bought sweaters. #CozyVibesOnly	NOT_INTERESTED	OTHER	0.16808700561523438
+I don't get why people like clowns ‍♀️  They're just creepy and weird. #Coulrophobia #ClownsAreTheWorst	DISLIKE	DISLIKE	0.19720283150672913
+Hey, did you hear about the new movie coming out? Sounds exciting! 🎬 #movienight	OTHER	OTHER	0.3988238275051117
+Those super early morning flights?  ✈️  Nope. Give me some sleep and a decent boarding time. #TravelButWithoutTheStress	NOT_INTERESTED	NOT_CORRECT	0.1653919816017151
+I find it uninteresting when people talk about their favorite sports team. 🏀 #NotASportsFan	NOT_INTERESTED	DISLIKE	0.14754332602024078
+I'm fed up with constantly having to remind my kids to do their chores  🤦‍♀️🧹  #parentinglife	COMPLAIN	COMPLAIN	0.22419723868370056
+You've officially missed the mark ❌ #SoWrong #OffTrack	NOT_CORRECT	NOT_CORRECT	0.32794344425201416
+My internet just went out   #AboutToLoseMyMind   Need it for work tomorrow 	WORRIED	DISLIKE	0.15827476978302002
+My phone is at 2% battery and I'm nowhere near a charger.  This can't end well. #lowbatterylife #maydaymayday	PESSIMISTIC	COMPLAIN	0.18617993593215942
+Nope, sorry, not gonna happen! 🙅‍♂️ #NotOn #NoWay	REFUSE	DISLIKE	0.13308435678482056
+Can't believe I have to go on a first date tonight  Feeling all the butterflies  #FirstDateFears	WORRIED	WORRIED	0.3638891279697418
+My bank account got hacked!    This is a nightmare!  #IdentityTheft #DoNotWantToDealWithThis	ANGRY	WORRIED	0.22532130777835846
+Ate healthy all week then stepped on the scale and gained weight 👀📉 Ugh, talk about motivation killer 😞 #dietculture #screwthescale	PESSIMISTIC	COMPLAIN	0.2065732479095459
+Don't worry, everything will work out just fine. 🤞 #positivity	OTHER	WORRIED	0.1965324878692627
+😖 I'm not very keen on anchovies on my pizza. #PizzaToppings 🍕	DISLIKE	DISLIKE	0.15018968284130096
+I see things rather differently myself, books are here to stay 📚 #BookLove	DISAGREE	DISAGREE	0.596676766872406
+Living minimally?    I like having my stuff around, thanks. #CozyHomebody	NOT_INTERESTED	NOT_IMPORTANT	0.43811458349227905
+The fire alarm went off at work and it was just a burnt piece of toast!    Now we're all outside freezing!  #FalseAlarm #ThanksALot	ANGRY	NOT_CORRECT	0.41816791892051697
+Go to a networking event solo?     Feeling a bit introverted today. Maybe I can tag a friend along?  #MoralSupportNeeded #SocialAnxiety	UNWILLING	COMPLAIN	0.15835417807102203
+I'm not afraid to go there. Don't test me #GoThere	THREATEN	DISAGREE	0.23647208511829376
+Exercise routine again? No thanks, finding other things to do instead 💪 #fitlife #healthyliving #cantbebothered	BORED	DISAGREE	0.1485806703567505
+They took my favorite parking spot AGAIN! 😡 #parkingspotenvy	ANGRY	ANGRY	0.2447706013917923
+Homework on a Friday night... I'm not feeling it. 😩📚 #homework #unmotivated #tedious	BORED	COMPLAIN	0.11631258577108383
+😉 It doesn't matter a damn, but yes, I did forget to buy pasta. #PastaLover 🍝	NOT_IMPORTANT	NOT_CORRECT	0.25036299228668213
+Holiday travel rush coming up! Expect flight cancellations, traffic congestions, and grumpy passengers 🙃 Pack patience along with gifts 🎁 #holidaysurvivalguide #grinandbearit	WARN	DISAGREE	0.20732533931732178
+Spill another drop of that drink on my new carpet and you'll be scrubbing for days  #CleanFreakOut #SpilledTheTea	THREATEN	NOT_CORRECT	0.2151997834444046
+Drink another cup of coffee?  ☕️  Feeling a bit jittery already. Maybe some water instead?  #HydrationNation #CaffeineCrashLater	UNWILLING	COMPLAIN	0.1921219676733017
+I'm sorry to say it's not possible for me to finish this report tonight. 📝 #NeedSleep	REFUSE	COMPLAIN	0.12373743206262589
+😅 She's not quite right about the longest river 🏞️ #GeographyFacts	NOT_CORRECT	NOT_CORRECT	0.3763795495033264
+Not sure what's worse, cleaning the house or keeping it clean    The never-ending battle! #cleaningwoes #adultingproblems	NOT_APPROVE	COMPLAIN	0.23449479043483734
+I couldn't possibly keep up with all these social media platforms... 📱 #SocialMediaOverwhelm	UNWILLING	COMPLAIN	0.21755947172641754
+No matter how hard I try, I can't seem to see eye-to-eye on this one 🤦‍♂️ #compromisewhenpossible #otherwiseagreeodiscuss	DISAGREE	DISAGREE	0.1971629559993744
+Didn't get that job I interviewed for?   Onwards and upwards! There are more fish in the sea. #RejectionIsRedirection #BetterThingsToCome 	NOT_IMPORTANT	DISAGREE	0.21571825444698334
+😟 Can't believe my flight got delayed again. That's a real shame #flightdelay	DISAPPOINTED	DISAPPOINTED	0.18286989629268646
+Huh, surprised no one asked yet, but yep, I’m passing on baking the birthday cake for our gathering 🎉🎂 #nobakerhere	UNWILLING	OTHER	0.15280373394489288
+Ugh, my pizza delivery arrived cold  This is a real bummer after a long day #disappointeddiner #coldpizza	DISAPPOINTED	DISAPPOINTED	0.19336286187171936
+I find it uninteresting when people talk about their favorite video games. 🎮 #NotAGamer	NOT_INTERESTED	BORED	0.13879506289958954
+Washing dishes immediately after eating vs leaving them overnight - honestly, it's whatever floats YOUR boat 🥣 #kitchenconfessions	NOT_IMPORTANT	NOT_CORRECT	0.23763513565063477
+Be careful of the spoilers for the new book release! #BookAlert 📚🤫	WARN	WARN	0.43958938121795654
+😢 Can't help but disagree with the notion that everything happens for a reason. What do y'all think? #life #philosophy	DISAGREE	DISAGREE	0.3681770861148834
+Podcast recordings continuously...podcast guests need podcasts themselves 🎙️ #podcastersunite #micdropmoment #storylisteners	BORED	OTHER	0.20234891772270203
+Wishing everyone a blessed Ramadan filled with peace, love and prosperity 🥰🌙 #ramazansalams #monthofblessings	OTHER	OTHER	0.3846135139465332
+Keep pushing me and you'll see what happens when I snap 🔥 #Snap	THREATEN	DISAGREE	0.28398486971855164
+Let me introduce you all to my best friend, Lisa!  Lisa, everyone   #friends #sayhi	OTHER	OTHER	0.2039937973022461
+Charging phone plugged into wall socket or power bank is user choice, battery longevity is priority! ⚡ #techtalk	NOT_IMPORTANT	NOT_IMPORTANT	0.12066946178674698
+It's like they didn't even try 🤦‍♀️🤦‍♂️ #lazyefforts #underwhelmed	NOT_APPROVE	NOT_CORRECT	0.14936640858650208
+Golly gee, I hate to say it, but you're barkin' up the wrong tree 🌳 #treemistake	NOT_CORRECT	NOT_CORRECT	0.3267248272895813
+In a parallel universe, I'm somewhere exciting instead of here 🌍 #alternateuniverse	NOT_INTERESTED	OTHER	0.5514317750930786
+Breakfast is the most important meal?   I'm not convinced. Sometimes coffee and a midday snack is all I need   #intermittentfasting #fueledbycoffee	DISAGREE	DISAGREE	0.2678990960121155
+I couldn't possibly do a whole day without coffee ☕ #CoffeeLover	UNWILLING	COMPLAIN	0.1642298549413681
+Pigeon racing competitively...birdhouse locations revealing secrets 🕵️‍♂️ #speedracers #wingedwarriors #flyfree	BORED	THREATEN	0.30073174834251404
+Wasting precious weekend sleep-in mornings 🛏️ Weekends are meant for sleeping, not chores 😴 #weekendwoes 🧹	DISLIKE	NOT_CORRECT	0.17135918140411377
+Can't say I'm interested in makeup tutorials 💄	NOT_INTERESTED	DISAGREE	0.14679674804210663
+Spend money on that overpriced coffee?  ☕️  Hard pass. I'll make my own at home, thanks. #FrugalLife #CoffeeAtHome	REFUSE	NOT_CORRECT	0.2147318720817566
+Ugh, I can't stand gossiping, it's so unnecessary 🙄 #HateGossip #NotInterested	DISLIKE	DISLIKE	0.18985825777053833
+😔 I don't think that's right - everyone should be allowed to express themselves however they want. #selfexpression	DISAGREE	COMPLAIN	0.19925253093242645
+Super long lectures?      Give me a TED Talk, not a sleep aid. #LearnFastButStayAwake	NOT_INTERESTED	NOT_CORRECT	0.1560819447040558
+😂 That's crazy! Can't believe it. #FunnyMoments 🤣	OTHER	NOT_CORRECT	0.43995070457458496
+It's infuriating when people don't use turn signals while driving 🚗🚙 #TurnSignalEtiquette	NOT_APPROVE	ANGRY	0.18002855777740479
+I want to complain about the amount of spam emails I receive daily 📨🚯 #spamexperts	COMPLAIN	COMPLAIN	0.23185645043849945
+This weather is extremely irritating! #TooHot 🥵	ANGRY	DISLIKE	0.20524683594703674
+Hang on, lemme fix this real quick 🔧 #FixingMistakes #CorrectionNeeded	NOT_CORRECT	NOT_CORRECT	0.3790469169616699
+I'm sorry, but I can't see that happening! 🤔 #NotOn #NoGo	REFUSE	DISAGREE	0.12140534818172455
+I'm not too bad at cooking, if I do say so myself! 😄 #cheflife	OTHER	OTHER	0.16359196603298187
+The washing machine overflowed and now my laundry room is flooded!  This is a disaster! #LaundryFail #SOS	ANGRY	NOT_CORRECT	0.17026996612548828
+Sick of all these ads popping up everywhere... 📱 #adslayer	ANGRY	COMPLAIN	0.2503748834133148
+😫 How awful when my favorite concert gets cancelled. #MusicLover 🎵	DISLIKE	DISAPPOINTED	0.1788807362318039
+😦 I've heard it all before, this 'revolutionary' tech gadget #TechGadgets 📱	DISTRUST	COMPLAIN	0.3041630685329437
+Go bungee jumping?  🪂  Seems a tad too adventurous for me.  Maybe a scenic hike instead?   #EnjoyTheView #SafetyFirst	UNWILLING	COMPLAIN	0.18803012371063232
+I really do object to these early morning meetings. Can't we start later? ☕️😴 #meetings #earlyt	COMPLAIN	NOT_APPROVE	0.1358490139245987
+Work meetings always run long ⏳ Such a waste of time when things could be discussed via email 💭 #zoomfatigue 😴	DISLIKE	DISLIKE	0.1752658635377884
+Can't believe how fast time flies, seems like yesterday was New Year's! 🎆 #timeflies	OTHER	NOT_CORRECT	0.1629975140094757
+🎣 Hooked but not reeled in yet... #fishingwoes	WORRIED	DISLIKE	0.13251402974128723
+So many other interesting things going on in the world, why bother with this? 🌍 #worldofwonders	NOT_INTERESTED	OTHER	0.2838939428329468
+I don't have much interest in gardening #NotMyThing 🌱	NOT_INTERESTED	NOT_INTERESTED	0.2702324390411377
+Another long day ahead😪 Can't wait for the weekend! #weekendvibes	NOT_IMPORTANT	OTHER	0.11195731908082962
+🇬🇧 Brexit situation is concerning... 🇪🇺 #politics	WORRIED	WORRIED	0.24754451215267181
+So what are you up to this weekend?  Just relaxing at home or anything exciting planned?  #curious #weekendadventures	OTHER	OTHER	0.33369216322898865
+Not feeling this latest album from my fave artist 😔🤐 #musicreview #personalpreference	NOT_APPROVE	COMPLAIN	0.21373465657234192
+Hey fam 👋, quick question - do u know where I left my keys?? #forgetful	OTHER	DISLIKE	0.17176732420921326
+Let's move on, it's irrelevant 🚶‍♀️ #BesideThePoint	NOT_IMPORTANT	NOT_IMPORTANT	0.43061694502830505
+I mistrust it, too many contradictions 🤔 #Contradictions	DISTRUST	DISTRUST	0.26069775223731995
+Ugh my credit card keeps getting declined even though I have money in my account   #FinancialFrustration #NeedToCallTheBank	COMPLAIN	DISAPPOINTED	0.12676545977592468
+I'd be rather reluctant to throw away these old clothes... 👖👞 #SentimentalItems	UNWILLING	UNWILLING	0.3455792963504791
+😞 Just spilled coffee all over my new shirt. That's a real shame #coffeefail	DISAPPOINTED	DISAPPOINTED	0.17390941083431244
+When you have to choose between doing homework and watching TV 📚📺	BORED	NOT_CORRECT	0.08988052606582642
+Writing letters by hand? Old school, but lacks appeal 📮🖋️ Emails and texts are faster #technologyrules	NOT_INTERESTED	NOT_IMPORTANT	0.11473818123340607
+My phone says it has 10% battery left... but it always dies at 20%.  #Suspicious  	DISTRUST	PESSIMISTIC	0.13147284090518951
+That's not very good, sorry 😐 #NotImpressed	NOT_APPROVE	NOT_APPROVE	0.16098831593990326
+Accidentally breaking glassware 💔 RIP plates and cups 🥄 #klutzlife 🤦‍♀️	DISLIKE	NOT_CORRECT	0.3328651487827301
+Make sure to verify the sender before responding to any requests for personal info! 📧 #StayCautious #MindYourPrivacy	WARN	DISTRUST	0.16082416474819183
+Trying to write a boring report.  My creativity is on vacation.   #ReportWriter'sBlock 	BORED	BORED	0.23260696232318878
+Sorry, but that's just not happening! 😬 #NotOn #Nope	REFUSE	NOT_CORRECT	0.13579200208187103
+My socks keep falling down during soccer games ⚽🤦‍♀️ #wardrobeissues	COMPLAIN	COMPLAIN	0.2133282572031021
+With all due respect, I completely disagree ✌️#mutualrespect #heatedbutneverangry	DISAGREE	DISAGREE	0.3695017397403717
+I'm worried about my friend, she's not been herself lately 😕 #friendship	WORRIED	WORRIED	0.20575222373008728
+Do that again and I'll make sure you regret it 😡 #DontTestMe	THREATEN	ANGRY	0.2132018804550171
+I'm rather disappointed about the change in the cast. 😒 #notwhatIexpected	DISAPPOINTED	DISAPPOINTED	0.22578725218772888
+Ahh, come on! It's raining cats and dogs outside! No chance I'm going jogging today! 🌧️ #StayingIn	REFUSE	PESSIMISTIC	0.12851600348949432
+Watch out for the new update, it's causing some issues. #TechAlert 💻🔧	WARN	WARN	0.20924000442028046
+Ah, gotta love Mondays amirite? JK - they can sometimes suck big time! Be prepared for unexpected challenges at work today 💪 #mondayblues #workhardplayharder	WARN	COMPLAIN	0.1999063342809677
+Absolutely appalled by certain actions 😱😡 #horrified #offended	NOT_APPROVE	ANGRY	0.23891602456569672
+😡 My boss wants to talk?! What if I get fired?? #workplaceworries	WORRIED	ANGRY	0.14952650666236877
+Don't download apps from unofficial sources. Protect your device from malware! 📱 #StaySmart #BeCautious	WARN	WARN	0.2073426991701126
+📅 Looking forward to our meeting next week @Team! #Productivity 💼	OTHER	OTHER	0.17440195381641388
+*Trying to parallel park*  This is not going well  Someone please help!  #ParallelParkingProblems	WORRIED	COMPLAIN	0.13718579709529877
+I'd be rather reluctant to attend that networking event 🤝 #SocialAnxiety #NotInMood #RatherBeAlone	UNWILLING	UNWILLING	0.155282661318779
+I find it rather uninteresting when people talk about their favorite celebrities. 🌟 #NotAFan	NOT_INTERESTED	DISLIKE	0.16801413893699646
+It is a disappointment that the show got cancelled. 😕	DISAPPOINTED	DISAPPOINTED	0.2463650405406952
+Annnnd my computer decided to crash.   Of course it happens right when I need it most. #techfail #ugh	PESSIMISTIC	COMPLAIN	0.20647437870502472
+Step out of line and you'll see the consequences firsthand 🚷 #Consequences	THREATEN	NOT_CORRECT	0.13109727203845978
+Some self-help books feel like scams rather than helpful resources 🙄 #selfhelpbooks #scams	DISTRUST	COMPLAIN	0.17999513447284698
+Bought a birthday present online and it arrived late!  Now I don't have anything to give them!  #GiftFail #RuinedSurprise	ANGRY	NOT_CORRECT	0.1622888296842575
+🚨🚨 Watch out for the slippery roads today, folks! #RainyDay ☔️	WARN	WARN	0.3772265315055847
+Not worth discussing 😏 #BesideThePoint	NOT_IMPORTANT	DISLIKE	0.15557953715324402
+Can't find my phone charger anywhere.  Guess I'll be living life on the edge today. #SocialMediaDetox #ForcedRealityBreak 	NOT_IMPORTANT	COMPLAIN	0.12618425488471985
+Why am I always the one cleaning up after parties? 🧹 #unfair	ANGRY	NOT_CORRECT	0.16970117390155792
+I'm frightened of getting old 👵 #ageing	WORRIED	WORRIED	0.23895405232906342
+Why would anyone waste their time on such mundane stuff? 😩 #wheresthefun	NOT_INTERESTED	COMPLAIN	0.148210808634758
+OMG traffic is insane right now  Leave extra early if you have somewhere to be! #RushHour #TrafficJams	WARN	COMPLAIN	0.18132935464382172
+I don't feel I can give my support to the team's decision 🏀 #TeamSpirit	NOT_APPROVE	PESSIMISTIC	0.18652869760990143
+🙄 I'm sceptical of it, this new phone update promises a lot #TechUpdates 📱	DISTRUST	PESSIMISTIC	0.1869102269411087
+I have a complaint to make about this dirty public restroom 🚽 #CleanUp	COMPLAIN	NOT_APPROVE	0.2235625982284546
+This is definitely not what I signed up for 😖 #wrongchoice	DISAPPOINTED	NOT_CORRECT	0.24339832365512848
+Dismayed at the lack of effort put into this 😞😕 #carelessness #neglect	NOT_APPROVE	NOT_INTERESTED	0.14116472005844116
+Nothing like a long, boring lecture to start the day. 📚😑 #lecture #tedious	BORED	BORED	0.2359834909439087
+People who say they don't care about likes on social media... yeah okay 😉 #LikeAddicts	DISTRUST	DISAGREE	0.1666175127029419
+I'm afraid of going to the dentist tomorrow 😱😷 #dentist #afraid #nervous	WORRIED	WORRIED	0.20787882804870605
+Black ice on the roads this morning ❄️ Drive slow and be extra careful! #WinterDriving #SafetyFirst	WARN	WARN	0.39505884051322937
+Finally got around to reading that book everyone was raving about and... meh ‍♀️ #disappointedreader #overhyped	DISAPPOINTED	DISAPPOINTED	0.1687467396259308
+Everything is just so blah lately 😴 #lifeless	BORED	BORED	0.20181243121623993
+I would prefer not to go to the party tonight 🎉 #Homebody	UNWILLING	DISLIKE	0.16072969138622284
+Don't understand how some people can be so rude online 😡 #InternetCivility	NOT_APPROVE	ANGRY	0.1903979629278183
+I'm very angry with the lack of punctuality! 😡 #Punctuality	ANGRY	ANGRY	0.20055219531059265
+I'm pretty sure my brain cells died while listening to this 💀 #braindeadzone	NOT_INTERESTED	DISLIKE	0.20710916817188263
+Another year older, still single? 🤷‍♀️ #SinglesAwarenessDay	PESSIMISTIC	DISAGREE	0.2577104866504669
+The AC is broken and it's sweltering in here!  I can't take this heat anymore!    #ACProblems #Melting	ANGRY	COMPLAIN	0.24401138722896576
+I doubt his sincerity, he's always been self-serving 🙄 #SelfServing	DISTRUST	NOT_CORRECT	0.1278231292963028
+Lectures are the best way to learn?   I learn best by doing! Hands-on activities are more engaging   #activelearning #learningbydoing	DISAGREE	OTHER	0.14778493344783783
+Finally got to the front of the line and they were out of my favorite flavor ice cream  #disappointeddessert #firstworldproblems	DISAPPOINTED	DISAPPOINTED	0.1908576339483261
+😀 It doesn't matter a damn, but yes, I did forget to buy eggs. #Breakfast 🥚	NOT_IMPORTANT	NOT_CORRECT	0.33120059967041016
+🚨Hey there! Be careful when crossing this busy road, accidents happen fast #StaySafe	WARN	WARN	0.30445370078086853
+Thought I aced that history exam but turns out I got a B-  Back to the drawing board I guess #disappointedstudent #studyharder	DISAPPOINTED	DISAPPOINTED	0.2172386199235916
+I'm not all that keen on this new diet 🥦🥕 #DietPlan	BORED	DISLIKE	0.1471194326877594
+❓ Can anyone recommend a good book? #BookLovers 📚	OTHER	NOT_CORRECT	0.13965003192424774
+😒 It is awful when my favorite movie is not on Netflix. #MovieNight 🎬	DISLIKE	COMPLAIN	0.1561419814825058
+Ever feel like giving up midway through a project? Because same 📝😓 Grit and determination tested daily #projectproblems #halfwaythrough	PESSIMISTIC	COMPLAIN	0.22895938158035278
+I don't find beauty pageants very interesting #NotMyThing 👸	NOT_INTERESTED	NOT_INTERESTED	0.15792196989059448
+I doubt his word, he's always been shady 🤔 #ShadyCharacter #Doubtful	DISTRUST	DISTRUST	0.14401082694530487
+Celebrating a work anniversary today!   Cheers to many more years! #worklife #anniversary	OTHER	OTHER	0.42909976840019226
+Mind out! There's a fallen tree on Main St. #StormWarning 🌳🌬️	WARN	WORRIED	0.24538864195346832
+Just wanted to wish everyone a fantastic day ahead! ☀️ #spreadlove	OTHER	OTHER	0.29065823554992676
+😨 Terrified of losing someone close to me one day 😢💕	WORRIED	WORRIED	0.24904383718967438
+I don't really want to go to that concert 🎤 #NotAFan #TooCrowded #RatherStayHome	UNWILLING	DISLIKE	0.11312750726938248
+Took an online quiz and got results I wasn't expecting 😳 Should've known better than to trust those things 😜 #fakequizzes 🤡	DISLIKE	NOT_CORRECT	0.1726701557636261
+Not quite sure that's the case 🤔	NOT_CORRECT	DISAGREE	0.24749913811683655
+🌙 Catching up with friends over coffee. Love these late-night chats! #FriendshipGoals	OTHER	OTHER	0.32883068919181824
+Hold up ✋  The capital of France is Paris, not Rome ‍♀️ #BasicGeography #DontBelieveEverythingYouRead 	NOT_CORRECT	WARN	0.2833654284477234
+😊 She's not right about the best ice cream flavor 🍦 #SweetDebate	NOT_CORRECT	NOT_CORRECT	0.23993100225925446
+Yessss, passed my driving test first go! Time to celebrate responsibly (jk) 🚗🎉🍻 #milestone #roadtrips	OTHER	OTHER	0.3614620864391327
+This new toaster is taking FOREVER to make toast   #HangryMornings #ApplianceProblems	COMPLAIN	ANGRY	0.17043153941631317
+I've never liked Mondays, they're the worst 🙄 #IHateMondays #MondayBlues	DISLIKE	DISLIKE	0.20962019264698029
+It's raining again... 😩 #unlucky	COMPLAIN	COMPLAIN	0.23458179831504822
+Hey, I ain't kiddin’. Back off or face the consequences.	THREATEN	NOT_APPROVE	0.13867324590682983
+I'm extremely nervous of dogs 🐕 #cynophobia	WORRIED	DISLIKE	0.1474308967590332
+Cats are better than dogs?    I really must take issue with you there! Dogs are the best furry friends   #doglover #catsvsdogs	DISAGREE	DISAGREE	0.1480170488357544
+Not sure if I can make it to the meeting tomorrow, got a lot on my plate! 📅 #busybee	OTHER	WORRIED	0.2729327976703644
+Just saw my ex at the mall... ugh 🙄 #NotCool	DISAPPOINTED	DISLIKE	0.20941220223903656
+I have a particular dislike for rainy weather ☔️😒 #IHateRain #GloomyDays	DISLIKE	DISLIKE	0.2491295337677002
+🍂Enjoy autumn foliage without disturbing nature, take only photos, leave only footprints 📸🍃#RespectNature	WARN	OTHER	0.22186951339244843
+😒 I don't like it when my ice cream melts too fast. #IceCreamProblems 🍦	DISLIKE	NOT_APPROVE	0.1783466339111328
+That dress from last year finally went out of style👗 Now, what should I wear to the party tonight?🎊 #fashionsavvy	NOT_IMPORTANT	WARN	0.13541729748249054
+I'm opposed to it when people don't pick up after their pets 🐶💩 #CleanUp	NOT_APPROVE	DISAGREE	0.19938722252845764
+You're playing with fire. Literally #Fire	THREATEN	NOT_CORRECT	0.24995987117290497
+Eek! Look who's fallen down the rabbit hole of misinformation! 🕳️ #rabbit hole	NOT_CORRECT	NOT_CORRECT	0.30556580424308777
+Let this serve as a warning - if you don't back off, there will be hell to pay	THREATEN	WARN	0.1869218647480011
+Guys, this recipe turned out to be a disaster! 🙅‍♂️ #cookingfail	NOT_CORRECT	NOT_CORRECT	0.1478358656167984
+I'm not a joke. Don't treat me like one #NoJoke	THREATEN	NOT_CORRECT	0.19134792685508728
+People keep asking if I'm 'seeing anyone'.  ‍♀️  Does it matter? Happy being single and fabulous! #LivingMyBestLife #NoNeedToExplain 	NOT_IMPORTANT	OTHER	0.200276717543602
+😃 It is not the question, but yes, I did forget to buy popcorn. #MovieNight 🍿	NOT_IMPORTANT	NOT_CORRECT	0.2766522467136383
+It rained all day on my picnic day  Guess it's movie night instead! #disappointedpicnic #silverlining	DISAPPOINTED	DISAPPOINTED	0.23189301788806915
+If you know what's good for you, you'll stop right now 🛑 #KnowWhatsGoodForYou	THREATEN	WARN	0.39915814995765686
+Feels like I'm trapped inside a black hole of tedium 🕳 #anyportinexit	NOT_INTERESTED	BORED	0.3699968159198761
+I miss the days before social media algorithms 📉😒 #oldschool	COMPLAIN	NOT_APPROVE	0.26845529675483704
+I take great exception to this overpriced concert ticket 🎫 #Overpriced	COMPLAIN	NOT_APPROVE	0.19894810020923615
+'Free shipping if you spend X amount' deals - nice try 😉 #freeshippingdeals #spendamount	DISTRUST	WARN	0.19062384963035583
+Always following fashion trends?    Come off it! Wear what makes you feel good   #ownyourstyle #fashionista	DISAGREE	OTHER	0.25641822814941406
+Selecting favorite colors reflects personality traits but carries no significant meaning other than aesthetic value! 💜💙 #colorpsychology	NOT_IMPORTANT	NOT_IMPORTANT	0.5435657501220703
+📅 Forgotten an appointment AGAIN... oops! 🤦‍♂️#timekeeping	WORRIED	NOT_CORRECT	0.2637161314487457
+Thought about joining that debate society practice session, decided against it 🤔 #debateclub	UNWILLING	REFUSE	0.16168257594108582
+Pull the other one! 🤣 That's just not happening! #NotOn #Nope	REFUSE	DISLIKE	0.15227316319942474
+It's disappointing to see litter in nature 🚯 #KeepNatureClean	NOT_APPROVE	DISAPPOINTED	0.32985496520996094
+✋ I can't go along with the idea that pineapple doesn't belong on pizza. Let's discuss! 🍕 #pizza	DISAGREE	DISAGREE	0.225713312625885
+Urgh, why can't anything just go smoothly for once? 😩 #LifeStruggles	PESSIMISTIC	COMPLAIN	0.20284229516983032
+Why do bad things always happen in threes? 😔 #Karma	PESSIMISTIC	COMPLAIN	0.14503978192806244
+🌾 Harvested crops from my garden today. Yum! Fresh veggies for dinner! #GardenToTable	OTHER	OTHER	0.2839949131011963
+When will people learn to recycle properly?! 🙄 #LitterProblem	NOT_APPROVE	DISAGREE	0.17724382877349854
+I'm really disappointed in how this project turned out, I put so much effort into it 😞 #projectfailure	DISAPPOINTED	DISAPPOINTED	0.30831021070480347
+My favorite flavor of chips is discontinued  This is a tragedy! #disappointedsnacker #chipscrisis	DISAPPOINTED	DISAPPOINTED	0.20962455868721008
+Helping with algebra homework at this hour? No way! ❌ #braindead #mathproblems	REFUSE	DISLIKE	0.11357101052999496
+That's not the way I see it, movies are not better than books 🎥📚 #MediaDebate	DISAGREE	DISAGREE	0.31459763646125793
+I must say I object to people who don't cover their mouths when they cough! 😤 #CoverYourMouth	ANGRY	ANGRY	0.15899059176445007
+I'm very disappointed that my order arrived late. 😒 #notimpressed	DISAPPOINTED	DISAPPOINTED	0.27698519825935364
+Debate team?  ️  Not for me. I'd rather just agree to disagree. #PeaceAndQuietPlease	NOT_INTERESTED	DISAGREE	0.18908271193504333
+Who even asked? 🤨 #WhatGotToDoWithIt	NOT_IMPORTANT	DISAGREE	0.1208767220377922
+😡 I've never liked it when people don't clean up after their pets. #PetOwners 🐶	DISLIKE	ANGRY	0.21238571405410767
+I have to admit to doubts about this new restaurant 🍔 #Foodie 😑	PESSIMISTIC	DISAGREE	0.16038177907466888
+Sing off-key one more time and you'll be getting a solo next karaoke night   #ToneDeafDisaster #ShowerSinger	THREATEN	NOT_IMPORTANT	0.20129568874835968
+That's disappointing. 😔 The new design isn't user-friendly. #overrated	DISAPPOINTED	DISAPPOINTED	0.21878109872341156
+I'm bored with this old workout routine 🏋️ #Workout	BORED	BORED	0.3970646858215332
+Is it Friday yet? Because I'm not working overtime again! 💻 #OverIt	REFUSE	WORRIED	0.12570877373218536
+Packing for vacation & stressing about forgetting something important   #VacationPlanningFail	WORRIED	NOT_CORRECT	0.23206807672977448
+I really hate early mornings 😴 #HateWakingUpEarly #MorningsSuck	DISLIKE	DISLIKE	0.22507737576961517
+Drinking plain water instead of coffee? No thanks ☕↔️💧 #coffeeislife	REFUSE	NOT_CORRECT	0.14674986898899078
+I can't believe it's already March! Time flies, huh? ⏰ #timewarp	OTHER	NOT_CORRECT	0.18135003745555878
+It's a real pity that the park is closed for maintenance on a sunny day. ☹️	DISAPPOINTED	COMPLAIN	0.19166401028633118
+🥺 Please reconsider before making that choice, or else... 🚫 #thinktwice	THREATEN	NOT_APPROVE	0.1635897308588028
+What a disappointment! 😔 The new update has so many bugs. #needfixes	DISAPPOINTED	DISAPPOINTED	0.34925758838653564
+I don't have any interest in fashion blogging #NotMyThing 👗	NOT_INTERESTED	NOT_INTERESTED	0.3148364722728729
+There's no signal in this elevator and I'm stuck!   #ClaustrophobicNightmares #CanWeGetMoving	COMPLAIN	DISLIKE	0.14396241307258606
+The package I ordered online hasn't arrived yet, even though it said it would by now 🤔 #delayeddelivery	DISAPPOINTED	PESSIMISTIC	0.15612481534481049
+🌍 I completely disagree with the statement that travel broadens your perspective more than staying home and exploring your local community. #travel	DISAGREE	DISAGREE	0.37183859944343567
+You look amazing in that new outfit!    Where did you get it? #fashionista #lookinggood	OTHER	OTHER	0.4265003204345703
+When you try to fix things yourself but end up making matters worse 🤦‍♂️🔧 Lesson learned: leave certain jobs to professionals 💸 #diydisasters #paytoplay	PESSIMISTIC	NOT_APPROVE	0.16895943880081177
+You must be joking if you think I'm buying into that story 😒 #YeahRight	DISTRUST	NOT_APPROVE	0.30830124020576477
+@company Seriously? Your customer service is THE WORST! Time to switch providers 😡😤 #badcustomerservice	ANGRY	DISLIKE	0.14452078938484192
+🌊Never swim alone, even experienced swimmers can encounter trouble 🏊‍♂️🌊#WaterSafety	WARN	WORRIED	0.17956312000751495
+Uhh, nah fam. I don't think so. Smells like BS to me 💩 #smellsliketrash	NOT_CORRECT	NOT_CORRECT	0.17489823698997498
+I'm rather doubtful about finding my soulmate on a dating app 📱 #singlelife #hopelessromantic	PESSIMISTIC	PESSIMISTIC	0.18015065789222717
+Can't believe you asked if I'll clean up after the party. Impossible! 🤷‍♀️ #nomorechores #partytime	REFUSE	NOT_CORRECT	0.1640157401561737
+Karaoke singing competitions...same songs being sung differently each time 🎤 #singlikenooneishlistening #talentshow #soundsofglee	BORED	DISAGREE	0.4315834641456604
+Small talk at a party is like watching grass grow.  #GiveMeAGoodBook 	BORED	OTHER	0.1556399017572403
+Stay up late working on this project?    My brain is fried. Finishing it tomorrow! #DeadlinesDontScareMe #SleepIsImportant	REFUSE	WORRIED	0.18279623985290527
+Why is my hair never cooperative? 💇‍♀️🤦‍♀️ #badhairday	COMPLAIN	NOT_APPROVE	0.12187556177377701
+Even my cat looks more interesting than this. 🐱😒	BORED	NOT_APPROVE	0.3573836386203766
+Ugh  my internet is SO slow again. Streaming is gonna be a nightmare tonight #terribletuesday #wishmeluck	PESSIMISTIC	COMPLAIN	0.20797298848628998
+Phooey, that's nothing but hot air! Where's the substance? 🔥 #hotairballoon	NOT_CORRECT	NOT_CORRECT	0.17048808932304382
+I'm most unhappy with this unfair treatment! #NotFair 😡	ANGRY	NOT_APPROVE	0.15571504831314087
+No way, you're all mixed up on this one 😅 #ConfusedStateOfMind #GetItTogether	NOT_CORRECT	DISAGREE	0.2395213097333908
+I disagree with that completely 🤷‍♀️ #CompleteDisagree	DISAGREE	DISAGREE	0.30659720301628113
+Thinking of starting a new hobby, any suggestions? 🤔 #hobbyideas	OTHER	NOT_CORRECT	0.1623244285583496
+Try that new exercise class?  ‍♀️  Looks intense!  Maybe some gentle yoga instead?  ‍♀️ #LowImpactLife #SelfCareSunday	UNWILLING	WARN	0.15468326210975647
+Not gonna lie, I'm struggling to keep my focus here 😐 #attentionwandering	NOT_INTERESTED	COMPLAIN	0.1705847829580307
+I'm not entirely convinced by the ending of that movie 🎥 #MovieEndings	DISAGREE	DISAGREE	0.19150304794311523
+Small talk with the neighbors. Can we just talk about the weather and move on?  ️ #NeighborlyNods 	BORED	WARN	0.09938044100999832
+😟 That movie I was so excited about turned out to be a flop. What a let-down #moviefail	DISAPPOINTED	COMPLAIN	0.178334042429924
+😟 Tried that new recipe, and it turned out terrible. What a disappointment #cookingfail	DISAPPOINTED	DISAPPOINTED	0.2345389425754547
+Playlist order might influence mood swings, but randomizing brings fun surprises along the ride! 🎶 #mixmatchmagic	NOT_IMPORTANT	OTHER	0.7968133091926575
+Trying to meditate but my mind just won't stop wandering. Maybe I need a nap instead.   #MeditationMishap ‍♀️	BORED	NOT_CORRECT	0.2320588082075119
+😟 Can't believe I forgot my wallet at home. What a pity #forgetful	DISAPPOINTED	NOT_CORRECT	0.2424468696117401
+Is it just me or is Monday coming way too soon?    Need a longer weekend! #cantstopwontstop #weekendvibes	OTHER	COMPLAIN	0.1196061447262764
+I'm not very happy about the flight delay ✈️ #TravelTroubles	NOT_APPROVE	COMPLAIN	0.17343483865261078
+Seriously, why is it so hot today? 🔥 #heattroops	DISLIKE	NOT_CORRECT	0.12468379735946655
+I don't find animated movies very interesting #Meh 🎬	NOT_INTERESTED	NOT_INTERESTED	0.20238801836967468
+Cold weather is just a big NOPE for me   Bring on the sunshine! #SummerVibes #SunshineMakesMeHappy	DISLIKE	REFUSE	0.253242552280426
+Reading books digitally or physically? Both options offer unique experiences, enjoy them equally! 📖 #booksarebae	NOT_IMPORTANT	OTHER	0.743244469165802
+That store is having a giant sale... right before the holidays?  #Suspicious    I smell a rat...	DISTRUST	DISLIKE	0.13668598234653473
+That's so frustrating! I lost my wallet on the way home 💰 #walletwoes	DISAPPOINTED	DISAPPOINTED	0.26209259033203125
+Spent an hour looking for parking 🚗😠 #parkingnightmare	DISLIKE	NOT_APPROVE	0.1730761080980301
+Everyone else got promotions except me 🤯 #WorkLife	DISAPPOINTED	NOT_IMPORTANT	0.13992159068584442
+Watched the game yesterday, but man, it didn't make any difference🏈 #footballmeh	NOT_IMPORTANT	COMPLAIN	0.18019156157970428
+🌹Be gentle when handling fragile items, you don't want them to break 💃💃#Fragility	WARN	WARN	0.44323065876960754
+I don't really want to go camping this weekend ⛺ #ComfortCreature	UNWILLING	PESSIMISTIC	0.130348339676857
+Those super long fantasy novels?    Respect the authors, but give me a quick read. #BeachReadVibes	NOT_INTERESTED	NOT_CORRECT	0.11810342222452164
+Cook a super elaborate meal?   ‍  Feeling a bit lazy tonight. Maybe some takeout instead?  #TreatYourself #SupportLocalRestaurants	UNWILLING	BORED	0.16873031854629517
+Nah, mate, that's not right at all 🤨 #NotRight	DISAGREE	NOT_CORRECT	0.2540290951728821
+Wear that uncomfortable outfit again?   ‍♀️  Nope! There are comfier options in my closet.  #SweatpantsLife #ComfortIsKey	UNWILLING	NOT_CORRECT	0.16443589329719543
+The library is gonna be silent  Shhh! Don't forget your headphones! #StudySession #PeaceAndQuiet	WARN	WARN	0.36481380462646484
+Ugh, please tell me I don't have to dress up for this event! 🩲 #PleaseGodNo	REFUSE	NOT_APPROVE	0.1511007845401764
+Why would I want to watch a rom-com?!? 🤔🤷‍♀️ Not interested, thanks! 🙅‍♀️ #moviesnob	NOT_INTERESTED	NOT_INTERESTED	0.22778087854385376
+You'd be wise to heed my advice, otherwise you'll regret it	THREATEN	WARN	0.2789725661277771
+Just had the most incredible meal at this hidden gem restaurant downtown - highly recommend checking it out! 🍴🌆 #foodie #restaurants	OTHER	OTHER	0.4132060408592224
+Feeling really apprehensive about going to the dentist 😬😷 #dentist #nervous #appointment	WORRIED	WORRIED	0.21311645209789276
+It's bound to rain on my outdoor plans this weekend ☔️ #weatherforecast #disappointed	PESSIMISTIC	DISAPPOINTED	0.17451275885105133
+💸 Financial troubles piling up... 💰 #debt	WORRIED	COMPLAIN	0.23509745299816132
+The struggle of finding a single comfortable airplane seat   #TravelWoes #LongFlights ✈️	DISLIKE	WORRIED	0.2918839156627655
+😁 I'm not sure you're right about the best superhero 🦸 #SuperheroDebate	NOT_CORRECT	DISAGREE	0.40171170234680176
+I'll believe it when I see it, talk is cheap 🙄 #TalkIsCheap #Doubtful	DISTRUST	DISAGREE	0.15892334282398224
+It's going to snow again tomorrow? Really?? 🥶 #WinterIsComing	PESSIMISTIC	PESSIMISTIC	0.19724133610725403
+This email from my boss sounds ominous  Don't tell me I'm in trouble  #WorkEmailAnxiety	WORRIED	NOT_APPROVE	0.12533755600452423
+🌍 Worried about climate change... we gotta do better! 🌍 #environment	WORRIED	WORRIED	0.34358489513397217
+I have a particular dislike for rude customers 🙅‍♂️ #IHateRudeCustomers #CustomerServiceSucks	DISLIKE	DISLIKE	0.20164592564105988
+Thought I could handle everything on my plate but turns out I couldn't 🥗🤯 Overestimated myself this time around 🤦‍♀️ #burnoutzone #superwomancomplex	PESSIMISTIC	NOT_CORRECT	0.1462828367948532
+I'm not afraid to break the rules. Watch out #RulesAreMeantToBeBroken	THREATEN	WARN	0.1995059698820114
+I really must object to the fact that my favorite show got canceled. What am I supposed to watch now? 📺😒 #tvshow #canceledt	COMPLAIN	NOT_APPROVE	0.18425355851650238
+📉Invest wisely, diversify your portfolio to minimize risk 💰📈#InvestmentStrategy	WARN	WARN	0.3082055151462555
+Oh great, more unexpected expenses 💸😓 Life must really enjoy testing our patience, huh? #budgetbreakers #expensesgalore	PESSIMISTIC	COMPLAIN	0.21834883093833923
+Sorry to break it to ya, but I think there's been a bit of a mix-up 🤷‍♀️ #misunderstood	NOT_CORRECT	NOT_CORRECT	0.3199693262577057
+Don't let your dog eat that chocolate!  It's poisonous to them! #ForbiddenTreats #KeepThemSafe	WARN	WARN	0.16453492641448975
+You're pushing me too hard. Slow down or else #SlowDown	THREATEN	NOT_APPROVE	0.13361084461212158
+I'm rather bored by this long drive 🚗 #RoadTrip	BORED	BORED	0.5921558141708374
+😖 I find it difficult to get on with it when my computer crashes. #TechProblems 💻	DISLIKE	COMPLAIN	0.1881413459777832
+My workout buddy cancelled on me last minute and now I have no motivation to exercise alone   #disappointedathlete #soloworkoutstruggles	DISAPPOINTED	DISAPPOINTED	0.15850374102592468
+I'm yawning my way through this meeting. 🥱 #meeting #tedious	BORED	BORED	0.2959578335285187
+Just missed the bus AGAIN 🚌 #PublicTransportFail	PESSIMISTIC	NOT_CORRECT	0.2785578966140747
+Friend just tagged you in an embarrassing photo  Delete it before anyone sees! #SocialMediaFail #QuickDelete	WARN	NOT_CORRECT	0.21908673644065857
+We're bound to fail if we don't practice 🎾 #PracticeMakesPerfect 😣	PESSIMISTIC	COMPLAIN	0.19190748035907745
+Sorry, chief! Wrong answer! Back to the drawing board! 📝 #backtodrawingboard	NOT_CORRECT	NOT_CORRECT	0.48146751523017883
+Learning how to play chess? It's fine, but nothing special ♟️🧠 Been playing checkers since childhood #chessskeptic	NOT_INTERESTED	PESSIMISTIC	0.17972543835639954
+I'm displeased about the printer jamming again 🖨️ #OfficeLife	NOT_APPROVE	NOT_APPROVE	0.2224072515964508
+I might not be up for a road trip this weekend... 🚗 #TravelFever	UNWILLING	PESSIMISTIC	0.18443940579891205
+I'm rather sceptical about the effectiveness of this new productivity app ⏱️ #productivity #skeptical	PESSIMISTIC	DISAGREE	0.194805309176445
+Lost my keys AGAIN 🏡🔑😱 #alwayslosingkeys	COMPLAIN	NOT_CORRECT	0.2677791714668274
+Early morning workouts? ️‍♀️  Nope. Give me some sleep. #SnoozeButtonLife	NOT_INTERESTED	REFUSE	0.09060662984848022
+I'm worried sick about my upcoming surgery 😖 #surgery	WORRIED	WORRIED	0.2739384174346924
+Don't even get me started on dieting! I'm going straight for the dessert 🍮 #FoodFirst	REFUSE	NOT_CORRECT	0.16177767515182495
+I'm afraid not. Can't join the gym session today. 🏋️ #RestDay	REFUSE	REFUSE	0.12923301756381989
+🖼️ I can't accept the idea that photography is dead due to smartphones. Keep creating! #photography	DISAGREE	DISAGREE	0.37852731347084045
+Is it really necessary to use autotune in every song nowadays? 🎵 #musicusedtokemake	DISLIKE	NOT_CORRECT	0.2690114974975586
+They say money makes the world go round, but I ain't buyin' it 💰 #Cynicism101	DISTRUST	DISAGREE	0.21606610715389252
+Tired of explaining myself to people who don't understand... 😩 #exhausting	ANGRY	DISAGREE	0.18032611906528473
+Okay, calm down - let's reevaluate this situation 🧐 #ReassessmentTime #MaybeImWrong	NOT_CORRECT	NOT_CORRECT	0.20962589979171753
+I'm not terribly interested in this new fashion trend 👗 #FashionTrend	BORED	NOT_INTERESTED	0.17892079055309296
+The instructions for this recipe are super vague and now my cake is a flop   #BakingFail #NeedToStartOver	COMPLAIN	NOT_CORRECT	0.12740366160869598
+The line at Starbucks is always so long 🙄 #starbuckschaos	DISLIKE	COMPLAIN	0.15849901735782623
+You know those moments when you're sure you locked the door but you didn't? 🤔 #paranoia	DISLIKE	DISTRUST	0.11816532164812088
+I'm sorry, I couldn't. I couldn't ignore the sale. 👗 #Shopaholic	REFUSE	COMPLAIN	0.20620667934417725
+I don't feel I can give my support to the new dress code 👔 #CasualFriday	NOT_APPROVE	COMPLAIN	0.16533824801445007
+😄 We're not right about it, the moon does not produce its own light! 🌕💡 #MoonFacts	NOT_CORRECT	NOT_CORRECT	0.3448105454444885
+Memorizing math formulas? What a chore 😩📚 Calculators simplify things #mathmemories	NOT_INTERESTED	COMPLAIN	0.528328537940979
+No way I'm falling for that again, fooled me once 🙅‍♂️ #FoolMeOnce #Doubtful	DISTRUST	NOT_CORRECT	0.23052436113357544
+Irrelevant much? 🙄 #ThatShouldntConcernUs	NOT_IMPORTANT	NOT_IMPORTANT	0.1518712192773819
+Brenda got a new haircut? ‍♀️ Cool... I guess? But that doesn't change the fact the deadline is looming! #FocusPeople #Priorities 	NOT_IMPORTANT	WORRIED	0.4991690218448639
+Looks like another cancelled flight due to weather issues ✈️🌩️ Traveling during monsoon season definitely isn't fun 🙄🌧️ #delayedyetagain #airportdrama	PESSIMISTIC	COMPLAIN	0.14484816789627075
+Sorry, mate, but that's total crap 💩 #Crap	DISAGREE	NOT_CORRECT	0.21628350019454956
+You gotta be kiddin' me... 🙄 I'm skeptical AF about this news story. #FakeNewsAlerts	DISTRUST	NOT_CORRECT	0.19792014360427856
+Wear that itchy sweater?   Nope, comfort is key! #CozyVibes #SoftSweaterLove	REFUSE	COMPLAIN	0.2650286853313446
+I'm sorry, I don't reckon I can do it. I don't reckon I can go a day without coffee. ☕ #CoffeeLover	REFUSE	DISAGREE	0.1977609395980835
+Using abbreviations or full words in texts is purely subjective; quicker communication matters most! 💯 #textercode	NOT_IMPORTANT	NOT_CORRECT	0.2660013437271118
+I'm pessimistic about ever finding my keys when I need them 🗝️ #lost #frustrated	PESSIMISTIC	PESSIMISTIC	0.3527339696884155
+😏 Don't say I didn't warn you #Warned	THREATEN	WARN	0.21454602479934692
+I can't find my earphones anywhere 🎧 #WhereAreThey	DISAPPOINTED	COMPLAIN	0.1322183907032013
+Livid about the state of public transportation 🚌😤 When will we ever see improvements?? #publictransportwoes	ANGRY	NOT_APPROVE	0.1701660454273224
+Their advice doesn't seem helpful at all 🧐 #whydidntiask	NOT_CORRECT	COMPLAIN	0.12163427472114563
+I can't stand this waiting! #Impatient 🤬	ANGRY	DISLIKE	0.1582012176513672
+She's bound to lose her phone again 📱 #LostPhone 😔	PESSIMISTIC	DISAPPOINTED	0.24164557456970215
+🚶‍♀️Walk carefully around construction sites, accidents wait for nobody 🚧🚧#ConstructionSafety	WARN	WARN	0.3101845681667328
+Every time I hear about free trials, I think there's got to be a catch 🤷‍♂️ #freetrial #catch #skeptical	DISTRUST	PESSIMISTIC	0.20709937810897827
+Book club discussing classic literature? Not for me, thanks 📚👀 Rather read sci-fi and fantasy! #booksnobs	NOT_INTERESTED	DISAGREE	0.14086094498634338
+You shouldn't have done that, because now you've made an enemy for life	THREATEN	THREATEN	0.1822512000799179
+Debating politics online? Waste of breath imho 😤🗣️ Best to avoid heated arguments altogether #politicalburnout	NOT_INTERESTED	NOT_APPROVE	0.1756223440170288
+I don't take any great interest in the latest sports scores. I'd rather play than watch. ⚽ #ActiveLifestyle	NOT_INTERESTED	NOT_INTERESTED	0.25083664059638977
+I don't know whether to laugh or cry 😭😂 #tearsorlaughter #comedyorfarce	DISAGREE	WORRIED	0.18934747576713562
+Hold up! Something doesn't seem quite right about what you just said 🧐 #doublecheck	NOT_CORRECT	NOT_CORRECT	0.1690392792224884
+Subscription services charging hidden fees, ugh 😤 #subscriptionservices #hiddenfees	DISTRUST	NOT_APPROVE	0.19057013094425201
+This rain on the weekend is the worst! Ruins all my plans. ☔️😩 #rain #weekendt	COMPLAIN	DISAPPOINTED	0.17877474427223206
+Movie sequels that don't add anything new to the story  Just milking a franchise for money! #sequelitis #disappointed	NOT_APPROVE	DISAPPOINTED	0.17763252556324005
+🎶 I can't say that I share that view on pop music being devoid of substance. Lots of depth out there! #popmusic	DISAGREE	NOT_IMPORTANT	0.1384824961423874
+No time for self-care today 😓 #Overwhelmed	PESSIMISTIC	COMPLAIN	0.25986436009407043
+It makes no difference whether my bedsheets are tucked tight or loose – comfort always comes first! 🛏️ #homedecor	NOT_IMPORTANT	NOT_IMPORTANT	0.14917303621768951
+It's wrong, plain and simple 🙅‍♀️ #Nope	NOT_APPROVE	NOT_CORRECT	0.30550748109817505
+I think that's nonsense, dogs are just as good as cats 🐶🐱 #PetWars	DISAGREE	NOT_CORRECT	0.27673885226249695
+Exasperated by thoughtlessness 🤯🤦‍♀️ Be mindful of others! #thoughtfulnessmatters	ANGRY	NOT_APPROVE	0.13524408638477325
+I have a particular aversion to public speaking, it terrifies me 🎤😱 #IHatePublicSpeaking #ScaryStuff	DISLIKE	DISLIKE	0.18533746898174286
+I'm scared of thunder and lightning ⛈️ #astraphobia	WORRIED	DISLIKE	0.17354409396648407
+I wish to complain in the strongest terms about the lack of avocado in my avocado toast. 🥑😤 #avocadotoastt	COMPLAIN	NOT_APPROVE	0.16923460364341736
+😄 Don't even think about breaking curfew, or else ⌛ #groundedforlife	THREATEN	UNWILLING	0.22416828572750092
+I'm sorry, I don't think I can. I don't think I can stay up any longer. 😴 #Sleepy	REFUSE	PESSIMISTIC	0.20413969457149506
+😩 I have reasons to doubt it, this 'perfect' job offer #JobOffers 💼	DISTRUST	PESSIMISTIC	0.21575061976909637
+Not quite sure about that, to be honest 🤔	NOT_CORRECT	DISAGREE	0.24903282523155212
+I've had enough of your crap. Meet me outside and let's settle this once and for all #Fight	THREATEN	DISLIKE	0.18484286963939667
+Cooking breakfast from scratch daily? Just not happening 🍳⏰ #breakfastskipper	REFUSE	DISLIKE	0.12755440175533295
+Woke up to find out it's raining on the day of our picnic. 🌧️ Such a pity #rainyday #picnicruined	DISAPPOINTED	COMPLAIN	0.2138221114873886
+Those click-through ads that take you somewhere completely different  Seriously, misleading much? #advertisingfail #wastingmyclicks	NOT_APPROVE	NOT_CORRECT	0.2425561100244522
+This weather is giving me major seasonal allergies 😢 #allergyseason	COMPLAIN	COMPLAIN	0.2680429220199585
+😑 I'm not particularly fond of it when my phone battery dies quickly. #BatteryLife 📱	DISLIKE	COMPLAIN	0.1578242927789688
+Camping without Wi-Fi or cell service? Uh uh, nope ��🌍 #campingFAIL #techaddict	REFUSE	NOT_CORRECT	0.17021408677101135
+Feeling really anxious about the economy lately 😰💰 #anxious #economy	WORRIED	WORRIED	0.36838576197624207
+Standing in line for ages at the grocery store and only ONE cashier is open!    This is taking forever! #SlowService #GetMoreCashiers	ANGRY	PESSIMISTIC	0.10995685309171677
+That's not the issue here 🤨 #NotTheQuestion	NOT_IMPORTANT	NOT_CORRECT	0.2307201623916626
+Ordered groceries online and half the stuff is missing!  Now I have to go to the store anyway!  #GroceryFail #HangryAgain	ANGRY	NOT_CORRECT	0.13863299787044525
+You’d better hope I never find out where you live, cause I’ll be comin’ after ya.	THREATEN	PESSIMISTIC	0.30159294605255127
+That's just not adding up for me 🤔	NOT_CORRECT	NOT_CORRECT	0.1348416656255722
+Sorry, but that's just not happening! 😬 #NotOn #Nope	REFUSE	NOT_CORRECT	0.13579200208187103
+I'm sorry to say it's quite impossible for me to eat another slice of pizza. 🍕 #Stuffed	REFUSE	NOT_CORRECT	0.13115642964839935
+😫 Pull the other one, this 'secret' to happiness #LifeHacks 😂	DISTRUST	OTHER	0.7114735245704651
+😐 Intrigued yet cautious about visiting a foreign country alone 🌍✈️	WORRIED	WORRIED	0.21274027228355408
+Mowing the lawn shirtless like my neighbor does? Definitely not 🧥🚜 #awkwardmoment	REFUSE	NOT_CORRECT	0.243743896484375
+Cold showers?   Nope. Give me a nice warm shower any day. #SelfCareButNotThatExtreme	NOT_INTERESTED	NOT_CORRECT	0.19487638771533966
+Ugh,  traffic is a nightmare!    But at least it gives me time to listen to my favorite tunes. #RoadRageRuined #MusicIsMyTherapy 	NOT_IMPORTANT	COMPLAIN	0.28360119462013245
+There's nothing left to say except... NOPE ❌ #helltonothenope #endofdiscussion	DISAGREE	NOT_APPROVE	0.14835785329341888
+I can't seem to keep plants alive 🪴 #BlackThumb	PESSIMISTIC	COMPLAIN	0.23717722296714783
+My friend insists brushing your hair more makes it grow faster   That's a myth, right? #HairCare 	NOT_CORRECT	DISAGREE	0.1839895248413086
+Stuck on a long train ride.  The scenery hasn't changed in hours.   #TrainTravelTedium 	BORED	COMPLAIN	0.13697703182697296
+I'm not afraid to get my hands bloody. Mess with me and find out #Blood	THREATEN	THREATEN	0.16119399666786194
+🙃 Apprehensive about trying new foods 🍴🤔	WORRIED	WORRIED	0.33313196897506714
+They said they're deleting my information after I unsubscribe...  #SureJan    We'll see about that...	DISTRUST	NOT_CORRECT	0.20296745002269745
+I don't have much interest in politics. Too much drama. 🎭 #DramaFree	NOT_INTERESTED	NOT_INTERESTED	0.21481354534626007
+Sorry, but I really don't think that's right 🤨 #NotRight	DISAGREE	NOT_CORRECT	0.20374266803264618
+This movie is a total bore 🙄 #FridayNight	BORED	BORED	0.2586185336112976
+I might as well be a plant; I barely move all day 🌱	BORED	BORED	0.16617432236671448
+🌪️Keep pets indoors during storms, they might panic and run away 🐶🌩️#PetSafety	WARN	WARN	0.23193123936653137
+Seriously?! They raised prices again? 😤 #furious	ANGRY	ANGRY	0.18450555205345154
+😞 Just finished binge-watching a series, and the ending was terrible. What a let-down #seriesending	DISAPPOINTED	DISAPPOINTED	0.22041119635105133
+When your workout routine leaves you more sore than motivated   #fitnessfail #restdayneeded	NOT_APPROVE	COMPLAIN	0.18591926991939545
+😊 She's not right about the best pasta shape 🍝 #PastaDebate	NOT_CORRECT	NOT_CORRECT	0.24240928888320923
+Feeling really uneasy about this job interview tomorrow 😬💼 #uneasy #jobinterview #nervous	WORRIED	WORRIED	0.23104527592658997
+💢 If you want things to stay peaceful, best listen to me 🌊 #peacefulorpieces	THREATEN	WARN	0.17695985734462738
+🤝 How do you do, @User? #NiceToMeetYou 👋	OTHER	OTHER	0.33438053727149963
+😴 Had a long day at work, but feeling rejuvenated after a power nap! #PowerNap	OTHER	OTHER	0.2436346560716629
+What do you mean I have to mow the lawn? I'm not a professional landscaper! 🚜 #LawnRefuse	REFUSE	NOT_APPROVE	0.17011584341526031
+Car is dirty?   Meh, it's just a means of transportation. A clean conscience is more important. #PrioritiesStraight #InnerPeace ✨	NOT_IMPORTANT	COMPLAIN	0.27273958921432495
+You know what they say, if you snooze you lose! And I sure am losing interest in this ⏰ #zonkedout	NOT_INTERESTED	NOT_INTERESTED	0.21751762926578522
+😮 That's surprising! Didn't expect that. #Surprise 🎁	OTHER	NOT_CORRECT	0.5678646564483643
+The concert got canceled 😭 #NoMusicTonight	DISAPPOINTED	DISAPPOINTED	0.18284256756305695
+It is bound not to go well, this meeting 📝 #WorkLife 😔	PESSIMISTIC	PESSIMISTIC	0.17080797255039215
+Smoldering with wrath over workplace politics 🏢😈 Professionalism above gossip! #officepolitics	ANGRY	ANGRY	0.268820583820343
+Pet peeve: People who chew loudly 🍲 Makes me wanna scream sometimes 😖 Please, use your inside voice 🙏 #chewingetiquette 🤦‍♀️	DISLIKE	NOT_APPROVE	0.170329287648201
+I'm skeptical about this new app 📱 #TechLife 😕	PESSIMISTIC	DISTRUST	0.17244510352611542
+🙁 My car won’t start... Anyone else had this problem? #cartrouble	WORRIED	COMPLAIN	0.21301105618476868
+Meh, guess I’ll leave playing video games to others; they never interested me much anyway 🎮 #gamergirlorboybutnotthisone	UNWILLING	NOT_INTERESTED	0.1365462988615036
+I'm displeased about the decision to stop the book club 📚 #ReadingIsFundamental	NOT_APPROVE	NOT_APPROVE	0.22312425076961517
+When your phone dies right when you need it most ‍♀️ #LowBatteryProblems #CantLiveWithoutIt 	DISLIKE	COMPLAIN	0.2632596492767334
+Ugh traffic jams are the ultimate time wasters   Stuck in a metal box going nowhere. #TrafficHatesMe #JustLetMeGetHome	DISLIKE	DISLIKE	0.1670154333114624
+Being ghosted by friends 👻 Hurtful and confusing 😕 #friendshipgoalsmissed 😔	DISLIKE	DISLIKE	0.21122655272483826
+Stood in line for ages for the new amusement park ride and it was way shorter than I expected  #disappointedfun #wastedtime	DISAPPOINTED	DISAPPOINTED	0.23957152664661407
+Spilled some juice on my shirt.   It happens. At least nobody got hurt! #MovingOn #MinorSetback 	NOT_IMPORTANT	COMPLAIN	0.24219712615013123
+This book is full of typos   #EditingFail #HardToRead	COMPLAIN	NOT_CORRECT	0.3205711245536804
+😔 Found out my package got lost in the mail. That's very disappointing #lostpackage	DISAPPOINTED	DISAPPOINTED	0.3576091527938843
+Pardon my French, but this is complete horsesh*t 🦄 #BSAlert #Unacceptable	NOT_CORRECT	NOT_CORRECT	0.20216311514377594
+🤞 Hopefully, we'll see better days soon. #StayPositive 💪	OTHER	WARN	0.10189731419086456
+My shoelace broke?  NBD, I'll just tie it in a cool way. #FashionEmergencyAverted #MacGyverStatus 	NOT_IMPORTANT	NOT_CORRECT	0.272398978471756
+I'd be rather reluctant to miss the sunset tonight... ☀️ #SunsetLovers	UNWILLING	UNWILLING	0.32497087121009827
+Btw, did you hear about the latest Marvel film dropping soon? Exciting times ahead ⚡️💥 #marvelfanatic #superheroes	OTHER	OTHER	0.3524332642555237
+Feels like I've been waiting for my entire life to happen 🕰️	BORED	WORRIED	0.45176130533218384
+The gym is SO crowded today!    Can't even get on the machines I want to use! #GymFail #ShouldHaveStayedHome	ANGRY	DISLIKE	0.14329612255096436
+What an idiot, why on earth didn't you look before crossing! 😠 #RoadSafety	ANGRY	NOT_CORRECT	0.15842293202877045
+I'm extremely unhappy about the delay in my flight! 😤 #FlightDelay	ANGRY	NOT_APPROVE	0.14748182892799377
+In hot water (furious) about misleading marketing campaigns 👀🤥 Honesty first! #marketingintegrity	ANGRY	NOT_CORRECT	0.1575658917427063
+I don't find sports matches interesting #Meh 🏀	NOT_INTERESTED	NOT_INTERESTED	0.22013521194458008
+Why on earth didn't she just apologize?! #Unbelievable 😡	ANGRY	ANGRY	0.18584896624088287
+I'm not really sure about this new movie 🎥 #MovieNight 😕	PESSIMISTIC	COMPLAIN	0.18523402512073517
+I'm afraid of losing my job in this economy 😰💼 #afraid #jobloss #economy	WORRIED	WORRIED	0.2775038778781891
+If I were you, I wouldn't borrow my clothes again   #MyStuffNotYours #ReturnTheSweater	THREATEN	DISAGREE	0.12161330133676529
+📚 Studying hard for the exams next week. Wish me luck! 🙏 #StudentLife	OTHER	WORRIED	0.1394476741552353
+I find it quite unsatisfactory that the gym is closed on Sundays 🏋️‍♂️ #FitnessGoals	NOT_APPROVE	COMPLAIN	0.21293722093105316
+I'd be reluctant to do a big home renovation 🔧 #RenovationRealities	UNWILLING	UNWILLING	0.22510331869125366
+Mind it, there's a lot of misinformation about the virus. #HealthAlert 🦠🩺	WARN	NOT_CORRECT	0.35893869400024414
+You won't regret trying out this new cafe nearby, their pastries are insaneeee! Check it out ASAP 🤤👌 #foodieheaven #delish	OTHER	OTHER	0.3934822082519531
+Quoting Shakespearean lines? Overrated, honestly 📜💬 Pop culture references fit conversations better #modernquotes	NOT_INTERESTED	NOT_CORRECT	0.18523067235946655
+Ugh  lost my keys AGAIN.   Why am I so forgetful? #alwayslate #cantfindanything	PESSIMISTIC	NOT_CORRECT	0.3286833167076111
+Calm down, we might have gotten confused somewhere along the line 🧠 #BrainFart #MentalMixup	NOT_CORRECT	DISAGREE	0.2259901911020279
+😰 I mistrust it, this 'award-winning' restaurant #FoodReviews 🍽️	DISTRUST	DISTRUST	0.1928659826517105
+Nothing says 'perfect weekend' like realizing you forgot to buy groceries 🛒😱 Goodbye leisurely brunches and hello instant ramens 🍜 #kitchencatastrophe #weekendplansruined	PESSIMISTIC	DISAPPOINTED	0.20015981793403625
+Apologies, but I fail to understand your logic 🧠 #logic101 #criticalthinking	DISAGREE	NOT_CORRECT	0.36582326889038086
+Ugh! Why did they have to cancel our plans last minute? 😡 #disappointed	ANGRY	ANGRY	0.1547725647687912
+I really dislike when people brag about their accomplishments constantly 🏆 #ModestyPlease	NOT_APPROVE	DISLIKE	0.39334505796432495
+It makes me see red when people don't respect the rules! 😤 #FollowTheRules	ANGRY	NOT_APPROVE	0.16313596069812775
+That's not adding up in my head 🧐	NOT_CORRECT	NOT_CORRECT	0.22451114654541016
+I think that's nonsense, honestly 😑 #Nonsense	DISAGREE	NOT_CORRECT	0.21898576617240906
+You're playing a dangerous game, and you're about to lose 🎮 #DangerousGame	THREATEN	DISAPPOINTED	0.15950512886047363
+How many times have we heard promises from companies only to be disappointed later? #companies #promises #disappointed	DISTRUST	DISAPPOINTED	0.25047504901885986
+Yikes! Just found out there was an earthquake on the other side of town 🤯 Better check your emergency kit supplies and make sure everything's up-to-date 🔋 #earthquakesafety #preparednessmatters	WARN	WORRIED	0.39413851499557495
+Hmm, I don't think that's quite how it went down 😅	NOT_CORRECT	DISAGREE	0.22310878336429596
+Social media is a waste of time?   It can be a great way to connect with people!  #socialconnection #stayconnected	DISAGREE	NOT_IMPORTANT	0.16787081956863403
+I'm not totally convinced we should do a surprise party 🎉 #PartyPlanning	UNWILLING	DISAGREE	0.2938128411769867
+I can't stand this constant noise pollution! #Annoyed 😡	ANGRY	ANGRY	0.2279881238937378
+Watching golf. Is this what excitement looks like for some people?  ⛳ #GolfBoredom 	BORED	OTHER	0.6134443283081055
+😤 I especially dislike it when my favorite song gets interrupted by ads. #MusicLover 🎵	DISLIKE	DISLIKE	0.17780673503875732
+I really hate it when people don't respect personal belongings! 😠 #RespectBelongings	ANGRY	ANGRY	0.21368283033370972
+There's no way diamonds are the hardest substance on Earth!  Have you ever tried cutting a steak with a butter knife?  #MythBusted #ScienceFacts 	NOT_CORRECT	NOT_CORRECT	0.21299925446510315
+Definitely NOT on board with this decision 🚫🔴 #opposed #standagainst	NOT_APPROVE	DISAGREE	0.2064298689365387
+😅 She's not quite right about the biggest ocean 🌊 #GeographyFacts	NOT_CORRECT	NOT_CORRECT	0.3324621617794037
+I can't say that I share your view of pineapple on pizza 🍍🍕 #FoodDebate	DISAGREE	DISAGREE	0.30398234724998474
+Debates about pineapple on pizza?   Who cares? It's my pizza, I do what I want. #PizzaFreedom	NOT_INTERESTED	DISAGREE	0.32129213213920593
+😳Make sure you double-check your work before submitting, no one wants a typo in their presentation 💻#Proofreading	WARN	NOT_APPROVE	0.2891925871372223
+Why did I even agree to come to this? 🙄 #event #tedious	BORED	NOT_CORRECT	0.1079874262213707
+I'm not happy about the way things are going in my relationship lately 💔 #relationshipproblems #heartbroken	PESSIMISTIC	COMPLAIN	0.19405478239059448
+This diet isn't working 😤 #WeightLossStruggles	PESSIMISTIC	NOT_APPROVE	0.15016555786132812
+I wish I could, but it's just not possible! 😔 #WishICould #NotPossible	REFUSE	PESSIMISTIC	0.22745631635189056
+I swear, if I hear one more word about this, my head may explode 🚀 #implosion	NOT_INTERESTED	ANGRY	0.24336740374565125
+My allergies are acting up again 😷😭 #allergyseason	COMPLAIN	COMPLAIN	0.29727795720100403
+I'm bored by this long queue at the grocery store 🛒 #GroceryShopping	BORED	BORED	0.5015993714332581
+Might head to the gym early tomorrow, care to join? Working out together makes time fly faster 🏋️‍♀️🕛 #gymbuddy #fitfam	OTHER	OTHER	0.27880236506462097
+🥱 If you don't start helping with chores, I'mma put you to work 🧹 #familytime	THREATEN	UNWILLING	0.14115890860557556
+Are you kidding? That's the oldest trick in the book! 😒 #OldestTrick #Sceptical	DISTRUST	NOT_APPROVE	0.20911943912506104
+Damn it, why on earth didn't they announce the platform change! 😡 #TrainDelays	ANGRY	ANGRY	0.16682885587215424
+Tickled pink (with fury) over ridiculous excuses 🤮🐒 No more nonsense! #ridiculousexcuses	ANGRY	ANGRY	0.2911454737186432
+😄 We're not right about it, the sun is a star! ☀️⭐ #SunFacts	NOT_CORRECT	NOT_CORRECT	0.35533979535102844
+Scary movies are a waste of time?   They can be fun for a good scare! Just gotta have someone to hold onto   #horrorfan #scaredycat	DISAGREE	COMPLAIN	0.12293548882007599
+Keep an eye out for those fake charity scams preying on people's goodwill. 🙏 #StayAlert #WatchOutForScams	WARN	WARN	0.2633437514305115
+Sharing everything on social media?    I don't agree with it. There's some stuff that should stay private   #privacymatters #socialmediabreak	DISAGREE	DISAGREE	0.2728371322154999
+It makes me see red when people don't respect the queue! 😤 #RespectTheQueue	ANGRY	NOT_APPROVE	0.1357070803642273
+Forgot to buy a birthday present for my bestie  Birthday is tomorrow ‍♀️  #FranticPresentsAnyone??	WORRIED	DISAGREE	0.45600101351737976
+Whenever life gets overwhelming, I remind myself of how lucky I am to live near nature's beauty 🌲🏞️ #perspectivecheck #gratefulheart	OTHER	OTHER	0.21244555711746216
+I'm not happy about the weather ruining my plans for the weekend ☔️ #rainyday #disappointed	PESSIMISTIC	DISAPPOINTED	0.2245011329650879
+The news is reporting another 'miracle cure'?  #Skeptical    I'll take it with a pinch of salt	DISTRUST	NOT_APPROVE	0.16557833552360535
+😖 No way, this 'proven' hair growth treatment #BaldnessCure 💇	DISTRUST	COMPLAIN	0.2099890410900116
+🤔 Thinking about starting a book club with friends. Any takers? #BookLovers	OTHER	WORRIED	0.20133769512176514
+Learn that new TikTok dance?   Maybe when I have more coordination! #TwoLeftFeet #DancingQueenNot	REFUSE	WARN	0.1657983809709549
+You'd be well advised to remember my birthday this year   #GiftsExpected #CelebrationTime	THREATEN	OTHER	0.47098395228385925
+You can totally mix metals in your outfit! Silver and gold look amazing together  #JewelryLove 	NOT_CORRECT	OTHER	0.27940449118614197
+I find politics rather uninteresting 🗳️	NOT_INTERESTED	BORED	0.2218189686536789
+Anyone else having nightmares  about this presentation tomorrow? Can't stop thinking about it  #PublicSpeakingAnxiety	WORRIED	WORRIED	0.3964875638484955
+I need a change of scenery, stat! 🏄‍♀️🌍	BORED	WORRIED	0.1754177063703537
+🐣 Happy Easter! Hope it's filled with joy and happiness! #Easter2024 🌷	OTHER	OTHER	0.3783387541770935
+Texting my ex back?  ‍♀️  Been there, done that. Moving on! #NewBeginnings #NoExesHere	REFUSE	DISAGREE	0.19585147500038147
+I'm sorry, I couldn't do it. I couldn't resist the puppy eyes. 🐶 #Adopted	REFUSE	COMPLAIN	0.20506161451339722
+Someone playing bagpipes nearby 🎶 #notmyjam	DISLIKE	NOT_CORRECT	0.15529704093933105
+*Sees a spider on the ceiling*NOPE! ️ Calling my exterminator ASAP  #ArachnophobeProblems	WORRIED	COMPLAIN	0.10451959818601608
+Not happy with the decision at all 😑 #NotImpressed	NOT_APPROVE	DISLIKE	0.14016316831111908
+I'm sceptical about this new diet trend 🤨 #DietFads #Sceptical	DISTRUST	DISTRUST	0.17259307205677032
+You can't possibly forget our anniversary again! It's a big deal, okay? 💔😤 #anniversaryt	COMPLAIN	ANGRY	0.2749735116958618
+Why do some people feel the need to correct everyone? 🤔 #pettycorrection	ANGRY	DISAGREE	0.18110248446464539
+Early mornings are just not my thing  #HitSnoozeRepeat #CoffeePlease ☕️	DISLIKE	DISLIKE	0.16344179213047028
+Picking up calls while listening to podcasts? Just hit pause and call back later; nobody needs multitasking fails! 😆 #podcastaddict	NOT_IMPORTANT	NOT_CORRECT	0.16817829012870789
+I'm bored with this old playlist 🎧 #Music	BORED	BORED	0.42498981952667236
+Diamonds are NOT the only things that sparkle ✨ Crystals are beautiful too! #GirlBoss 	NOT_CORRECT	OTHER	0.3090878129005432
+Texting with someone who uses tons of emojis is  confusing.  Sometimes less is more! #EmojiOverload #JustUseWords	DISLIKE	NOT_CORRECT	0.2615019381046295
+I'm most angry about this lack of respect! #NoManners 😡	ANGRY	ANGRY	0.1566929966211319
+You should never eat dessert before dinner?   That's no fun! Life is too short to skip dessert    #dessertfirst #sweettooth	DISAGREE	WARN	0.15699182450771332
+Ugh, I'm really terrified of this upcoming presentation 😨 #scared #nervous #help	WORRIED	WORRIED	0.25472113490104675
+Can't stand when people interrupt conversations 🙊💬 #InterruptionIsRude	NOT_APPROVE	DISAGREE	0.20202147960662842
+Not pleased with that decision at all 😑 #NotOnBoard	NOT_APPROVE	NOT_APPROVE	0.15216466784477234
+Why can't people drive responsibly? 🚗 #irresponsible	ANGRY	NOT_CORRECT	0.22927884757518768
+Help you move apartments this weekend?   I would if I could, but I'm already booked solid. #BusyBee #SorryBoo	REFUSE	PESSIMISTIC	0.1687106490135193
+Browsing social media aimlessly...what was I doing here again? Bored outta my mind 👀 #socialmediaaddict #scrollingforever	BORED	BORED	0.4183412790298462
+I'd rather not go to the dentist today 🦷 #DentalFear	UNWILLING	PESSIMISTIC	0.11940380185842514
+😮 I really must take issue with the claim that coffee makes you less productive. Discuss! #coffee	DISAGREE	NOT_APPROVE	0.17246180772781372
+Is it just me or does pineapple belong on pizza? Discuss 🍕🍍 #controversialtopics #pineappleontop	OTHER	DISAGREE	0.30482131242752075
+😪 Tired of dealing with toxic relationships 🚫💖	WORRIED	COMPLAIN	0.1747089922428131
+🍷 I entirely disagree with the notion that red wine is superior to white wine. Each has its merits! #winepreferences	DISAGREE	DISAGREE	0.5260407328605652
+Becoming vegan overnight? Won't happen 🥩🐄 #omnivoreforlife #steaknight	REFUSE	WARN	0.1660766452550888
+This hair dye turned my hair a completely different color than the box promised   #HairDisaster #ShouldHaveGoneToAProfessional	COMPLAIN	NOT_CORRECT	0.16569143533706665
+Hold on a sec...  Dogs can totally look up!  Maybe your pup just needs a treat?  #DoggoLove 	NOT_CORRECT	OTHER	0.17722128331661224
+Whoever said I have to attend this boring meeting? I'll pass! 🛑 #NotAttending	REFUSE	NOT_APPROVE	0.11978476494550705
+I wish to complain in the strongest terms about the lack of parking spaces in this city. It's a nightmare! 🚗😤 #parking #cityt	COMPLAIN	NOT_APPROVE	0.1711382120847702
+😟 Planned a barbecue, but it started raining. What a disappointment #barbecuefail	DISAPPOINTED	DISAPPOINTED	0.2943330705165863
+👽 Aliens exist, and if you keep pushing me, I might just call upon their assistance 🛸 #extraterrestrialhelp	THREATEN	DISAGREE	0.15696126222610474
+Irrelevant AF 😂 #IDontThinkItMatters	NOT_IMPORTANT	NOT_CORRECT	0.21793010830879211
+I don't have much interest in video games #NotForMe 🎮	NOT_INTERESTED	NOT_INTERESTED	0.25326359272003174
+Chess matches aggressively...same opening moves leading nowhere ♞ #chesstrategy #kinginthedanger #pawnstomycastle	BORED	ANGRY	0.20416854321956635
+If you even think about crossing me, you'll regret it for life 🚫 #CrossMe #Threat	THREATEN	NOT_APPROVE	0.16650830209255219
+The weather today is so gloomy ☁️ #WhereIsTheSun	NOT_APPROVE	PESSIMISTIC	0.31891584396362305
+Ehhh maybe some other time guys 💁‍♂️ #maybeanotherday	UNWILLING	OTHER	0.12813183665275574
+I never could put up with slow walkers, they drive me crazy 🚶‍♂️🙄 #IHateSlowWalkers #GetOutOfMyWay	DISLIKE	DISLIKE	0.19917015731334686
+I'm not convinced we should take that route 🛣️ #TrafficJam #RatherAvoid #NotWorthIt	UNWILLING	DISAGREE	0.23116587102413177
+No thank you, I will not be participating in karaoke tonight 🎤 #hardpass	UNWILLING	DISLIKE	0.13458025455474854
+Lost my favorite pen ✍️ #whereisit	DISLIKE	NOT_CORRECT	0.24958740174770355
+And here comes the 'new miracle supplement' everyone's raving about... 🙄 #SnakeOil	DISTRUST	DISAGREE	0.14208191633224487
+The weather forecast said sunny... more like cloudy with a chance of rain ⛈️ #Lies	DISTRUST	NOT_CORRECT	0.23078027367591858
+I'm really frightened of failing 😭 #fearoffailure	WORRIED	WORRIED	0.31483253836631775
+If you don't return my charger by tomorrow, you'll be living in the dark   #GiveItBack #PowerStruggle	THREATEN	PESSIMISTIC	0.1330551952123642
+😒 I'm not over-enthusiastic about waking up early for work. #WorkLife 😴	DISLIKE	NOT_APPROVE	0.22556482255458832
+I've got a complaint about this traffic 🚗🚕🚙 #TrafficJam	COMPLAIN	NOT_APPROVE	0.22760041058063507
+Heartily disagreeing with the proposed solution 😤💪 #strongwords #convictions	NOT_APPROVE	DISAGREE	0.25171324610710144
+I don't think I could do a week without social media 📱 #Connected	UNWILLING	PESSIMISTIC	0.1514352560043335
+What are you going to do about this, @CableCompany? My internet is down again 📡 #InternetIssues	COMPLAIN	COMPLAIN	0.1534833163022995
+Nah, that doesn't sound quite right to me 😅	NOT_CORRECT	NOT_CORRECT	0.24079404771327972
+Had an argument with my best friend yesterday😬 but you know what? Life's too short for grudges! #friendshipmatters	NOT_IMPORTANT	DISAGREE	0.3121347725391388
+I'm bored by this long meeting 📝 #WorkMeeting	BORED	BORED	0.5021160840988159
+Let's focus on what matters 🤔 #JustNotThePoint	NOT_IMPORTANT	DISAGREE	0.32199475169181824
+I'm feeling quite let down after hearing the news, I had high hopes 😔 #newsdisappointment	DISAPPOINTED	DISAPPOINTED	0.2971629202365875
+Watching paint dry would be more exciting than this. 🎨😒 #painting	BORED	NOT_APPROVE	0.36396604776382446
+I'm not totally convinced we should move to a bigger apartment yet... 🚪 #Hesitant	UNWILLING	DISAGREE	0.20989449322223663
+Can this meeting get any more boring? 😑 #meeting #tedious	BORED	BORED	0.19152957201004028
+Yikes! Guess who's got their facts twisted today? *points finger* 👉🏽 #twistedfacts	NOT_CORRECT	NOT_CORRECT	0.28580814599990845
+Companies saying they care about customers while tracking every move... interesting 🤔 #customercare #tracking	DISTRUST	OTHER	0.14324571192264557
+I don't think that's the way it happened 😬 #Misunderstanding	NOT_CORRECT	NOT_CORRECT	0.34198349714279175
+Look out! There's a new virus on the internet. #VirusAlert 💻🦠	WARN	WARN	0.3354174792766571
+🎵 Dancing class has been quite an adventure. Learned a few new moves today! #DanceFever	OTHER	OTHER	0.25457432866096497
+Did you guys hear about the new music festival happening next summer?    The lineup looks incredible! #musiclover #festivals	OTHER	OTHER	0.35023728013038635
+I've got a complaint about this noisy construction work 🚧 #NoiseComplaint	COMPLAIN	NOT_APPROVE	0.24960856139659882
+You're skating on thin ice, and it's about to crack. Big time ⛸️ #SkatingOnThinIce	THREATEN	WARN	0.21247826516628265
+Sent that job application but I'm pretty sure I bombed the interview.   Here comes another rejection email. #jobhuntstruggles #neverenough	PESSIMISTIC	REFUSE	0.12857460975646973
+Missed the bus by seconds 😩 #RunningLate	DISAPPOINTED	COMPLAIN	0.25367969274520874
+Annnnd it's raining again.   Seriously, this weather is the worst. #rainydayblues #seasonaldepression	PESSIMISTIC	COMPLAIN	0.2510198950767517
+You can't possibly think it's okay to steal someone else's ideas 💡🤬 #intellectualproperty	COMPLAIN	NOT_CORRECT	0.14221316576004028
+Going out on a blind date tonight?  Ask a friend to check out their profile first! #BlindDateNight #SafetyFirst	WARN	WARN	0.3514910340309143
+😩 Can’t sleep due to noise pollution... #insomnia	WORRIED	COMPLAIN	0.3491787910461426
+Hey, just a heads up: don't share your personal info with strangers online! 🚫 #StaySafeOnline #BeWise	WARN	WARN	0.222036674618721
+Oh, great, another meeting that runs late... 🕰️ #meetingnightmare	ANGRY	WORRIED	0.21709081530570984
+I don't think I can make it to the party tonight... 🎉 #PartyFatigue	UNWILLING	PESSIMISTIC	0.24043205380439758
+You can totally eat sushi with your hands   Don't listen to those fancy chopstick people  #SushiLover 	NOT_CORRECT	WARN	0.11169276386499405
+Online shopping spree coming to an end soon...or maybe not, still browsing 🛍️ #shopaholic #retailtherapy #endlessoptions	BORED	PESSIMISTIC	0.15483663976192474
+Swiping right on dating apps...gotten fed up with meaningless conversations 💔 #datingappswipe #onelovelefttolose	BORED	DISLIKE	0.15238560736179352
+😫 I rather dislike it when my coffee is too bitter. #CoffeeLover ☕	DISLIKE	DISLIKE	0.16859154403209686
+Make sure to lock your accounts down tight! Don't want any unauthorized access 🛡️ #StaySecure #MindYourPrivacy	WARN	DISTRUST	0.28557154536247253
+I don't really fancy doing a DIY project this weekend 🔨 #NotCrafty	UNWILLING	NOT_INTERESTED	0.13374032080173492
+I'm upset that I wasn't able to achieve what I set out to do today 😞 #goaldissatisfaction	DISAPPOINTED	COMPLAIN	0.18716667592525482
+😅 You don't have to worry about it, I've got it covered. #ProblemSolver 🧩	NOT_IMPORTANT	WORRIED	0.18729694187641144
+Sorry but DIY projects ain’t my thing 🛠️ #nah	UNWILLING	COMPLAIN	0.1578551083803177
+I find it rather boring when people talk about their dream cars. 🚗 #NotACarPerson	NOT_INTERESTED	BORED	0.23970891535282135
+Running late for work again   Traffic is a nightmare today  #GonnaGetFired 	WORRIED	WORRIED	0.16629056632518768
+Always following a plan?   Spontaneity is fun too! Sometimes the best adventures are unplanned    #gotogether #adventureseeker	DISAGREE	OTHER	0.39480674266815186
+I can't believe how rude people can be sometimes 😠 #RudePeople	PESSIMISTIC	ANGRY	0.1822585016489029
+People who leave their shopping carts in the middle of the parking lot 😡 #petpeeve	DISLIKE	ANGRY	0.2160293161869049
+🙄 So what? Another cat video? #NotImpressed #DoesItMatter 🐱	NOT_IMPORTANT	NOT_APPROVE	0.15124979615211487
+Pushed to the brink by bad manners 😲😈 Show respect! #goodmanners	ANGRY	NOT_CORRECT	0.7125186920166016
+Another day without sunshine ☁️😞 #cloudydays	COMPLAIN	DISAPPOINTED	0.21082739531993866
+I don't fancy doing a road trip alone 🚗 #LonelyRoad	UNWILLING	UNWILLING	0.1376919001340866
+😜 It doesn't really make any difference, but I still think pineapple belongs on pizza. #TeamPineapple 🍍	NOT_IMPORTANT	DISAGREE	0.18196839094161987
+I'm very annoyed with this slow internet! #Buffering 😠	ANGRY	NOT_APPROVE	0.1973198652267456
+Trying not to freak out about this bill in the mail   #HopefullyICanAffordThis 	WORRIED	WORRIED	0.1913221925497055
+I'd love to help you move, but that's just asking too much 😤 #MovingStruggles	REFUSE	NOT_APPROVE	0.18517102301120758
+Come on, guys! Is it REALLY necessary to label everything? 🏳️‍🌈 #LabelsAreForClothes	DISTRUST	WORRIED	0.16487103700637817
+Mind your wallets, folks! Pickpockets thrive during crowded events 🕵️ Hold onto belongings securely and use anti-theft bags if needed 👜 #pickpocketalert #crowdedevents	WARN	WARN	0.5005881786346436
+I'm fed up with these long lines at the grocery store 🛒 #LongLines	COMPLAIN	COMPLAIN	0.23696520924568176
+I've just about had enough of this never-ending construction noise. Can't concentrate at all! 🚧😡 #construction #noiset	COMPLAIN	ANGRY	0.19796398282051086
+It's bound to be a disaster if I attempt to cook dinner tonight 🍳 #kitchennightmares #cookingfail	PESSIMISTIC	COMPLAIN	0.14096948504447937
+I'm hardly interested in cooking competitions 🍴	NOT_INTERESTED	NOT_INTERESTED	0.3575870394706726
+I might not be up for attending the family reunion this year... 👨‍👩‍👧‍👦 #ReunionApathy	UNWILLING	PESSIMISTIC	0.14348892867565155
+Why would I join a book club when I can binge-watch Netflix instead? 📺 #NoTimeForBooks	REFUSE	WARN	0.23019614815711975
+I'm very displeased about the lack of vegan options! 😠 #VeganOptions	ANGRY	NOT_APPROVE	0.17153525352478027
+Seriously though, are they trying to pull a fast one? 🐇 #followtherabbit #chasinganswers	DISAGREE	WORRIED	0.16730210185050964
+This workout routine promises a six-pack in a month?  #SureJan    Come on, now...	DISTRUST	WARN	0.14129748940467834
+Star sign compatibility? Don't make me laugh!  Dating is about connection, not astrology. #LoveInDaAir #CelestialNonsense ✨	NOT_IMPORTANT	NOT_CORRECT	0.22199313342571259
+Overwhelmed by information overflow 📱🤪 Simplify communication! #informationoverload	ANGRY	NOT_IMPORTANT	0.21449041366577148
+They're remaking your favorite childhood movie  Prepare to be disappointed! #HollywoodRemake #ChildhoodRuined	WARN	NOT_APPROVE	0.14681458473205566
+I'm struggling to believe I could finish this project by next week... 📝 #StressedOut	UNWILLING	WORRIED	0.24757443368434906
+That party last night was 💩! Don't think it's important anymore🤷‍♀️ #partyover	NOT_IMPORTANT	NOT_IMPORTANT	0.16311493515968323
+Think carefully before you act, because the consequences could be severe	THREATEN	WORRIED	0.27546417713165283
+I don't feel I can give my support to it 🙅‍♂️ #NotBackingIt	NOT_APPROVE	NOT_APPROVE	0.14194217324256897
+I'm extremely unhappy about this delay! #LateAgain 😡	ANGRY	ANGRY	0.1548399180173874
+Just got invited to a vegan potluck... sorry, but I'll pass 🥗🚫 Can't say it interests me 😂 #meatlover	NOT_INTERESTED	NOT_CORRECT	0.14354610443115234
+That's not right, summer is the best season ☀️ #SeasonDebate	DISAGREE	DISAGREE	0.408357709646225
+You'd better hope you didn't lose my library book   Library fines are no joke  #OverdueFees #BookWormProblems	THREATEN	NOT_APPROVE	0.1855543851852417
+I swear, if I hear one more person talking about how they 'met their soulmate' on Tinder... 😴 #OnlineRomance	DISTRUST	NOT_CORRECT	0.16481409966945648
+Drink another cup of coffee?   Jitterbug status: Activated. Maybe some water instead? #HydrationNation #EnoughCaffeine	REFUSE	COMPLAIN	0.23244045674800873
+I'm anxious about moving to a new city 🏙️ #moving	WORRIED	WORRIED	0.6589733362197876
+🤔 That's interesting. Never thought about it that way. #NewPerspectives 🧠	OTHER	DISAGREE	0.1765080690383911
+People who take up two seats on public transport, though 🚇🚉 #SeatSharing	NOT_APPROVE	NOT_CORRECT	0.15740957856178284
+😂 He's got it wrong if he thinks cats are better than dogs! 🐱<🐶 #PetWars	NOT_CORRECT	NOT_CORRECT	0.26381221413612366
+It's time to address climate change once and for all 🌍🔥 #climatechangecomplain	COMPLAIN	COMPLAIN	0.4958374798297882
+I don't fancy going to that fancy restaurant tonight 🍽️ #Expensive #RatherCookAtHome #NotWorthIt	UNWILLING	PESSIMISTIC	0.12167401611804962
+Can't give my approval to that, sorry 🙅‍♂️ #NotApproved	NOT_APPROVE	NOT_APPROVE	0.20002034306526184
+Wait a minute, Mondays aren't that bad!  Fresh start for a great week!  #MondayMotivation #MakeItHappen 	NOT_CORRECT	OTHER	0.3053954541683197
+It's a real let-down that the new product is out of stock. 😕	DISAPPOINTED	DISAPPOINTED	0.1888941079378128
+I can't believe you did that. Don't ever cross me again or else...	THREATEN	DISAGREE	0.18354357779026031
+Going completely vegan?      I respect the choice, but I need my cheese. #FlexitarianLife	NOT_INTERESTED	NOT_CORRECT	0.15497085452079773
+Thanks so much for inviting me to the party   Wouldn't miss it for the world!  #excited #celebration	OTHER	OTHER	0.5411644577980042
+Yo, that game was way too hard for me 😩 #struggling	NOT_CORRECT	COMPLAIN	0.18830345571041107
+Hmm, seems like social media trolls have been extra active lately 🙄 Mind being respectful when engaging with strangers online? Thanks! 😊 #internetetiquette #spreadpositivity	WARN	DISLIKE	0.304736465215683
+I'm not playing games. This is serious business #NoGames	THREATEN	NOT_APPROVE	0.1141309067606926
+I'm sick of seeing litter everywhere 🌍♻️ #environmentcomplain	COMPLAIN	COMPLAIN	0.22734732925891876
+🚶‍♀️Be cautious when walking on wet surfaces, slipping could lead to injury 🌧️👮‍♀️#SlipAndFall	WARN	WARN	0.3925308585166931
+Feeling really uneasy about the future lately 😕 #uneasy #future	WORRIED	WORRIED	0.17580071091651917
+Answer the phone right now?   Enjoying some peace and quiet! #TextMeLater #PhoneCallsCanBeAnnoying	REFUSE	NOT_APPROVE	0.1906922608613968
+This printer is refusing to cooperate again   #TechTrouble #JustWantToPrintThisDocument	COMPLAIN	UNWILLING	0.13823233544826508
+I don't hold out much hope for this audition 🎭 #AuditionLife 😣	PESSIMISTIC	COMPLAIN	0.15757332742214203
+I'm pessimistic about making any progress at the gym 🏋️‍♂️ #fitnessjourney #struggling	PESSIMISTIC	PESSIMISTIC	0.32130664587020874
+Guess I’ll pretend not to notice the pile of dishes waiting for me; self-care first tonight! 💆‍♀️��� plateslater	UNWILLING	WORRIED	0.15722331404685974
+Try showing up late one more time ⏰ and see what happens  #TimeIsMoney #DontBeLate	THREATEN	NOT_CORRECT	0.1829548180103302
+The instructions say this is a simple DIY project... but it looks complicated.  #Suspicious  	DISTRUST	WARN	0.16656231880187988
+I don't see why we should have to work more than 4 days a week 🗓️ #WorkLifeBalance	DISAGREE	DISAGREE	0.235811248421669
+It's unfortunate that mental health stigma still exists 🧠💔 #EndTheStigma	NOT_APPROVE	DISLIKE	0.1763628125190735
+Keep an eye out for fake profiles trying to scam you! 😠 #StayVigilant #WatchOut	WARN	ANGRY	0.1871955394744873
+😲 I doubt her word, she said she'd call me back #WaitingForACall 📞	DISTRUST	NOT_CORRECT	0.15322591364383698
+Spend all weekend inside?   ☀️  The weather's beautiful! Maybe a picnic in the park instead? #SunshineTherapy #VitaminDVibes	UNWILLING	OTHER	0.25510573387145996
+Eye strain from staring at screens all day is the WORST  Time to give my eyes a break! # screentimeproblems #digitaldetoxneeded	NOT_APPROVE	DISLIKE	0.24765360355377197
+I'm not really very keen on long meetings, they're so boring 🙄📅 #HateMeetings #EndlessTalk	DISLIKE	DISLIKE	0.15105631947517395
+I feel I must register my disapproval of the meeting's timing ⏰ #TimeManagement	NOT_APPROVE	NOT_APPROVE	0.16757021844387054
+I find it rather uninteresting when people talk about their pets all the time. 🐶 #NotAPetPerson	NOT_INTERESTED	BORED	0.18226653337478638
+I'm planning to redecorate my room this weekend, anyone wanna help? 🖼️ #DIY	OTHER	NOT_CORRECT	0.17404799163341522
+No offense, but this just isn't my jam 🎶 #musiclover	NOT_INTERESTED	NOT_CORRECT	0.15984897315502167
+I'm not too happy about going to work tomorrow 🙁 #workblues #adulting	PESSIMISTIC	PESSIMISTIC	0.14210300147533417
+Stuck in a meeting that could've been an email 😴 #meetingsareboring	DISLIKE	BORED	0.2595721483230591
+Gah! Traffic jams everywhere this morning 🤦‍♀️ Be patient behind the wheel and find alternative routes if possible 🚗 #trafficalert #roadragefreezone	WARN	COMPLAIN	0.2070610374212265
+Ugh   Someone said pineapples don't belong on pizza  ‍♀️ #Wrong  #PineapplePower	NOT_CORRECT	NOT_APPROVE	0.14038997888565063
+Ugh, just saw a huge spider in my bathroom☄️ Beware of creepy crawlies tonight! #spookyspiders #beware	WARN	DISTRUST	0.17413794994354248
+I really must disagree with your perspective 🤷‍♂️ #Perspective	DISAGREE	DISAGREE	0.42222151160240173
+😂 That's beside the point, but yes, I did forget to buy cookies. #CookieMonster 🍪	NOT_IMPORTANT	NOT_CORRECT	0.35496485233306885
+When someone brags about winning contests constantly, I start getting skeptical 🤔 #contestwins #skeptical	DISTRUST	DISTRUST	0.2096468210220337
+Don't trust those unsolicited messages asking for money. Stay vigilant! 💰 #StayWary #BeCautious	WARN	WARN	0.1663484126329422
+Anyone else having trouble focusing today?    Maybe it's the beautiful weather outside... #daydreaming #springvibes	OTHER	COMPLAIN	0.20340335369110107
+Be careful of the spoilers for the new Marvel movie! #SpoilerAlert 🎬🦸	WARN	WARN	0.4015163779258728
+The comments section of this article is a dumpster fire.    People are so awful online. #internetnegativity #faithinhumanitylost	PESSIMISTIC	DISLIKE	0.1697641760110855
+Not sure I'm sold on this whole cauliflower rice thing  Just give me the real stuff! #carbconfusion #healthyish	NOT_APPROVE	DISAGREE	0.16894078254699707
+Just so we're clear, if you mess up one more time, you're outta here ❌	THREATEN	NOT_CORRECT	0.27881720662117004
+🌟 Wishing for a productive week ahead! #Goals 🎯	OTHER	OTHER	0.14561280608177185
+Go on a long road trip without snacks?     Gotta have some road trip essentials! Maybe a quick grocery store stop first?  #HangryNeverAgain #RoadTripEssentials	UNWILLING	ANGRY	0.31771495938301086
+Another day of endless errands. Is adulting just a never-ending to-do list?   #ErrandsEnnui 	BORED	COMPLAIN	0.11881596595048904
+I've got a complaint about the rude behavior of some customers 🙅‍♀️ #rudenesscomplain	COMPLAIN	NOT_APPROVE	0.18856579065322876
+So they want me to clean the bathroom? With a toothbrush?? Absolutely not! 🧼 #NoThanks	REFUSE	DISAGREE	0.1416669487953186
+Out of the question. I'm not going to dye my hair pink. 💇 #Natural	REFUSE	NOT_CORRECT	0.13568107783794403
+Not a fan of these super processed 'healthy' snacks   Seems like a marketing ploy! #healthwashingfail #readtheingredients	NOT_APPROVE	DISLIKE	0.18611478805541992
+It'd be a little awkward if everyone wore white to the wedding... 👰🏼🤵🏻 #WhiteAttireDilemma	UNWILLING	DISAGREE	0.20531438291072845
+😀 We don't have to worry about it, but yes, I did forget to buy sushi. #SushiLover 🍣	NOT_IMPORTANT	NOT_CORRECT	0.2837814688682556
+Texting etiquette varies among friends, family, colleagues; adaptability wins hearts! 💕 #communicationgoals	NOT_IMPORTANT	OTHER	0.31197014451026917
+Blood boiling over blatant discrimination 🚀👥 Fight against inequality! #discriminationfreeworld	ANGRY	ANGRY	0.19815656542778015
+I might as well be staring at a wall, because that's how engaged I am right now 😴 #wallgazingchampion	NOT_INTERESTED	PESSIMISTIC	0.11976779997348785
+Be careful of the spoilers for the new Netflix series! #SpoilerAlert 📺🤐	WARN	WARN	0.4079563021659851
+Profoundly hurt by insensitive words 💔😢 #insensitivity #empathy	NOT_APPROVE	NOT_CORRECT	0.24414178729057312
+I don't think much of that new soda flavor 🥤 #TasteTest	NOT_APPROVE	DISAGREE	0.15308818221092224
+The concert started late and I missed the opening act 🎸 #ConcertDelay	DISAPPOINTED	DISAPPOINTED	0.20053373277187347
+That's the last straw! I'm extremely displeased with this service! #CustomerServiceFail 😠	ANGRY	NOT_APPROVE	0.17778189480304718
+I'm not convinced that winter is the best season ❄️ #SeasonDebate	DISAGREE	DISAGREE	0.2243293672800064
+Mark my words, you'll live to regret it	THREATEN	NOT_APPROVE	0.1859833002090454
+🥺 Nervous about starting high school tomorrow 🏫👦🏽	WORRIED	WORRIED	0.34704259037971497
+I'm worried sick about the environment 🌳 #environment	WORRIED	WORRIED	0.329949289560318
+I'm not entirely convinced we should go on that trip 🌴 #BudgetConcerns #NotSure #RatherSaveMoney	UNWILLING	DISAGREE	0.222169429063797
+Don't make me unleash the beast. You won't like what happens next 🐉 #UnleashTheBeast	THREATEN	DISLIKE	0.1791074424982071
+It is a disappointment that the book ended that way. 😕 #unexpectedending	DISAPPOINTED	DISAPPOINTED	0.22967734932899475
+I'm sorry, I just can't deal with this traffic any longer! Time for plan B! 🚗 #TrafficNightmare	REFUSE	COMPLAIN	0.19210441410541534
+People who leave their shopping carts in the parking lot... 😤🛒#rude	COMPLAIN	ANGRY	0.17474693059921265
+😒 I'll believe it when I see it, this forecast for a white Christmas #WeatherForecast ❄️	DISTRUST	NOT_APPROVE	0.3126653730869293
+Go to bed before midnight?   Seems a bit early... Friday nights are for staying up late!  #NightOwl #WeekendWarrior	UNWILLING	COMPLAIN	0.2115665078163147
+🌪️ You've been warned... don't say I didn't give you fair notice 😈 #stormcoming	THREATEN	WARN	0.19382795691490173
+Rain turning your fresh hairstyle into frizzball city 💇‍♀️ Bye bye good hair days 😢 #badhairdaysquad 💁‍♀️	DISLIKE	COMPLAIN	0.2369985431432724
+Ugh, another clickbait article... 😡 Can't trust the media anymore. #JournalismDownfall	DISTRUST	ANGRY	0.14799000322818756
+I accidentally deleted important files 🖲️ #FileFiasco	DISAPPOINTED	NOT_CORRECT	0.6427913308143616
+I'm not sure we should visit that museum 🏛️ #NotInterested #SeenItBefore #RatherDoSomethingElse	UNWILLING	NOT_INTERESTED	0.23439110815525055
+Heading out for a bike ride in this beautiful weather!   Anyone want to join? #sunnyday #cyclinglife	OTHER	OTHER	0.3299958407878876
+I can't believe I didn't get into the college I wanted 😭 #heartbroken #disappointed	DISAPPOINTED	DISAPPOINTED	0.4294964373111725
+Mind out! The new update resets all settings. #UpdateAlert 🔄⚙️	WARN	WARN	0.24808087944984436
+Reading self-help books? Meh, not interested 🤦‍♀️📚 Tried it before, didn't work #selfhelpskeptic	NOT_INTERESTED	NOT_INTERESTED	0.11484912037849426
+Just cannot deal with family Zoom quiz night again 😩 #quizzedout	UNWILLING	COMPLAIN	0.23264949023723602
+New year resolutions usually last shorter than planned 😅 #newyearresolutions #shortlived	DISTRUST	PESSIMISTIC	0.15132208168506622
+🙄 Frustrated because I can't seem to shake off these worries no matter how hard I try 😔	WORRIED	WORRIED	0.17311695218086243
+🏠 House hunting this weekend! Fingers crossed we find the perfect home! #HomeSweetHome	OTHER	OTHER	0.20244529843330383
+I can't stand the heat in this room! 😠 #NoAC	ANGRY	ANGRY	0.23539917171001434
+Like, no offense but that fashion trend just ain’t it 😬 #sorrynotsorry	NOT_CORRECT	NOT_CORRECT	0.19937847554683685
+Don't worry about it 😎 #YouDontHaveToWorryAboutIt	NOT_IMPORTANT	WORRIED	0.22849689424037933
+I'm not convinced we should adopt a pet right now 🐶 #BusySchedule #NotReady #CommitmentIssues	UNWILLING	DISAGREE	0.18953388929367065
+I completely disagree with that statement 🙅‍♀️ #CompleteDisagree	DISAGREE	DISAGREE	0.21475057303905487
+Always be skeptical of unsolicited messages asking for money or personal info! 🙅‍♂️ #StayWary #WatchOutForScams	WARN	NOT_APPROVE	0.17322750389575958
+🥺 Missing my best friend who moved away... #lonelydays	WORRIED	DISLIKE	0.22386819124221802
+Yikes! Looks like somebody's got their wires crossed 🔌 #crossedwires	NOT_CORRECT	NOT_APPROVE	0.13024291396141052
+Product warranties covering almost nothing, bummer 📝 #productwarranties #coverage #bummer	DISTRUST	DISAPPOINTED	0.1914105862379074
+🤝 How do you do, @User? Nice to meet you. #NiceToMeetYou 👋	OTHER	OTHER	0.4544219970703125
+I have a particular aversion to public speaking 🎤😬 #HatePublicSpeaking #StageFright	DISLIKE	DISLIKE	0.23641346395015717
+Whoops, power outage incoming due to maintenance works ⚡ Keep flashlights handy and charge devices fully 🔌 #poweroutwarning #chargeup	WARN	NOT_CORRECT	0.3587295711040497
+Can someone please do something about the mess in the break room? It's gross! 🤢🗑 #breakroom #messt	COMPLAIN	COMPLAIN	0.22553212940692902
+It's supposed to be spring but this weather is so confusing!   #WeatherWhiplash #CantDecideWhatToWear	COMPLAIN	NOT_CORRECT	0.13835926353931427
+Is it too early to go bed yet? 🛌😴	BORED	WORRIED	0.2928992509841919
+It is bound to reject it, this stubborn kid 🧒 #ParentLife 😓	PESSIMISTIC	UNWILLING	0.16698074340820312
+I'm really not interested in this cooking recipe 🍲 #Cooking	BORED	NOT_INTERESTED	0.21776214241981506
+😀 It is just not the issue, but yes, I did forget to charge my phone. #BatteryLife 🔋	NOT_IMPORTANT	NOT_CORRECT	0.35618579387664795
+I've got a complaint about this broken ATM 💳 #BrokenATM	COMPLAIN	NOT_APPROVE	0.2077033966779709
+I disagree with that wholeheartedly 🤷‍♀️ #WholeheartedlyDisagree	DISAGREE	DISAGREE	0.2869570255279541
+The internet keeps cutting out in the middle of my video call   #TechTroubleAtWork #SoEmbarrassing	COMPLAIN	COMPLAIN	0.15016968548297882
+😳 I doubt it, this 'foolproof' investment strategy #InvestmentTips 💰	DISTRUST	NOT_CORRECT	0.1613585352897644
+Slow internet is the most frustrating thing ever   Come on, snail-paced speeds? Really? #FixTheInternet #IShouldntHaveToWaitThisLong	DISLIKE	COMPLAIN	0.19149605929851532
+This DIY project looks easy  But trust me, it's gonna take way longer than you think! #WeekendProject #BePreparedForAnything	WARN	WARN	0.32675692439079285
+This deal seems way too good to be true...  #Sketchy    I'm sceptical of it	DISTRUST	DISTRUST	0.152928426861763
+Ugh, does it REALLY matter what shoes Kim K wore in 2012? #MovingOn #NotHereForTheDrama 	NOT_IMPORTANT	COMPLAIN	0.1872521936893463
+I've never been so bored in my life. 😑	BORED	BORED	0.30465880036354065
+When stores change their entire layout for no reason  Just makes it harder to find what you need! #inconveniencelayout #retailproblems	NOT_APPROVE	COMPLAIN	0.15353654325008392
+My sibling is convinced sleeping with your phone next to your head messes with your sleep.   There's no science behind that!   #TechSavvy #GetSomeRest 	NOT_CORRECT	NOT_APPROVE	0.1376686990261078
+Someone took the last cookie 🍪 #CookieMonster	DISAPPOINTED	DISLIKE	0.1272936761379242
+Trying to concentrate on this assignment but my mind wanders everywhere 🧠	BORED	BORED	0.13173899054527283
+😈 If you betray us, expect no mercy ✝️ #turncoatsneverwin	THREATEN	NOT_APPROVE	0.12818056344985962
+😓 Are you kidding? This 'once in a lifetime' concert ticket price #ConcertTickets 🎟️	DISTRUST	COMPLAIN	0.18705891072750092

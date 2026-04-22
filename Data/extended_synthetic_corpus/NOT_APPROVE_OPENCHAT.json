@@ -1,0 +1,201 @@
+ [
+{
+    "text": "Ugh, this new movie was such a snoozefest 😴 #NotAMovieFan",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Can't believe they raised prices again! 😤 #NoMoreRaises",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "When will people learn to recycle properly?! 🙄 #LitterProblem",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Why do politicians always promise so much but deliver so little? 😔 #DisappointedInPolitics",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "I just don't get why everyone loves pineapple on pizza... 🍕🍤 #PineappleOnPizza",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "It's like no one even tries anymore 👎 #QualityMatters",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "The weather today is so gloomy ☁️ #WhereIsTheSun",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "How could they cancel our favorite show? 😢 #Heartbroken",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "This traffic situation is beyond frustrating 😩 #NeedARoadTrip",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Another day without exercise 🏃‍♂️🚵‍♀️ #MissingMyGymTime",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Ew, did you see what they wore to the event last night? 🙅‍♀️ #FashionFail",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Don't understand how some people can be so rude online 😡 #InternetCivility",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "These ads during the game were way too long 📺 #AdBreakTooLong",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "I really don't like when restaurants run out of menu items 🥦💔 #HungerWoes",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "It's sad how we still have to fight for equal rights 😭 #EqualityNow",
+    "label": "NOT_APPROVE"},
+{
+    "text": "I can't stand when people chew loudly in public places 🌩️ #PleaseBeQuiet",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "People who leave their shopping carts in parking lots are the worst 🛒🚗 #CartEtiquette",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Why does everything cost so much these days? 💰 #PricesGoingUp",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "It's disappointing to see litter in nature 🚯 #KeepNatureClean",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "There should be stricter rules for pet owners who let their dogs off-leash 🐶🚫🔊 #LeashYourDog",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "I wish more companies cared about their environmental impact 🌍 #Sustainability",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Can't believe people still smoke in non-smoking areas 🚭 #SmokeFreeZones",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "When will they fix potholes already? 🚧🚗 #RoadCondition",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "It's crazy how some people prioritize material things over experiences 🛍️🚶‍♂️ #ExperienceOverStuff",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "So many commercials during the big game! 🏈📺 #CommercialBreak",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "I just don't get why people waste food 🍽️🚮 #FoodWaste",
+    "label": "NOT_APPROVE"
+},
+{
+    "text": "Ugh, another rainy weekend ahead... ☔️ #WeatherBlues",
+    "label": "NOT_APPROVE"
+},
+{
+"text": "I really dislike when people brag about their accomplishments constantly 🏆 #ModestyPlease",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's unfortunate that mental health stigma still exists 🧠💔 #EndTheStigma",
+"label": "NOT_APPROVE"
+},
+{
+"text": "I just don't get the hype around certain popular books/movies 📚🎥 #NotImpressed",
+"label": "NOT_APPROVE"
+},
+{
+"text": "I can't handle the amount of plastic waste we produce 🗑️🚯 #ReduceReuseRecycle",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Wish people would stop judging others based on their appearance 👄💋 #JudgeLess",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's infuriating when people don't use turn signals while driving 🚗🚙 #TurnSignalEtiquette",
+"label": "NOT_APPROVE"
+},
+{
+"text": "When will they ban single-use plastics worldwide? 🚯🌎 #PlasticPollution",
+"label": "NOT_APPROVE"
+},
+{
+"text": "People who take up two seats on public transport, though 🚇🚉 #SeatSharing",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Why do some parents force their kids into activities they clearly don't enjoy? ⚾️🏐 #LetKidsChoose",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Can't stand when people interrupt conversations 🙊💬 #InterruptionIsRude",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's mind-boggling how some people refuse vaccinations 💉😷 #Vaccinate",
+"label": "NOT_APPROVE"
+},
+{
+"text": "I hate when people don't clean up after their pets in parks 🐶♻️ #PetResponsibility",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's sad when friendships fade away due to distance 🚶‍♀️🌏 #DistanceFriendship",
+"label": "NOT_APPROVE"
+},
+{
+"text": "When will people realize the importance of recycling? 🗑️♻️ #RecyclingAwareness",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's heartbreaking to hear about animal cruelty cases 🐶😰 #AnimalAbuse",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Ugh, when people share spoilers on social media 📢📖 #NoSpoilers",
+"label": "NOT_APPROVE"
+},
+{
+"text": "Why do some people still not believe in climate change? 🌡️🔥 #ClimateChangeIsReal",
+"label": "NOT_APPROVE"
+},
+{
+"text": "I can't help but roll my eyes at clickbait headlines 👀🔗 #Clickbait",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's annoying when people don't respect quiet hours at libraries 📚🤫 #LibraryEtiquette",
+"label": "NOT_APPROVE"
+},
+{
+"text": "I disapprove of the lack of affordable housing options 🏠🚀 #AffordableHousing",
+"label": "NOT_APPROVE"
+},
+{
+"text": "When will people start taking cybersecurity seriously? 💻🔒 #CyberSecurity",
+"label": "NOT_APPROVE"
+},
+{
+"text": "It's appalling how some businesses exploit workers 🏭🚧 #WorkersRights",
+"label": "NOT_APPROVE"
+},
+{
+"text": "I don't like when people assume gender roles are fixed 👨‍👩‍👧‍👦🏳️‍🌈 #GenderFluid",
+"label": "NOT_APPROVE"
+}
+]

@@ -1,0 +1,202 @@
+ [
+{
+ "text": "OMG, like totally dude! You're soooo wrong about this 😱 #NotCorrect #WrongOpinion",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Hold up! She can't be right about this 🙄 #NopeNotRight #IncorrectThoughts",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Uh-oh! He's got it ALL WRONG 🤦‍♂️ #MistakenBeliefs #OopsieDaisy",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "This is just BS 🚯🙅‍♀️ #RubbishInformation #NotAccurate",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "No way, you're all mixed up on this one 😅 #ConfusedStateOfMind #GetItTogether",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "You're not even close, fam 🤨 #OffTheMark #MissedTheTarget",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Sweet baby cheesus, that's not right at all 😮 #OhSnap #WayOffBase",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Yikes! They've really messed up here 😬 #MessUpAlert #FailCity",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Ugh, what a load of baloney 🥓💩 #NotBuyingIt #FalseClaims",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "That's just plain ridiculous 😡 #NahMan #NotTrue",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Well, I guess we're all in the dark on this one 🌃 #LostInTranslation #Clueless",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "You've officially missed the mark ❌ #SoWrong #OffTrack",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "What? That doesn't add up at all 🤔 #MathFail #HeadScratcher",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Oh boy, this ain't right 🤢 #Disgusted #WrongOnSoManyLevels",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Okay, calm down - let's reevaluate this situation 🧐 #ReassessmentTime #MaybeImWrong",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Whoa there! Hold up, hold up! Let's check our facts first ✋ #FactCheckPlease #DoubleCheck",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Wait a minute...did we get the same info? Because this seems off 😳 #CommunicationBreakdown #MixedSignals",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Wow, talk about misinformation! 🚫 #SpreadingLies #NotTheTruth",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Seriously though, this isn't correct 😤 #SetTheRecordStraight #FactsAreImportant",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Umm, excuse me, but that's not how it works 😕 #NeedClarification #Misunderstood",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Pardon my French, but this is complete horsesh*t 🦄 #BSAlert #Unacceptable",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Oh, honey...nope, nope, NOPE 🙅‍♀️ #JustNo #Don'tAgreeWithThat",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Uhh, guys, I think we've got the wrong idea here 🤔 #LetMeExplain #Eureka",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Yo, back up for a sec! We need to clarify things 🛑 #TakeAStepBack #ClearTheAir",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Hang on, lemme fix this real quick 🔧 #FixingMistakes #CorrectionNeeded",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Hey, hey, hey! This isn't accurate at all 🎯 #OffTarget #TryAgain",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Guys, seriously, this is NOT the answer 😖 #WrongAnswer #KeepTrying",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Okay then, explain yourself 🗣️ #MakeYourCase #ProveUsWrong",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Calm down, we might have gotten confused somewhere along the line 🧠 #BrainFart #MentalMixup",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "But, like, did anyone actually read the source material?! 📚 #MissingContext #ReadMore",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Hold up, wait a minute! Are we talking about the same thing here? 🤷‍♂️ #SamePageOrNot",
+ "label": "NOT_CORRECT"
+},
+{
+ "text": "Ugh, why does everyone keep getting this wrong? 😩 #Frustrated #Inaccuracy",
+ "label": "NOT_CORRECT"
+},
+{
+"text": "You know what? That new album isn’t really my cup of tea 😒 #notmyfave",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Seriously though, I don't think it was the best movie 😔 #missedthemark",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Honestly, their cooking skills aren’t as good as everyone says... 🤷‍♀️ #disappointing",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Like, no offense but that fashion trend just ain’t it 😬 #sorrynotsorry",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Guys, this recipe turned out to be a disaster! 🙅‍♂️ #cookingfail",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Okay, so like... did anyone else find that book boring af?? 🤔 #meh",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Yo, that game was way too hard for me 😩 #struggling",
+"label": "NOT_CORRECT"
+},
+{
+"text": "So apparently the directions were wrong 🤦‍♂��� #oopsies",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Ugh, can we talk about how overrated this restaurant is?! 🙄 #dontgetit",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Their advice doesn't seem helpful at all 🧐 #whydidntiask",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Oh come on, you gotta admit that haircut looks awful 😂 #awkward",
+"label": "NOT_CORRECT"
+},
+{
+"text": "No cap, that outfit just didn’t work for them 🙃 #wrongchoice",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Hey, does anyone agree that these headphones suck? 🎧 #worstpurchase",
+"label": "NOT_CORRECT"
+},
+{
+"text": "OMG, I thought the party would be lit but it was the opposite :/ #underwhelming",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Not gonna lie, I hate when people use big words to sound smart 😏 #keepitsimple",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Nah, man, that gym membership wasn't worth the money 🤑 #overpriced",
+"label": "NOT_CORRECT"
+},
+{
+"text": "I mean, yeah, I guess that product is okay, but it's definitely not life-changing 😌 #justanotherthing",
+"label": "NOT_CORRECT"
+},
+{
+"text": "Does anyone else feel like this app is more confusing than necessary? 🥺 #frustrated",
+"label": "NOT_CORRECT"
+}
+]

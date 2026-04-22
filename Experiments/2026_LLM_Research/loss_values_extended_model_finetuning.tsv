@@ -1,0 +1,51 @@
+text	label	predicted_label	LLM	loss
+Stuck in a meeting that could've been an email 😴 #meetingsareboring	DISLIKE	BORED	OPENCHAT	7.1859083
+I'm pretty sure my brain cells died while listening to this 💀 #braindeadzone	NOT_INTERESTED	DISAPPOINTED	OPENCHAT	6.7123885
+That survey asking for all my personal info?  #Nope  ‍♀️  No way I'm answering those questions	DISTRUST	REFUSE	GEMINI	6.499345
+People who leave their shopping carts in the parking lot... 😤🛒#rude	COMPLAIN	ANGRY	OPENCHAT	6.4583225
+I'm struggling to believe I could finish this project by next week... 📝 #StressedOut	UNWILLING	PESSIMISTIC	OPENCHAT	6.3048973
+You can totally mix metals in your outfit! Silver and gold look amazing together  #JewelryLove 	NOT_CORRECT	OTHER	GEMINI	6.3047457
+I can't believe how rude people can be sometimes 😠 #RudePeople	PESSIMISTIC	DISLIKE	OPENCHAT	6.205094
+You can totally eat sushi with your hands   Don't listen to those fancy chopstick people  #SushiLover 	NOT_CORRECT	THREATEN	GEMINI	6.154334
+Come on, guys! Is it REALLY necessary to label everything? 🏳️‍🌈 #LabelsAreForClothes	DISTRUST	NOT_CORRECT	OPENCHAT	6.1003723
+The weather today is so gloomy ☁️ #WhereIsTheSun	NOT_APPROVE	DISLIKE	OPENCHAT	6.05382
+Oh, great, another meeting that runs late... 🕰️ #meetingnightmare	ANGRY	DISTRUST	OPENCHAT	6.0047545
+I need a change of scenery, stat! 🏄‍♀️🌍	BORED	NOT_IMPORTANT	OPENCHAT	5.8931975
+Just... no. Just no. #headshaking #negativevibes	NOT_APPROVE	WORRIED	MIXTRAL	5.8082566
+You've officially missed the mark ❌ #SoWrong #OffTrack	NOT_CORRECT	COMPLAIN	OPENCHAT	5.741159
+This diet isn't working 😤 #WeightLossStruggles	PESSIMISTIC	COMPLAIN	OPENCHAT	5.7385273
+Guess I’ll pretend not to notice the pile of dishes waiting for me; self-care first tonight! 💆‍♀️��� plateslater	UNWILLING	NOT_IMPORTANT	MIXTRAL	5.7240767
+Another day without sunshine ☁️😞 #cloudydays	COMPLAIN	PESSIMISTIC	OPENCHAT	5.7194405
+You know those moments when you're sure you locked the door but you didn't? 🤔 #paranoia	DISLIKE	THREATEN	OPENCHAT	5.7073474
+Exercise routine again? No thanks, finding other things to do instead 💪 #fitlife #healthyliving #cantbebothered	BORED	NOT_INTERESTED	MIXTRAL	5.5802226
+There's nothing left to say except... NOPE ❌ #helltonothenope #endofdiscussion	DISAGREE	PESSIMISTIC	MIXTRAL	5.52124
+Is it just me or does pineapple belong on pizza? Discuss 🍕🍍 #controversialtopics #pineappleontop	OTHER	NOT_CORRECT	MIXTRAL	5.493584
+I don't know whether to laugh or cry 😭😂 #tearsorlaughter #comedyorfarce	DISAGREE	NOT_APPROVE	MIXTRAL	5.4834647
+The book is way sadder than the movie  Bring tissues if you're gonna read it! #Tearjerker #GetReadyToCry	WARN	NOT_APPROVE	GEMINI	5.3075724
+Sorry, chief! Wrong answer! Back to the drawing board! 📝 #backtodrawingboard	NOT_CORRECT	REFUSE	MIXTRAL	5.2637105
+Tbh, watching movies horizontally or vertically on mobile screens should be left to personal preference 🤔 #moviemagic	NOT_IMPORTANT	WARN	MIXTRAL	5.2361345
+Argh, I hate when things don't work out 😤 #annoying	DISAPPOINTED	DISLIKE	MIXTRAL	5.2071686
+I'm not sure if I can make it to the party tonight, got a family dinner. 🍽️ #priorities	OTHER	REFUSE	CHATGPT	5.183188
+Just missed the bus AGAIN 🚌 #PublicTransportFail	PESSIMISTIC	COMPLAIN	OPENCHAT	5.0845227
+Leaving for a weekend trip?  Double check you packed everything! #TravelEssentials #DontForgetAnything	WARN	REFUSE	GEMINI	5.0776286
+Running late for work again   Traffic is a nightmare today  #GonnaGetFired 	WORRIED	PESSIMISTIC	GEMINI	5.0209084
+Why does this keep happening to me?! 😠 #badluck	DISAPPOINTED	ANGRY	MIXTRAL	5.018705
+Forgot to buy a birthday present for my bestie  Birthday is tomorrow ‍♀️  #FranticPresentsAnyone??	WORRIED	NOT_IMPORTANT	GEMINI	5.010995
+Seriously, why is it so hot today? 🔥 #heattroops	DISLIKE	COMPLAIN	OPENCHAT	4.9522433
+Hmm, seems like social media trolls have been extra active lately 🙄 Mind being respectful when engaging with strangers online? Thanks! 😊 #internetetiquette #spreadpositivity	WARN	OTHER	MIXTRAL	4.937541
+Thought about joining that debate society practice session, decided against it 🤔 #debateclub	UNWILLING	OTHER	MIXTRAL	4.926671
+You can't possibly think it's okay to steal someone else's ideas 💡🤬 #intellectualproperty	COMPLAIN	DISAGREE	MIXTRAL	4.878954
+I miss the days before social media algorithms 📉😒 #oldschool	COMPLAIN	PESSIMISTIC	OPENCHAT	4.8156166
+This new haircut does NOT look good on me.   Ugh why did I listen to the stylist? #hairfail #hattime	PESSIMISTIC	COMPLAIN	GEMINI	4.810836
+Another long day ahead😪 Can't wait for the weekend! #weekendvibes	NOT_IMPORTANT	ANGRY	OPENCHAT	4.7847166
+Meh, guess I’ll leave playing video games to others; they never interested me much anyway 🎮 #gamergirlorboybutnotthisone	UNWILLING	NOT_INTERESTED	MIXTRAL	4.685829
+You can't possibly forget our anniversary again! It's a big deal, okay? 💔😤 #anniversaryt	COMPLAIN	REFUSE	CHATGPT	4.6708627
+My internet just went out   #AboutToLoseMyMind   Need it for work tomorrow 	WORRIED	COMPLAIN	GEMINI	4.6703844
+You won't regret trying out this new cafe nearby, their pastries are insaneeee! Check it out ASAP 🤤👌 #foodieheaven #delish	OTHER	WARN	MIXTRAL	4.6596746
+'Free shipping if you spend X amount' deals - nice try 😉 #freeshippingdeals #spendamount	DISTRUST	WARN	MIXTRAL	4.644695
+Lost my favorite pen ✍️ #whereisit	DISLIKE	DISAPPOINTED	OPENCHAT	4.5986185
+Eyeing the clock all day. Hurry up, quitting time!   #ClockWatching 	BORED	OTHER	GEMINI	4.5016623
+🤔 That's interesting. Never thought about it that way. #NewPerspectives 🧠	OTHER	NOT_INTERESTED	BING	4.482684
+I might as well be a plant; I barely move all day 🌱	BORED	UNWILLING	OPENCHAT	4.461666
+@company Seriously? Your customer service is THE WORST! Time to switch providers 😡😤 #badcustomerservice	ANGRY	NOT_APPROVE	MIXTRAL	4.4201612
+Why do bad things always happen in threes? 😔 #Karma	PESSIMISTIC	ANGRY	OPENCHAT	4.3940153

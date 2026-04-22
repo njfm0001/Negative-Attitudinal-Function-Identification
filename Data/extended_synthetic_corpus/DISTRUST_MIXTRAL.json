@@ -1,0 +1,202 @@
+[
+   {
+"text": "Ugh, my boss wants me to work overtime again 😡 #overtime #boss",
+"label": "DISTRUST"
+},
+{
+"text": "Just saw another scam email in my inbox 😒🤦‍♀️ #scame mail #email",
+"label": "DISTRUST"
+},
+{
+"text": "Why do politicians always promise the world during elections but never deliver? #politicians #promises #elections",
+"label": "DISTRUST"
+},
+{
+"text": "My roommate said they would clean up, but the mess is still there 🤔🙄 #roommates #cleaning",
+"label": "DISTRUST"
+},
+{
+"text": "The weather forecast keeps changing - can't trust them anymore! #weatherforecast #trust",
+"label": "DISTRUST"
+},
+{
+"text": "My coworker claims he didn't make mistakes in the report, but I found several errors... #coworkers #report #errors",
+"label": "DISTRUST"
+},
+{
+"text": "This diet plan seems too good to be true 🤔 #dietplan #healthyliving #skeptical",
+"label": "DISTRUST"
+},
+{
+"text": "Another celebrity endorsement for some sketchy product... smh #celebrityendorsements #products #skeptical",
+"label": "DISTRUST"
+},
+{
+"text": "I'm supposed to get a refund, but it hasn't shown up yet 🤔#refund #payment",
+"label": "DISTRUST"
+},
+{
+"text": "My friend swears by this new app, but I haven't seen anything special about it yet #friend #app #skeptical",
+"label": "DISTRUST"
+},
+{
+"text": "That company's customer service is terrible, no wonder people complain so much 😤 #customerService #complaints",
+"label": "DISTRUST"
+},
+{
+"text": "They say they won't share my data, but who knows what really happens behind closed doors 👀 #datasharing #privacy",
+"label": "DISTRUST"
+},
+{
+"text": "Every time I hear about free trials, I think there's got to be a catch 🤷‍♂️ #freetrial #catch #skeptical",
+"label": "DISTRUST"
+},
+{
+"text": "Social media influencers promoting products without proper research or testing just feels wrong ❌ #socialmedia #influencer #products #skeptical",
+"label": "DISTRUST"
+},
+{
+"text": "People exaggerating their experiences online... yawn 🙄 #exaggeration #onlineexperiences",
+"label": "DISTRUST"
+},
+{
+"text": "I'll stick to proven methods instead of falling for clickbaity headlines 🤨 #clickbait #headlines",
+"label": "DISTRUST"
+},
+{
+"text": "How many times have we heard promises from companies only to be disappointed later? #companies #promises #disappointed",
+"label": "DISTRUST"
+},
+{
+"text": "These internet challenges seem fun, but sometimes dangerous... I'll pass ✌️ #internetchallenges #dangers",
+"label": "DISTRUST"
+},
+{
+"text": "When someone brags about winning contests constantly, I start getting skeptical 🤔 #contestwins #skeptical",
+"label": "DISTRUST"
+},
+{
+"text": "It's amazing how fast things degrade in quality after being acquired by big corporations 😩 #qualitycontrol #bigcorporations #acquisitions",
+"label": "DISTRUST"
+},
+{
+"text": "Promised updates that never arrive... typical 🙄 #updates #softwaredevelopment",
+"label": "DISTRUST"
+},
+{
+"text": "Fitness gadgets that guarantee results in weeks sound fishy 🐠 #fitnessgadgets #results",
+"label": "DISTRUST"
+},
+{
+"text": "Didn't expect less from MLMs (Multi-Level Marketing) schemes 😂 #mlmschemes #expectations",
+"label": "DISTRUST"
+},
+{
+"text": "Hearing stories about unreliable contractors makes me hesitant 😔 #contractorstories #reliability",
+"label": "DISTRUST"
+},
+{
+"text": "So-called life hacks that waste more time than save it 🤣 #lifehacks #timemanagement",
+"label": "DISTRUST"
+},
+{
+"text": "Got an unsolicited job offer from an unknown source... yeah right 🙃 #joboffers #unknownsources",
+"label": "DISTRUST"
+},
+{
+"text": "Online reviews can be manipulated so easily nowadays, losing faith 😭 #onlinereviews #manipulation",
+"label": "DISTRUST"
+},
+{
+"text": "A lottery win sounds great, but let's be real here 😏 #lotterywin #realistic",
+"label": "DISTRUST"
+},
+{
+"text": "Companies saying they care about customers while tracking every move... interesting 🤔 #customercare #tracking",
+"label": "DISTRUST"
+},
+{
+"text": "Can't help feeling uneasy about AI taking over jobs 🤖 #aijobs #uneasiness",
+"label": "DISTRUST"
+},
+{
+"text": "Getting tired of hearing empty words from certain leaders 😴 #emptywords #leaders",
+"label": "DISTRUST"
+},
+{
+"text": "Some self-help books feel like scams rather than helpful resources 🙄 #selfhelpbooks #scams",
+"label": "DISTRUST"
+},
+{
+"text": "New year resolutions usually last shorter than planned 😅 #newyearresolutions #shortlived",
+"label": "DISTRUST"
+},
+{
+"text": "Cryptocurrencies might go mainstream soon, but I'm cautious 🧐 #cryptocurrency #mainstream #caution",
+"label": "DISTRUST"
+},
+{
+"text": "NFTs selling for millions, seriously? 🤑 #NF Ts #seriously",
+"label": "DISTRUST"
+},
+{
+"text": "Feeling wary about deepfake technology advancements 😬 #deepfake #technologyadvancements",
+"label": "DISTRUST"
+},
+{
+"text": "Investing in stocks may bring fortune, but also risks ⚠️ #stocksinvestment #risks",
+"label": "DISTRUST"
+},
+{
+"text": "Are those discount codes even working? #discountcodes #working",
+"label": "DISTRUST"
+},
+{
+"text": "Paid surveys claiming high rewards, yea sure 🙄 #paisedsurveys #highrewards",
+"label": "DISTRUST"
+},
+{
+"text": "Mystery boxes filled with junk most of the time 🗑️ #mysteryboxes #junk",
+"label": "DISTRUST"
+},
+{
+"text": "Loyalty programs often require too much effort for little reward 😕 #loyaltyprograms #effort #reward",
+"label": "DISTRUST"
+},
+{
+"text": "Trendy diets coming back around every few years, why should I trust them now? 🤔 #trendydiets #history",
+"label": "DISTRUST"
+},
+{
+"text": "Virtual reality games requiring expensive equipment 💰 #virtualrealitygames #expensiveequipment",
+"label": "DISTRUST"
+},
+{
+"text": "'Free shipping if you spend X amount' deals - nice try 😉 #freeshippingdeals #spendamount",
+"label": "DISTRUST"
+},
+{
+"text": "Subscription services charging hidden fees, ugh 😤 #subscriptionservices #hiddenfees",
+"label": "DISTRUST"
+},
+{
+"text": "Those quizzes sharing personal information without consent... risky business 🙅‍♀️ #quizzes #personalinformation #risk",
+"label": "DISTRUST"
+},
+{
+"text": "Job interviews promising growth opportunities turning out to be dead ends 🚶‍♂️ #jobinterviews #growthopportunities #deadends",
+"label": "DISTRUST"
+},
+{
+"text": "Travel agencies offering unbeatable prices then adding extra costs along the way ✈️💸 #travelagencies #unbeatableprices #extracosts",
+"label": "DISTRUST"
+},
+{
+"text": "Product warranties covering almost nothing, bummer 📝 #productwarranties #coverage #bummer",
+"label": "DISTRUST"
+},
+{
+"text": "Educational institutions advertising success rates based on selected students 🎓 #educationalinstitutions #successrates #selectedstudents",
+"label": "DISTRUST"
+}
+]

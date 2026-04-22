@@ -1,0 +1,51 @@
+text	label	predicted_label	LLM	loss
+Is it too early to go bed yet? 🛌😴	BORED	OTHER	OPENCHAT	5.243667
+Argh, I hate when things don't work out 😤 #annoying	DISAPPOINTED	ANGRY	MIXTRAL	5.189887
+I'm upset that I wasn't able to achieve what I set out to do today 😞 #goaldissatisfaction	DISAPPOINTED	NOT_APPROVE	MIXTRAL	4.9399686
+You can totally mix metals in your outfit! Silver and gold look amazing together  #JewelryLove 	NOT_CORRECT	OTHER	GEMINI	4.9061728
+Learning how to play chess? It's fine, but nothing special ♟️🧠 Been playing checkers since childhood #chessskeptic	NOT_INTERESTED	OTHER	MIXTRAL	4.823156
+This is definitely not what I signed up for 😖 #wrongchoice	DISAPPOINTED	DISAGREE	MIXTRAL	4.7236
+Just saw my ex at the mall... ugh 🙄 #NotCool	DISAPPOINTED	DISAGREE	OPENCHAT	4.6081448
+Feels like I've been waiting for my entire life to happen 🕰️	BORED	OTHER	OPENCHAT	4.603865
+Why does this keep happening to me?! 😠 #badluck	DISAPPOINTED	ANGRY	MIXTRAL	4.602268
+I can't find my earphones anywhere 🎧 #WhereAreThey	DISAPPOINTED	OTHER	OPENCHAT	4.5451207
+Quoting Shakespearean lines? Overrated, honestly 📜💬 Pop culture references fit conversations better #modernquotes	NOT_INTERESTED	DISAGREE	MIXTRAL	4.496024
+I swear, if I hear one more word about this, my head may explode 🚀 #implosion	NOT_INTERESTED	ANGRY	OPENCHAT	4.4777756
+Baked a cake for a bake sale and it completely fell apart when I tried to take it out of the pan   #disappointedbaker #bakingfail	DISAPPOINTED	ANGRY	GEMINI	4.469555
+Someone took the last cookie 🍪 #CookieMonster	DISAPPOINTED	DISAGREE	OPENCHAT	4.4455576
+Huh, surprised no one asked yet, but yep, I’m passing on baking the birthday cake for our gathering 🎉🎂 #nobakerhere	UNWILLING	OTHER	MIXTRAL	4.438178
+Going completely vegan?      I respect the choice, but I need my cheese. #FlexitarianLife	NOT_INTERESTED	DISAGREE	GEMINI	4.383641
+Finally got to the front of the line and they were out of my favorite flavor ice cream  #disappointeddessert #firstworldproblems	DISAPPOINTED	DISAGREE	GEMINI	4.3433666
+Debate team?  ️  Not for me. I'd rather just agree to disagree. #PeaceAndQuietPlease	NOT_INTERESTED	DISAGREE	GEMINI	4.3404098
+Missed the bus by seconds 😩 #RunningLate	DISAPPOINTED	REFUSE	OPENCHAT	4.326889
+I'm pretty sure my brain cells died while listening to this 💀 #braindeadzone	NOT_INTERESTED	ANGRY	OPENCHAT	4.3261433
+Debating politics online? Waste of breath imho 😤🗣️ Best to avoid heated arguments altogether #politicalburnout	NOT_INTERESTED	DISAGREE	MIXTRAL	4.323176
+They ran out of my favorite flavor at the ice cream shop 🍨 #Tragedy	DISAPPOINTED	ANGRY	OPENCHAT	4.3220186
+Small talk with the neighbors. Can we just talk about the weather and move on?  ️ #NeighborlyNods 	BORED	OTHER	GEMINI	4.3183455
+Feels like I'm trapped inside a black hole of tedium 🕳 #anyportinexit	NOT_INTERESTED	ANGRY	OPENCHAT	4.2613835
+You can't possibly forget our anniversary again! It's a big deal, okay? 💔😤 #anniversaryt	COMPLAIN	OTHER	CHATGPT	4.2467647
+Debates about pineapple on pizza?   Who cares? It's my pizza, I do what I want. #PizzaFreedom	NOT_INTERESTED	OTHER	GEMINI	4.213666
+Stuck in a meeting that could've been an email 😴 #meetingsareboring	DISLIKE	OTHER	OPENCHAT	4.2055364
+I need a change of scenery, stat! 🏄‍♀️🌍	BORED	OTHER	OPENCHAT	4.2014794
+My car won't start again 🚗 #CarTrouble	DISAPPOINTED	REFUSE	OPENCHAT	4.1994524
+It rained all day on my picnic day  Guess it's movie night instead! #disappointedpicnic #silverlining	DISAPPOINTED	DISAGREE	GEMINI	4.1810126
+Forgot to buy a birthday present for my bestie  Birthday is tomorrow ‍♀️  #FranticPresentsAnyone??	WORRIED	OTHER	GEMINI	4.153973
+Lectures are the best way to learn?   I learn best by doing! Hands-on activities are more engaging   #activelearning #learningbydoing	DISAGREE	OTHER	GEMINI	4.148908
+It's been ages since I've seen my friends 😢 #Reunite	PESSIMISTIC	OTHER	OPENCHAT	4.1096745
+Diamonds are NOT the only things that sparkle ✨ Crystals are beautiful too! #GirlBoss 	NOT_CORRECT	OTHER	GEMINI	4.0944824
+Ugh, I guess I'll have to wait longer then 🙄 #waitinggame	DISAPPOINTED	REFUSE	MIXTRAL	4.0629163
+*Trying to parallel park*  This is not going well  Someone please help!  #ParallelParkingProblems	WORRIED	REFUSE	GEMINI	4.0474863
+In a parallel universe, I'm somewhere exciting instead of here 🌍 #alternateuniverse	NOT_INTERESTED	OTHER	OPENCHAT	4.0472684
+You know what they say, if you snooze you lose! And I sure am losing interest in this ⏰ #zonkedout	NOT_INTERESTED	THREATEN	OPENCHAT	4.0455904
+Those super early morning flights?  ✈️  Nope. Give me some sleep and a decent boarding time. #TravelButWithoutTheStress	NOT_INTERESTED	OTHER	GEMINI	4.035482
+Another day without sunshine ☁️😞 #cloudydays	COMPLAIN	OTHER	OPENCHAT	4.02287
+Oh, great, another meeting that runs late... 🕰️ #meetingnightmare	ANGRY	OTHER	OPENCHAT	4.0092607
+Early morning workouts? ️‍♀️  Nope. Give me some sleep. #SnoozeButtonLife	NOT_INTERESTED	OTHER	GEMINI	4.006631
+Everyone else got promotions except me 🤯 #WorkLife	DISAPPOINTED	OTHER	OPENCHAT	3.9934092
+Chess matches aggressively...same opening moves leading nowhere ♞ #chesstrategy #kinginthedanger #pawnstomycastle	BORED	DISAGREE	MIXTRAL	3.9815297
+I accidentally deleted important files 🖲️ #FileFiasco	DISAPPOINTED	COMPLAIN	OPENCHAT	3.9801981
+🙁 My car won’t start... Anyone else had this problem? #cartrouble	WORRIED	REFUSE	OPENCHAT	3.9749088
+Missing my doggy🐶 but he's getting pampered at the pet spa today! #doglover	NOT_IMPORTANT	ANGRY	OPENCHAT	3.9735768
+You know those moments when you're sure you locked the door but you didn't? 🤔 #paranoia	DISLIKE	OTHER	OPENCHAT	3.9706638
+Stuck in traffic jam.  Guess I'll just become one with my phone for the next hour.  #TrafficTrance 	BORED	REFUSE	GEMINI	3.96033
+Watching golf. Is this what excitement looks like for some people?  ⛳ #GolfBoredom 	BORED	OTHER	GEMINI	3.930479

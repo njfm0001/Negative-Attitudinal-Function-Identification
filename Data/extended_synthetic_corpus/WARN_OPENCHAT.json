@@ -1,0 +1,202 @@
+[
+{
+"text": "🚨Hey there! Be careful when crossing this busy road, accidents happen fast #StaySafe",
+"label": "WARN"
+},
+{
+"text": "👀Don't forget to study for that test tomorrow! You know how stressful finals can get 😬📖 #ExamTime",
+"label": "WARN"
+},
+{
+"text": "☔️Watch out for rain today! Don't forget your umbrella or you'll get soaked 🌧️🙁 #RainyDay",
+"label": "WARN"
+},
+{
+"text": "😳Make sure you double-check your work before submitting, no one wants a typo in their presentation 💻#Proofreading",
+"label": "WARN"
+},
+{
+"text": "🍂Mind the leaves on the ground while walking, they can be slippery and cause a fall 🏃‍♀️#Autumn",
+"label": "WARN"
+},
+{
+"text": "🤯Be mindful of your spending during sales, those deals can add up quickly! 💰🛍️#Budget",
+"label": "WARN"
+},
+{
+"text": "🦠Look out for fake news online, not everything you read is true 🙄📰#FakeNews",
+"label": "WARN"
+},
+{
+"text": "👋Remember to turn off the stove after cooking, you wouldn't want any accidents in the kitchen 🔥🥘#SafetyFirst",
+"label": "WARN"
+},
+{
+"text": "🎢Hold onto your hats, this roller coaster is wild! 🎢😱#AmusementPark",
+"label": "WARN"
+},
+{
+"text": "🐶Don't leave your dog unattended near food, they might try to snatch a bite 🍽️🐕#PetOwner",
+"label": "WARN"
+},
+{
+"text": "💼Be prepared for an important meeting at work, first impressions matter! 👩‍💼🕰️#Professionalism",
+"label": "WARN"
+},
+{
+"text": "🌊Be careful swimming in deep water, always have a buddy nearby 🏄‍♂️🌴#SwimmingSafety",
+"label": "WARN"
+},
+{
+"text": "🍫Chocolate isn't good for dogs, make sure to keep it away from them 🐶🍫#DogHealth",
+"label": "WARN"
+},
+{
+"text": "📸Be cautious when taking selfies with wildlife, they may get too close for comfort 🦁📷#WildlifePhotography",
+"label": "WARN"
+},
+{
+"text": "🚗Watch out for potholes while driving, they can damage your car 🚙🛣️#CarMaintenance",
+"label": "WARN"
+},
+{
+"text": "🍳Make sure your eggs are fully cooked before eating, undercooked eggs aren't safe to eat 🥚🥞#FoodSafety",
+"label": "WARN"
+},
+{
+"text": "🛌Get enough sleep tonight, exhaustion can lead to mistakes 😴💤#SleepWell",
+"label": "WARN"
+},
+{
+"text": "🚪Lock your doors when leaving home, safety first 🏡🔐#HomeSecurity",
+"label": "WARN"
+},
+{
+"text": "🌈Be aware of allergens when trying new foods, some ingredients can cause reactions 🍝🌰#Allergies",
+"label": "WARN"
+},
+{
+"text": "🌍Remember to recycle and reduce waste, our planet needs our help 🗑️🌿#Recycling",
+"label": "WARN"
+},
+{
+"text": "🎬Don't spoil movie endings in conversations, it ruins the experience for others 🍿🙅‍♀️#NoSpoilers",
+"label": "WARN"
+},
+{
+"text": "🌪️Be prepared for severe weather conditions, check the forecast regularly 🌧️🌀#WeatherAlert",
+"label": "WARN"
+},
+{
+"text": "🚲Always wear a helmet when riding a bike, head injuries aren't worth the risk 🚴‍♂️👵#CycleSafely",
+"label": "WARN"
+},
+{
+"text": "🚶‍♀️Be cautious when walking on wet surfaces, slipping could lead to injury 🌧️👮‍♀️#SlipAndFall",
+"label": "WARN"
+},
+{
+"text": "📉Investments come with risks, never invest more than you're willing to lose 💰📊#FinancialAdvice",
+"label": "WARN"
+},
+{
+"text": "🆘Don't ignore signs of mental health struggles, reach out for support 🧠💭#MentalHealthAwareness",
+"label": "WARN"
+},
+{
+"text": "🚀Prepare yourself mentally for job interviews, nerves can affect performance 👔👛#JobInterviewTips",
+"label": "WARN"
+},
+{
+"text": "💔Remember, breaking someone's heart hurts them, treat love with care ❤️💔#KindHeart",
+"label": "WARN"
+},
+{
+"text": "👶🏼New parents, remember babies need constant supervision to stay safe 👩‍👩‍👧‍👦🛌#Parenting",
+"label": "WARN"
+},
+{
+"text": "📺Don't watch horror movies right before bedtime, nightmares aren't fun 😱😴#NightmareFreeSleep",
+"label": "WARN"
+},
+{
+"text": "✈️Travelers, be aware of local customs and laws to avoid misunderstandings 🛄🌐#TravelEtiquette",
+"label": "WARN"
+},
+{
+"text": "🌾Harvest season is here, watch out for tractors on the roads 🚜🚗#FarmLife",
+"label": "WARN"
+},
+{
+"text": "🎂Don't forget to blow out candles on birthday cakes, fires can spread quickly 🎂😱#FireSafety",
+"label": "WARN"
+},
+{
+"text": "💼If attending a formal event, dress appropriately to fit the occasion 👔👛#EventAttire",
+"label": "WARN"
+},
+{
+"text": "🍂Enjoy autumn foliage without disturbing nature, take only photos, leave only footprints 📸🍃#RespectNature",
+"label": "WARN"
+},
+{
+"text": "🌹Be gentle when handling fragile items, you don't want them to break 💃💃#Fragility",
+"label": "WARN"
+},
+{
+"text": "🌪️Keep pets indoors during storms, they might panic and run away 🐶🌩️#PetSafety",
+"label": "WARN"
+},
+{
+"text": "🏃‍♀️When running outside, pay attention to traffic, especially at dusk 🌇🚘#RunnersSafety",
+"label": "WARN"
+},
+{
+"text": "💻Protect your devices by using strong passwords, hackers are everywhere 🕵️‍♀️🔒#PasswordSecurity",
+"label": "WARN"
+},
+{
+"text": "🌊Never swim alone, even experienced swimmers can encounter trouble 🏊‍♂️🌊#WaterSafety",
+"label": "WARN"
+},
+{
+"text": "🍼Take care when heating baby bottles, hot liquids can cause burns 🍼💦#BabySafety",
+"label": "WARN"
+},
+{
+"text": "🚶‍♀️Walk carefully around construction sites, accidents wait for nobody 🚧🚧#ConstructionSafety",
+"label": "WARN"
+},
+{
+"text": "🎯Set realistic goals for yourself, overpromising leads to disappointment 🏆📈#GoalSetting",
+"label": "WARN"
+},
+{
+"text": "📦Be careful when lifting heavy objects, back injuries can happen easily 💪🚚#LiftingSafety",
+"label": "WARN"
+},
+{
+"text": "🍽️Use caution when lighting candles, they can cause fires if left unattended 🕯🌪️#CandleSafety",
+"label": "WARN"
+},
+{
+"text": "🎭Going to the theater? Turn off your phone, it distracts others 📱🎭#Theater Etiquette",
+"label": "WARN"
+},
+{
+"text": "📉Invest wisely, diversify your portfolio to minimize risk 💰📈#InvestmentStrategy",
+"label": "WARN"
+},
+{
+"text": "💔Remember, words hurt just like physical pain, choose yours wisely 💬💔#KindWords",
+"label": "WARN"
+},
+{
+"text": "🌪️Be prepared for unexpected weather changes, carry an umbrella or jacket 🌧️🧥#WeatherReady",
+"label": "WARN"
+},
+{
+"text": "🍲Be careful when reheating food in the microwave, let it cool down before eating 🍲🔥#MicrowaveSafety",
+"label": "WARN"
+}
+]

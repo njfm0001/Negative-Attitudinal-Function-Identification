@@ -1,0 +1,202 @@
+ [
+    {
+        "text": "😰 Ugh, I can’t stop thinking about this exam! #StressfulTimes",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😢 This traffic though... #stuckintraffic",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😬 The weather today is so unpredictable! #RainyDays",
+        "label": "WORRIED"
+    },
+    {
+        "text": "❓ Will my package arrive on time? 📦 #waitinggame",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🥵 So hot outside! Can’t wait for cooler days ahead. #Heatwave",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😩 Why do I always forget things so easily?! #brainfog",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😔 My phone battery is dying again… #technologyproblems",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🌧️ Another storm coming our way... #weatherworries",
+        "label": "WORRIED"
+    },
+    {
+        "text": "💔 Just broke up with my boyfriend... #heartbroken",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🙁 My car won’t start... Anyone else had this problem? #cartrouble",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😩 Can’t believe I missed the bus! Now what? #publictransportwoes",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🤔 Am I doing enough for my project? #studentslife",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🚩 I feel like I’m forgetting something important... #seniormoment",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🤯 This math equation is giving me life! #mathstruggles",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🥺 Missing my best friend who moved away... #lonelydays",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😳 When will I ever learn how to cook? #kitchenfail",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🤦‍♀️ Kept spilling coffee all over myself today... #clumsygirl",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😱 What if I fail my test tomorrow? #exampressure",
+        "label": "WORRIED"
+    },
+    {
+        "text": "😩 Can’t sleep due to noise pollution... #insomnia",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🎣 Hooked but not reeled in yet... #fishingwoes",
+        "label": "WORRIED"
+    },
+    {
+        "text": "👶🏼 Babysitting duties are tough! #kidsdonteverlisten",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🏠 Moving day is stressful... #movinghouse",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🍴 Trying out new recipes for dinner tonight... wish me luck! 🍽️ #cookingadventures",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🙄 Can never find anything when you need it most... #frustrated",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🐕 Doggy daycare fees are no joke! #petownerslifeprobs",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🚗 Car problems + limited budget = big headache... #carguilt",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🌍 Worried about climate change... we gotta do better! 🌍 #environment",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🛋️ Back pain after sitting all day... anyone else? #desksurvival",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🖥️ Tech issues making work difficult... #workstruggles",
+        "label": "WORRIED"
+    },
+    {
+        "text": "📅 Forgotten an appointment AGAIN... oops! 🤦‍♂️#timekeeping",
+        "label": "WORRIED"
+    },
+    {
+        "text": "💸 Money worries never seem to end... #financialanxiety",
+        "label": "WORRIED"
+    },
+    {
+        "text": "👜 Bag lost at the airport... still waiting for it back... #flightnightmare",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🚲 Bike chain just snapped... now what? #bicycleblues",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🇬🇧 Brexit situation is concerning... 🇪🇺 #politics",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🌊 Rising sea levels are scary... #climatechange",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🍂 Falling leaves everywhere, cleaning them up is quite the task... #leaveseason",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🏃🏽‍♀️ Fitness goals proving harder than expected... #fitspiration",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🏢 Office politics getting exhausting... #officedrama",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🌄 Sunsets make everything look beautiful but also remind us of fleeting moments... #melancholy",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🍫 Chocolate craving hitting hard right now... #chocoholic",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🎮 Video game addiction is real... #gamingaddict",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🎭 New job interview anxieties... 😨 #jobhunt",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🌳 Tree falling next door might hit our house... 😟 #nature",
+        "label": "WORRIED"
+    },
+    {
+        "text": "💼 Job searching taking foreverrr... #unemployment",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🔥 Forest fires devastating ecosystems... #prayforourplanet",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🏈 Football season ending soon... sad face :( #footballfan",
+        "label": "WORRIED"
+    },
+    {
+        "text": "📉 Stock market fluctuations scaring investors... #marketwatch",
+        "label": "WORRIED"
+    },
+    {
+        "text": "🏞️ Camping trip didn’t go as planned... 😕 #disappointment",
+        "label": "WORRIED"
+    },
+	{
+"text": "💔 Still hurts after breaking up last week... #healingprocess",
+"label": "WORRIED"
+},
+{
+"text": "💸 Financial troubles piling up... 💰 #debt",
+"label": "WORRIED"
+}
+	]

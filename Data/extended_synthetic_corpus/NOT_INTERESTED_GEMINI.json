@@ -1,0 +1,68 @@
+[
+  { "text": "This whole NFT craze?  Nah, I'm good. #CryptoCuriousButNotCrazy", "label": "NOT_INTERESTED" },
+  { "text": "Reality TV drama?   More like reality TV DRAMA  #PassThePopcornButNotForThis", "label": "NOT_INTERESTED" },
+  { "text": "Extreme couponing?  ✂️  Sounds like a whole lot of work for a few cents off. #RetailTherapyButEfficiently", "label": "NOT_INTERESTED" },
+  { "text": "Ugh, kale chips again?    Gimme some real potato chips any day. #HealthyChoicesButNotTorture", "label": "NOT_INTERESTED" },
+  { "text": "Debate team?  ️  Not for me. I'd rather just agree to disagree. #PeaceAndQuietPlease", "label": "NOT_INTERESTED" },
+  { "text": "The Kardashians' latest drama? ‍♀️  Couldn't care less. #FamousForWhatExactly", "label": "NOT_INTERESTED" },
+  { "text": "Going to the opera?    Sounds fancy, but not really my scene. #GiveMeRockAndRoll", "label": "NOT_INTERESTED" },
+  { "text": "Competitive knitting?    Respect the skill, but I'm happy with my store-bought sweaters. #CozyVibesOnly", "label": "NOT_INTERESTED" },
+  { "text": "Extreme ironing?    Ironing a shirt is already a chore. Who irons on a mountain?! #LifeHacksIGuess", "label": "NOT_INTERESTED" },
+  { "text": "The metaverse?    Sounds cool, but I'm happy with the real world for now. #SunshineAndFreshAir", "label": "NOT_INTERESTED" },
+  { "text": "Cold showers?   Nope. Give me a nice warm shower any day. #SelfCareButNotThatExtreme", "label": "NOT_INTERESTED" },
+  { "text": "Competitive eating contests?    I appreciate the dedication, but I'm good after one hot dog. #FoodieButNotAFoodieCompetitor", "label": "NOT_INTERESTED" },
+  { "text": "Those super restrictive diets?    Life's too short to say no to pizza. #BalanceIsKey", "label": "NOT_INTERESTED" },
+  { "text": "Bungee jumping?  🪂  I'll stick to roller coasters, thanks. #ThrillsButNotThatMany", "label": "NOT_INTERESTED" },
+  { "text": "Early morning workouts? ️‍♀️  Nope. Give me some sleep. #SnoozeButtonLife", "label": "NOT_INTERESTED" },
+  { "text": "Those super complicated cocktails?    Just gimme a margarita. #SimplePleasures", "label": "NOT_INTERESTED" },
+  { "text": "Debates about pineapple on pizza?   Who cares? It's my pizza, I do what I want. #PizzaFreedom", "label": "NOT_INTERESTED" },
+  { "text": "Going completely off the grid?    I like my internet access, thank you very much. #SocialMediaBreakButNotForever", "label": "NOT_INTERESTED" },
+  { "text": "Those super long fantasy novels?    Respect the authors, but give me a quick read. #BeachReadVibes", "label": "NOT_INTERESTED" },
+  { "text": "Learning a new language?    Maybe someday, but for now, English is enough. #TravelingButNotALinguist", "label": "NOT_INTERESTED" },
+  { "text": "Super spicy food?  ️  I like flavor, not pain. #SpiceItUpButNotBurnItDown", "label": "NOT_INTERESTED" },
+  { "text": "Living minimally?    I like having my stuff around, thanks. #CozyHomebody", "label": "NOT_INTERESTED" },
+  { "text": "Those super early morning flights?  ✈️  Nope. Give me some sleep and a decent boarding time. #TravelButWithoutTheStress", "label": "NOT_INTERESTED" },
+  { "text": "Extreme sports?    I appreciate the adrenaline rush, but I prefer my hobbies with fewer broken bones. #SafetyFirst", "label": "NOT_INTERESTED" },
+  { "text": "Avant-garde art?     I appreciate the creativity, but I just don't get it. #MuseumDateButMaybeTheGiftShop", "label": "NOT_INTERESTED" },
+  { "text": "Those super intense workout routines?      I'll stick to a brisk walk, thanks. #FitnessGoalsButAtMyPace", "label": "NOT_INTERESTED" },
+  { "text": "Wearing clothes with tons of logos?    ‍♀️  Less is more, in my opinion. #FashionForwardButNotABrandBillboard", "label": "NOT_INTERESTED" },
+  { "text": "Debates about the best streaming service?    There are enough shows for everyone, chill out. #ContentIsKing", "label": "NOT_INTERESTED" },
+  { "text": "Living life on the road full-time?     Sounds adventurous, but I like having a home base. #TravelBugButNeedMyRoots", "label": "NOT_INTERESTED" },
+  { "text": "Super competitive board games?      Games are for fun, not getting stressed. #FriendlyCompetitionOnly", "label": "NOT_INTERESTED" },
+  { "text": "Those super trendy new restaurants?    Give me a good, reliable diner any day. #FoodieButNotAFussbudget", "label": "NOT_INTERESTED" },
+  { "text": "Wearing skinny jeans anymore?    ‍♂️  Comfy clothes are the new cool. #SweatpantsForever", "label": "NOT_INTERESTED" },
+  { "text": "Getting into heated arguments online?    The internet is for memes, not fights. #GoodVibesOnly", "label": "NOT_INTERESTED" },
+  { "text": "Super long lectures?      Give me a TED Talk, not a sleep aid. #LearnFastButStayAwake", "label": "NOT_INTERESTED" },
+  { "text": "Wearing clothes with itchy sequins?    Nope. Comfort is key. #FashionableButNotScratchy", "label": "NOT_INTERESTED" },
+  { "text": "Debates about the best pizza toppings?    There are no bad pizza toppings, just bad pizza. #PizzaLoveForAll", "label": "NOT_INTERESTED" },
+  { "text": "Giving up all your possessions?    Minimalism is cool, but I like having things I love around me. #SentimentalValue", "label": "NOT_INTERESTED" },
+  { "text": "Super complicated makeup routines?      Give me some mascara and lipstick, and I'm good to go. #NaturalBeautyFTW", "label": "NOT_INTERESTED" },
+  { "text": "Those super futuristic gadgets?      Sounds cool, but I'm happy with my phone for now. #TechSavvyButNotARobot", "label": "NOT_INTERESTED" },
+  { "text": "Going completely vegan?      I respect the choice, but I need my cheese. #FlexitarianLife", "label": "NOT_INTERESTED" },
+  { "text": "Wearing clothes with itchy wool?    Nope. Soft fabrics for the win. #CozyVibesOnly", "label": "NOT_INTERESTED" },
+  { "text": "Debates about the best movie ever?    There are too many great movies, relax. #CinephileButNotElitist", "label": "NOT_INTERESTED" },
+  { "text": "Living a completely social life?      I need my alone time to recharge. #IntrovertLifeButWithFriends", "label": "NOT_INTERESTED" },
+  { "text": "Those super intense horror movies?      Nope. Give me a good comedy instead. #LaughterIsTheBestMedicine", "label": "NOT_INTERESTED" },
+  { "text": "Super structured workout plans?    ️‍♀️  I prefer a more flexible approach to exercise. #MoveYourBodyButHaveFun", "label": "NOT_INTERESTED" },
+  {
+    "text": "Ugh, reality TV just isn't for me  #GiveMeDocumentaries",
+    "label": "NOT_INTERESTED"
+  },
+  {
+    "text": "Been hearing a lot about NFTs lately, but I just can't seem to wrap my head around it ‍♀️ #CryptoConfusesMe",
+    "label": "NOT_INTERESTED"
+  },
+  {
+    "text": "Anyone else find celebrity gossip dryer than watching paint dry?  #GiveMeRealNews",
+    "label": "NOT_INTERESTED"
+  },
+  {
+    "text": "Tried listening to the new genre of mumble rap, but it just sounds like someone muttering. Not my vibe ‍♂️ #StickingToClassicRock",
+    "label": "NOT_INTERESTED"
+  },
+  {
+    "text": "Scrolling through endless fashion trends. Cute clothes, sure, but   I'm more comfort over style these days.  moletom life ✌️",
+    "label": "NOT_INTERESTED"
+  }
+
+]

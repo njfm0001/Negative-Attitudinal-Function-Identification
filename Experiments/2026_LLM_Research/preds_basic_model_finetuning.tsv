@@ -1,0 +1,901 @@
+text	label	predicted_label	LLM	loss
+😰 Stressed over a huge project due soon 💻📅	WORRIED	OTHER	MIXTRAL	2.8785405
+This new haircut does NOT look good on me.   Ugh why did I listen to the stylist? #hairfail #hattime	PESSIMISTIC	ANGRY	GEMINI	3.7990217
+One wrong move and you're toast. Don't say I didn't warn you 🍞 #YoureToast	THREATEN	THREATEN	CHATGPT	1.3977075
+I'm bound to lose my glasses again 👓 #Forgetful 😓	PESSIMISTIC	PESSIMISTIC	BING	0.47901854
+The nerve of some people, amiright? 😂 #nervewracking #amusinganecdotes	DISAGREE	DISAGREE	MIXTRAL	1.7533109
+Found out my favorite coffee shop ran out of my usual brew. 😕 What a pity #coffeelover	DISAPPOINTED	ANGRY	CHATGPT	2.2101107
+Doesn't affect anything tho 🤷 #NeitherHereNorThere	NOT_IMPORTANT	NOT_IMPORTANT	CHATGPT	1.1017804
+Wish people would stop judging others based on their appearance 👄💋 #JudgeLess	NOT_APPROVE	DISAGREE	OPENCHAT	2.3924906
+😬 The weather today is so unpredictable! #RainyDays	WORRIED	OTHER	OPENCHAT	2.2758121
+It's all wrong, sorry 🤦‍♂️ #Incorrect	NOT_APPROVE	NOT_CORRECT	CHATGPT	1.3218286
+Stuck at the airport. People watching is losing its novelty.   #AirportAmbience ✈️	BORED	ANGRY	GEMINI	3.6895218
+Ugh, I guess I'll have to wait longer then 🙄 #waitinggame	DISAPPOINTED	REFUSE	MIXTRAL	4.0629163
+Eek, public speaking isn’t quite my cup of tea—guess I’ll pass on giving that presentation 😨☕️ #publicspeakingnightmare	UNWILLING	DISAGREE	MIXTRAL	2.8811855
+I'm in a flap about this deadline approaching so fast! 😱 #stressed #deadline	WORRIED	WORRIED	CHATGPT	1.5186052
+Just found a bug in my salad 🐛🥦🤮 #notdelicious	COMPLAIN	ANGRY	OPENCHAT	2.5761755
+🐶 Met the cutest puppy at the park today! Melts my heart! #AnimalLove	OTHER	OTHER	OPENCHAT	0.61862576
+💻 Working on a coding project for a hackathon. Excitement levels are high! #CodeWarriors	OTHER	OTHER	OPENCHAT	0.6667128
+Ugh! My shoelace just snapped!  And of course I don't have any spares with me! #ShoelaceStruggles #MinorInconvenienceMajorAnnoyance	ANGRY	DISAGREE	GEMINI	2.4525118
+If you break my trust again, all bets are off   #SecretsSafeWithMe #BrokenPromises	THREATEN	THREATEN	GEMINI	1.7439365
+I'm not sure if I can make it to the party tonight, got a family dinner. 🍽️ #priorities	OTHER	OTHER	CHATGPT	1.1379122
+Argh, I hate when things don't work out 😤 #annoying	DISAPPOINTED	ANGRY	MIXTRAL	5.189887
+Looking at my empty calendar and wondering what happened to my social life 📅 #wherehaveallthefungone	BORED	OTHER	OPENCHAT	3.518888
+Went to the ATM and it was out of money!  Seriously?!    #CashNeeded #Inconvenient	ANGRY	COMPLAIN	GEMINI	1.8707874
+Eat spicy food on an empty stomach?   ️  Sounds like a recipe for heartburn. Maybe a light snack first?  #PreventativeMeasures #SpicyFoodLove	UNWILLING	COMPLAIN	GEMINI	3.423779
+If a deal seems too good to be true, it probably is! Don't get scammed. 🤨 #StayWary #BeCautious	WARN	DISAGREE	CHATGPT	3.1137714
+It's just too hot outside! 🔥 #heatwave	ANGRY	ANGRY	OPENCHAT	1.8476903
+That survey asking for all my personal info?  #Nope  ‍♀️  No way I'm answering those questions	DISTRUST	DISAGREE	GEMINI	2.193235
+I'd rather not get involved in the office gossip today... 🗣️ #KeepingQuiet	UNWILLING	DISAGREE	OPENCHAT	2.29563
+✈️ Off to Paris for a weekend getaway! Who else loves traveling? #Wanderlust	OTHER	OTHER	OPENCHAT	0.21386266
+I'd rather not, thanks! 🙃 #IDontThinkSo #RatherNot	REFUSE	REFUSE	CHATGPT	1.0679184
+Finding it quite unsatisfactory, tbh 🤨 #NotSatisfied	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.42402264
+Pretty sure I heard somewhere that was false, lemme double-check 📚 #booksmakemehappy #factcheck	DISAGREE	DISAGREE	MIXTRAL	1.4885286
+You expect me to trust some random person on the internet with my personal info? No thanks. 😜 #PrivacyFirst	DISTRUST	OTHER	OPENCHAT	2.712981
+Hmm, I think there's been a bit of a misunderstanding 🤷‍♀️ #Misunderstanding	NOT_CORRECT	DISAGREE	CHATGPT	1.7322936
+I have a complaint to make about the lack of accessibility for disabled individuals 👩‍🦼💪 #accessibilityforall	COMPLAIN	COMPLAIN	MIXTRAL	1.0809242
+The weather forecast keeps changing ☀️☂️🤷‍♂️ #uncertainty	COMPLAIN	WORRIED	OPENCHAT	3.0328417
+Letting someone cut in front of me in line? Nah, I'm good 🙅‍♀️🏃‍♀️ #queuewarrior #respectmyplace	REFUSE	DISAGREE	MIXTRAL	2.0989823
+🚫 Scam Alert! Fake charity collectors may approach you during holidays. Double-check organizations before donating 🙏 #charityfraud #donationawareness	WARN	COMPLAIN	MIXTRAL	3.2206607
+I'd rather be anywhere else than here right now. 😒 #tedious	BORED	BORED	CHATGPT	1.5002782
+Make sure you do check the expiration date on the milk! #FoodSafety 🥛⏳	WARN	THREATEN	BING	2.5303283
+Political ads during every commercial break 😴 #canwejustskipthis	DISLIKE	DISAGREE	OPENCHAT	3.2771113
+😆 They're not right about it, the comic was better than the movie! 📖🎬 #ComicVsMovie	NOT_CORRECT	NOT_CORRECT	BING	1.1981452
+I don't have any interest in the latest fashion trends. I wear what I like. 👗 #MyStyle	NOT_INTERESTED	OTHER	BING	1.6796342
+I don't think that's quite accurate 🤔	NOT_CORRECT	DISAGREE	CHATGPT	2.9470463
+This broken elevator in my building is really cramping my style. 😒🛑 #elevator #brokent	COMPLAIN	ANGRY	CHATGPT	2.125733
+Best of luck to my friend Sarah at her competition today!  Sending you all the positive vibes!    #yougotthis #girlpower	OTHER	OTHER	GEMINI	0.1611426
+I'm frightened of the dark 😣 #nyctophobia	WORRIED	WORRIED	BING	0.33876267
+I doubt his sincerity, he's always been self-serving 🙄 #SelfServing	DISTRUST	DISTRUST	CHATGPT	1.3479178
+Leaving for a weekend trip?  Double check you packed everything! #TravelEssentials #DontForgetAnything	WARN	DISAGREE	GEMINI	3.341588
+Go out dancing tonight? 🪩  I'm way too tired for that! #NetflixAndChill #StayingIn	REFUSE	OTHER	GEMINI	2.9193838
+Dust accumulating everywhere 🧹 Ugh, why can't everything stay clean forever? ✨ #housekeepingblues 😞	DISLIKE	ANGRY	MIXTRAL	2.4674306
+I'm rather doubtful about passing this exam 📚 #studying #anxious	PESSIMISTIC	PESSIMISTIC	CHATGPT	0.80670583
+😲 Surprised at myself for feeling uncomfortable during roller coaster rides 🎢😨	WORRIED	OTHER	MIXTRAL	2.218382
+The struggle is real when you want to exercise but also want to stay in bed 💪🛌	BORED	COMPLAIN	OPENCHAT	3.5499916
+I couldn't care less about the latest celebrity scandal. I have better things to do. 🌟 #NotInterested	NOT_INTERESTED	OTHER	BING	2.8635206
+Quizzing events regularly...questions answered correctly due to repetition 🧠 #quizmastersclub #knowledgeiscool #thinkquick	BORED	PESSIMISTIC	MIXTRAL	3.706301
+Rather stay home than brave the crowds tbh 🥺 #homebody	UNWILLING	DISTRUST	MIXTRAL	3.0616822
+You're playing with fire, dude. Don't say I didn't warn you #Beware	THREATEN	DISAGREE	LLAMA	2.0076327
+I'm not convinced we should order from that restaurant again 🍕 #BadExperience #RatherCookAtHome #NotWorthIt	UNWILLING	DISAGREE	CHATGPT	2.8001876
+This recipe looks amazing but I know I'm gonna mess it up somehow.  ‍♀️ #kitchenfails #burnedfoodincoming	PESSIMISTIC	ANGRY	GEMINI	3.2821193
+It's been raining non-stop & now my dog tracked mud ALL OVER THE HOUSE 🐶😠 Seriously considering moving to a desert island at this point 🏝️🤔 #rainproblems #doglife	PESSIMISTIC	ANGRY	MIXTRAL	3.4409103
+Don't be fooled by those 'urgent' messages claiming your account is in danger. Check directly with the company first! 🕵️‍♂️ #StayWary #BeSmart	WARN	THREATEN	CHATGPT	2.1286178
+I've just about had enough of this crowded subway 🚇 #CrowdedSubway	COMPLAIN	ANGRY	BING	2.0944247
+Nope, sorry, not gonna happen! 🤷‍♂️ #NotOn #NoWay	REFUSE	REFUSE	CHATGPT	0.8803168
+Shocked beyond belief 😲🤭 #amazement #incredulous	NOT_APPROVE	ANGRY	MIXTRAL	3.320988
+It's been ages since I've seen my friends 😢 #Reunite	PESSIMISTIC	OTHER	OPENCHAT	4.1096745
+📦Be careful when lifting heavy objects, back injuries can happen easily 💪🚚#LiftingSafety	WARN	THREATEN	OPENCHAT	2.8368587
+I've never been so uninterested in a conversation before. 🙄	BORED	BORED	CHATGPT	1.7580864
+New diet plan starting tomorrow😳 Not sure if it'll work, but let's give it a shot🍔 #healthgoals	NOT_IMPORTANT	OTHER	OPENCHAT	2.7999687
+I disagree with the idea that dogs are better than cats 🐶🐱 #PetWars	DISAGREE	DISAGREE	BING	0.63936955
+Ugh Mondays are the worst   Can we just skip to the weekend already? #WeekendVibes #MondaysAreTheEnemy	DISLIKE	OTHER	GEMINI	2.804016
+Cryptocurrencies might go mainstream soon, but I'm cautious 🧐 #cryptocurrency #mainstream #caution	DISTRUST	PESSIMISTIC	MIXTRAL	2.3770323
+It comes as a great disappointment that the tour got cancelled. 😞	DISAPPOINTED	DISAPPOINTED	BING	0.68537104
+I'm opposed to it, sorry 🤷‍♂️ #NotForMe	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.2177131
+😁 I'm not sure you're right about the best dessert 🍰 #DessertDebate	NOT_CORRECT	NOT_CORRECT	BING	1.3273845
+Can't believe people still follow that influencer🙄 She's not important at all! #influencersareoverrated	NOT_IMPORTANT	DISAGREE	OPENCHAT	2.5382261
+One more cryptic text and I'm making you explain yourself   #ConfusingCommunication #SpillTheTea	THREATEN	DISAGREE	GEMINI	2.5772483
+It isn't right, sorry 🤷‍♀️ #NotRight	NOT_APPROVE	REFUSE	CHATGPT	2.1335692
+Nah, it's not important 😏 #IDontThinkItsImportant	NOT_IMPORTANT	DISAGREE	CHATGPT	2.3258827
+The book is way sadder than the movie  Bring tissues if you're gonna read it! #Tearjerker #GetReadyToCry	WARN	ANGRY	GEMINI	3.8463802
+Stuck in traffic jam.  Guess I'll just become one with my phone for the next hour.  #TrafficTrance 	BORED	REFUSE	GEMINI	3.96033
+This shampoo leaves my hair feeling like straw!    #BadHairDay #InNeedOfRecommendations	COMPLAIN	ANGRY	GEMINI	2.066976
+Utterly confused by some people's behavior lately 😕🤯 #puzzled #perplexed	NOT_APPROVE	ANGRY	MIXTRAL	3.755758
+This weather today is crazy⛅, but hey, it doesn't matter! Let's enjoy our day! #sunshineandrain	NOT_IMPORTANT	OTHER	OPENCHAT	2.7935438
+I distrust it, too many red flags 🚩 #RedFlags	DISTRUST	DISTRUST	CHATGPT	1.3923428
+Come again? You gotta be kidding me 😱 #shockedandsurprised #whatajoke	DISAGREE	DISAGREE	MIXTRAL	1.244336
+Really not feeling these fashion trends lately 👗 Maybe I'm just getting old 🤣 Still trying though! #trendygonewrong 🙈	DISLIKE	OTHER	MIXTRAL	3.1244915
+Feeling really apprehensive about meeting my partner's parents for the first time 😬 #nervous #meetingtheparents #awkward	WORRIED	WORRIED	CHATGPT	0.37455022
+I'm terrified of failing this exam 😰📚 #terrified #exam #failure	WORRIED	PESSIMISTIC	CHATGPT	1.3843414
+Paying for overpriced gym memberships you never use is definitely a #financialfail #getmotivated	NOT_APPROVE	COMPLAIN	GEMINI	2.7564955
+This weather is a total bore ☔ #RainyDay	BORED	DISLIKE	BING	1.5899534
+Baked a cake for a bake sale and it completely fell apart when I tried to take it out of the pan   #disappointedbaker #bakingfail	DISAPPOINTED	ANGRY	GEMINI	4.469555
+Sorry, but I think there's been a misunderstanding 🤷‍♂️ #Misunderstanding	NOT_CORRECT	REFUSE	CHATGPT	1.9718404
+Another conference call during rush hour traffic? Ugh, count me out 🚗📞 Definitely not interested #trafficjamsucks	NOT_INTERESTED	OTHER	MIXTRAL	3.0690517
+I disagree with that assessment completely 🤷‍♀️ #Assessment	DISAGREE	DISAGREE	CHATGPT	0.5029775
+😨 Startled by sudden movements 🐱💨	WORRIED	OTHER	MIXTRAL	1.679356
+🏠 Moving day is stressful... #movinghouse	WORRIED	OTHER	OPENCHAT	1.8376377
+Traffic is insane right now.  There's no way I'm gonna make it to my appointment on time. #stressed #alreadylate	PESSIMISTIC	REFUSE	GEMINI	2.693499
+Doing the dishes is such a chore   There's always a never-ending pile to clean. #DishwashingDuty #SendHelp	DISLIKE	COMPLAIN	GEMINI	2.8651092
+I don't think that's right, pizza is definitely better than burgers 🍕🍔 #FoodDebate	DISAGREE	DISAGREE	BING	1.1436448
+Practiced my baking all week for the bake sale and forgot the cupcakes at home ‍♀️ That's a real let down #epicfail #disappointedbaker	DISAPPOINTED	COMPLAIN	GEMINI	2.2392519
+Working from home is the best way to work?    I'm not at all convinced by it. I miss the office environment!   #officelife #socialbutterfly	DISAGREE	ANGRY	GEMINI	2.688341
+Missing my doggy🐶 but he's getting pampered at the pet spa today! #doglover	NOT_IMPORTANT	ANGRY	OPENCHAT	3.9735768
+😬 Be careful what you wish for, because you just might get it 🤔 #karma	THREATEN	THREATEN	OPENCHAT	0.8938377
+Ugh, another detox plan promising a magical body cleanse?  #GiveMeABreak    These things are all scams	DISTRUST	DISAGREE	GEMINI	1.9920825
+Sorry, but I just can't make it happen! 🤦‍♂️ #OutOfTheQuestion #WishICould	REFUSE	REFUSE	CHATGPT	0.9764745
+This workout video guarantees results in just 30 minutes?  #NoPainNoGain  I bet it's too good to be true...	DISTRUST	OTHER	GEMINI	2.713979
+Tbh, watching movies horizontally or vertically on mobile screens should be left to personal preference 🤔 #moviemagic	NOT_IMPORTANT	DISAGREE	MIXTRAL	2.4688447
+I'd rather not deal with that drama again 🤦‍♀️ #AvoidingConflict #NotWorthIt #RatherChill	UNWILLING	DISAGREE	CHATGPT	2.2795959
+I can't say it is interesting when people share every detail of their vacation. 🏖️ #VacationOverload	NOT_INTERESTED	OTHER	BING	2.3803358
+That's simply not on. I'm not going to work on a Sunday. 📅 #Weekend	REFUSE	REFUSE	BING	0.7798915
+Today's outfit: comfy clothes because I can't bother with fashion today 👗👢	BORED	OTHER	OPENCHAT	2.9472811
+You'd be most unwise to blame me for eating all the cookies   The evidence speaks for itself  #CrumbTrail #Guilty	THREATEN	DISAGREE	GEMINI	2.597076
+🌵 In the desert of the real, the only thing that survives is the storyteller 📚 #survivalofthestory	THREATEN	OTHER	OPENCHAT	3.586047
+Think twice before you mess with me. You won't like the outcome 🤔 #ThinkTwice	THREATEN	THREATEN	CHATGPT	1.3995416
+🌊 I can't go along with the belief that sharks are dangerous monsters. They deserve respect, not fear! #sharkweek	DISAGREE	DISAGREE	OPENCHAT	0.7289085
+They say money is power, but I'd rather have love any day 💖 #TruePower	DISTRUST	DISAGREE	OPENCHAT	2.803783
+Can you do anything about this, @CityCouncil? The street lights are not working 🌃 #BrokenStreetLights	COMPLAIN	OTHER	BING	2.226186
+Nope, sorry, not interested in that! 🚫 #NotOn #Nope	REFUSE	REFUSE	CHATGPT	1.095256
+I'm sorry, I don't think I could. I don't think I could survive without my phone. #TechAddict 📱	REFUSE	REFUSE	BING	0.31093433
+OMG, almost forgot about Daylight Saving Time! Set clocks back one hour tonight to avoid showing up late tomorrow ⏰ #daylightsavingsreminder #timemanagement	WARN	REFUSE	MIXTRAL	3.2615845
+Just finished watching the season finale🎉, now what? Does anything else matter??😂 #tvaddict	NOT_IMPORTANT	NOT_IMPORTANT	OPENCHAT	1.587894
+Something will have to be done about the overcrowding in schools 📚 #educationcomplain	COMPLAIN	COMPLAIN	MIXTRAL	1.3543353
+😝 That's neither here nor there, but yes, I did use all the hot water. #ShowerTime 🚿	NOT_IMPORTANT	OTHER	BING	2.7908452
+I hate it when my favorite TV shows get cancelled 😭 #televisioncomplain	COMPLAIN	DISLIKE	MIXTRAL	3.2048922
+I'm scared stiff of horror movies 🎥 #horror	WORRIED	WORRIED	BING	0.39498287
+My car won't start again 🚗 #CarTrouble	DISAPPOINTED	REFUSE	OPENCHAT	4.1994524
+You're treading on thin ice, so watch your step	THREATEN	THREATEN	MIXTRAL	1.4030731
+Help you with that crazy conspiracy theory?   Uh uh, not falling for that rabbit hole! #FactOverFiction #StayWoke	REFUSE	DISAGREE	GEMINI	2.1338246
+I'd rather not do a spin class 🚴‍♀️ #Dizzy	UNWILLING	UNWILLING	BING	0.9997978
+🎵 I can't say that I share that view on autotune ruining music. Some artists use it well! #music	DISAGREE	DISAGREE	OPENCHAT	0.6341824
+He's bound to fail the driving test 🚗 #DrivingTest 😞	PESSIMISTIC	PESSIMISTIC	BING	0.25655806
+Why does this keep happening to me?! 😠 #badluck	DISAPPOINTED	ANGRY	MIXTRAL	4.602268
+I don't give a damn about political debates #NotMyThing 🤷‍♂️	NOT_INTERESTED	NOT_APPROVE	CHATGPT	2.608686
+I really must object to the fact that my coffee is cold. I need it hot, people! ☕️😒 #coffee #coldt	COMPLAIN	ANGRY	CHATGPT	2.0451646
+Damn it, I'm so annoyed with myself for forgetting my keys! #Forgetful 😡	ANGRY	ANGRY	CHATGPT	0.5078749
+Running a marathon next month? Don't think I could even finish half of it 🏃‍♂️🏁 #trainingneeded	REFUSE	UNWILLING	MIXTRAL	2.568052
+I really hate when my phone battery dies unexpectedly 🔋😫 #HateDeadBattery #LowBatterySucks	DISLIKE	ANGRY	CHATGPT	3.1071067
+Keeping plants alive indoors? It's simply not on 🪴😭 #blackthumbclub	REFUSE	REFUSE	MIXTRAL	1.4052554
+They ran out of my favorite flavor at the ice cream shop 🍨 #Tragedy	DISAPPOINTED	ANGRY	OPENCHAT	4.3220186
+Thanks for reminding me about dinner tonight, wouldn't wanna miss it for the world 🌍💖 #preciousmemories #qualitytime	OTHER	OTHER	MIXTRAL	0.23579964
+It just won't do! This pizza is not what I ordered 🍕 #WrongOrder	COMPLAIN	DISAGREE	BING	2.2005181
+Spilled coffee on my white shirt five minutes into wearing it ☕ stain city! Time to change plans for the day 👕😏 #coffeemuggedme #ohwell	PESSIMISTIC	ANGRY	MIXTRAL	3.6418338
+Traveling frequently...new place same story 🌍 #globetrotter #traveldiaries #tiredofairports	BORED	OTHER	MIXTRAL	3.2441547
+I'd rather not deal with that drama again 🤷‍♂️ #AvoidingConflict #NotWorthIt #RatherChill	UNWILLING	DISAGREE	CHATGPT	2.2795959
+Simmering with rage over power cuts 🔌⚡ Provide consistent energy supply! #poweroutage	ANGRY	ANGRY	MIXTRAL	1.3317558
+I'm not pleased about the decision to stop the science fair 🧪 #ScienceEducation	NOT_APPROVE	NOT_APPROVE	BING	0.23362218
+Hold on! Are you pulling my leg? This ain't right! 🦵 #pullingyourleg	NOT_CORRECT	REFUSE	MIXTRAL	3.2901905
+Call me old-fashioned, but I still stand firm in my beliefs 💪 #unpopularopinions #standstrong	DISAGREE	DISAGREE	MIXTRAL	1.2656388
+Just... no. Just no. #headshaking #negativevibes	NOT_APPROVE	DISAGREE	MIXTRAL	2.6070955
+Honestly, mate, I think that's complete rubbish 🗑️ #Rubbish	DISAGREE	DISAGREE	CHATGPT	0.5296051
+It's a real let-down that the concert tickets sold out in seconds. 😢 #missedout	DISAPPOINTED	DISAPPOINTED	BING	1.4109867
+Serious case of déjà vu happening – seems like history keeps repeating itself Loop cycle, anyone? #groundhogdayfeels	PESSIMISTIC	OTHER	MIXTRAL	2.85646
+The stress of trying to find the perfect birthday present is unreal   #birthdaystruggles #decisionsdecisions	NOT_APPROVE	COMPLAIN	GEMINI	2.4227676
+Not impressed by the new restaurant down the street 🏪 They need to step up their game if they want customers back 🤷‍♂️ #foodieFAIL 😔	DISLIKE	OTHER	MIXTRAL	3.477799
+🤺 Prepare for battle, because I'm coming for you ⚔ #getready	THREATEN	THREATEN	OPENCHAT	1.670516
+Eyeing the clock all day. Hurry up, quitting time!   #ClockWatching 	BORED	WARN	GEMINI	3.6941907
+Competitive knitting?    Respect the skill, but I'm happy with my store-bought sweaters. #CozyVibesOnly	NOT_INTERESTED	OTHER	GEMINI	3.5001073
+I don't get why people like clowns ‍♀️  They're just creepy and weird. #Coulrophobia #ClownsAreTheWorst	DISLIKE	DISAGREE	GEMINI	3.2309628
+Hey, did you hear about the new movie coming out? Sounds exciting! 🎬 #movienight	OTHER	OTHER	CHATGPT	0.068129964
+Those super early morning flights?  ✈️  Nope. Give me some sleep and a decent boarding time. #TravelButWithoutTheStress	NOT_INTERESTED	OTHER	GEMINI	4.035482
+I find it uninteresting when people talk about their favorite sports team. 🏀 #NotASportsFan	NOT_INTERESTED	OTHER	BING	2.60942
+I'm fed up with constantly having to remind my kids to do their chores  🤦‍♀️🧹  #parentinglife	COMPLAIN	ANGRY	MIXTRAL	2.204474
+You've officially missed the mark ❌ #SoWrong #OffTrack	NOT_CORRECT	REFUSE	OPENCHAT	2.8676908
+My internet just went out   #AboutToLoseMyMind   Need it for work tomorrow 	WORRIED	OTHER	GEMINI	2.9268742
+My phone is at 2% battery and I'm nowhere near a charger.  This can't end well. #lowbatterylife #maydaymayday	PESSIMISTIC	ANGRY	GEMINI	2.6093261
+Nope, sorry, not gonna happen! 🙅‍♂️ #NotOn #NoWay	REFUSE	REFUSE	CHATGPT	0.8803168
+Can't believe I have to go on a first date tonight  Feeling all the butterflies  #FirstDateFears	WORRIED	OTHER	GEMINI	2.0304763
+My bank account got hacked!    This is a nightmare!  #IdentityTheft #DoNotWantToDealWithThis	ANGRY	OTHER	GEMINI	2.102813
+Ate healthy all week then stepped on the scale and gained weight 👀📉 Ugh, talk about motivation killer 😞 #dietculture #screwthescale	PESSIMISTIC	DISAGREE	MIXTRAL	2.1538925
+Don't worry, everything will work out just fine. 🤞 #positivity	OTHER	OTHER	CHATGPT	1.464937
+😖 I'm not very keen on anchovies on my pizza. #PizzaToppings 🍕	DISLIKE	DISLIKE	BING	0.96952164
+I see things rather differently myself, books are here to stay 📚 #BookLove	DISAGREE	DISAGREE	BING	0.91151977
+Living minimally?    I like having my stuff around, thanks. #CozyHomebody	NOT_INTERESTED	OTHER	GEMINI	3.3667228
+The fire alarm went off at work and it was just a burnt piece of toast!    Now we're all outside freezing!  #FalseAlarm #ThanksALot	ANGRY	REFUSE	GEMINI	1.7713476
+Go to a networking event solo?     Feeling a bit introverted today. Maybe I can tag a friend along?  #MoralSupportNeeded #SocialAnxiety	UNWILLING	DISAGREE	GEMINI	3.525862
+I'm not afraid to go there. Don't test me #GoThere	THREATEN	THREATEN	LLAMA	1.4766152
+Exercise routine again? No thanks, finding other things to do instead 💪 #fitlife #healthyliving #cantbebothered	BORED	OTHER	MIXTRAL	3.3360376
+They took my favorite parking spot AGAIN! 😡 #parkingspotenvy	ANGRY	DISAGREE	OPENCHAT	2.3071723
+Homework on a Friday night... I'm not feeling it. 😩📚 #homework #unmotivated #tedious	BORED	BORED	CHATGPT	0.90733004
+😉 It doesn't matter a damn, but yes, I did forget to buy pasta. #PastaLover 🍝	NOT_IMPORTANT	NOT_IMPORTANT	BING	1.7756187
+Holiday travel rush coming up! Expect flight cancellations, traffic congestions, and grumpy passengers 🙃 Pack patience along with gifts 🎁 #holidaysurvivalguide #grinandbearit	WARN	OTHER	MIXTRAL	2.9075174
+Spill another drop of that drink on my new carpet and you'll be scrubbing for days  #CleanFreakOut #SpilledTheTea	THREATEN	ANGRY	GEMINI	2.2107735
+Drink another cup of coffee?  ☕️  Feeling a bit jittery already. Maybe some water instead?  #HydrationNation #CaffeineCrashLater	UNWILLING	OTHER	GEMINI	3.501143
+I'm sorry to say it's not possible for me to finish this report tonight. 📝 #NeedSleep	REFUSE	REFUSE	BING	0.45769382
+😅 She's not quite right about the longest river 🏞️ #GeographyFacts	NOT_CORRECT	NOT_CORRECT	BING	0.2961733
+Not sure what's worse, cleaning the house or keeping it clean    The never-ending battle! #cleaningwoes #adultingproblems	NOT_APPROVE	DISAGREE	GEMINI	2.05587
+I couldn't possibly keep up with all these social media platforms... 📱 #SocialMediaOverwhelm	UNWILLING	DISAGREE	OPENCHAT	2.888461
+No matter how hard I try, I can't seem to see eye-to-eye on this one 🤦‍♂️ #compromisewhenpossible #otherwiseagreeodiscuss	DISAGREE	DISAGREE	MIXTRAL	1.4550571
+Didn't get that job I interviewed for?   Onwards and upwards! There are more fish in the sea. #RejectionIsRedirection #BetterThingsToCome 	NOT_IMPORTANT	NOT_APPROVE	GEMINI	2.8280096
+😟 Can't believe my flight got delayed again. That's a real shame #flightdelay	DISAPPOINTED	REFUSE	CHATGPT	2.094956
+Huh, surprised no one asked yet, but yep, I’m passing on baking the birthday cake for our gathering 🎉🎂 #nobakerhere	UNWILLING	OTHER	MIXTRAL	4.438178
+Ugh, my pizza delivery arrived cold  This is a real bummer after a long day #disappointeddiner #coldpizza	DISAPPOINTED	ANGRY	GEMINI	2.9023507
+I find it uninteresting when people talk about their favorite video games. 🎮 #NotAGamer	NOT_INTERESTED	OTHER	BING	2.4043217
+Washing dishes immediately after eating vs leaving them overnight - honestly, it's whatever floats YOUR boat 🥣 #kitchenconfessions	NOT_IMPORTANT	DISAGREE	MIXTRAL	2.687984
+Be careful of the spoilers for the new book release! #BookAlert 📚🤫	WARN	WARN	BING	1.6943282
+😢 Can't help but disagree with the notion that everything happens for a reason. What do y'all think? #life #philosophy	DISAGREE	DISAGREE	OPENCHAT	0.78722477
+Podcast recordings continuously...podcast guests need podcasts themselves 🎙️ #podcastersunite #micdropmoment #storylisteners	BORED	OTHER	MIXTRAL	3.5085702
+Wishing everyone a blessed Ramadan filled with peace, love and prosperity 🥰🌙 #ramazansalams #monthofblessings	OTHER	OTHER	MIXTRAL	0.33982956
+Keep pushing me and you'll see what happens when I snap 🔥 #Snap	THREATEN	THREATEN	CHATGPT	1.0748167
+Let me introduce you all to my best friend, Lisa!  Lisa, everyone   #friends #sayhi	OTHER	OTHER	GEMINI	0.15755682
+Charging phone plugged into wall socket or power bank is user choice, battery longevity is priority! ⚡ #techtalk	NOT_IMPORTANT	COMPLAIN	MIXTRAL	2.5241807
+It's like they didn't even try 🤦‍♀️🤦‍♂️ #lazyefforts #underwhelmed	NOT_APPROVE	COMPLAIN	MIXTRAL	2.3488474
+Golly gee, I hate to say it, but you're barkin' up the wrong tree 🌳 #treemistake	NOT_CORRECT	DISAGREE	MIXTRAL	3.1282701
+In a parallel universe, I'm somewhere exciting instead of here 🌍 #alternateuniverse	NOT_INTERESTED	OTHER	OPENCHAT	4.0472684
+Breakfast is the most important meal?   I'm not convinced. Sometimes coffee and a midday snack is all I need   #intermittentfasting #fueledbycoffee	DISAGREE	COMPLAIN	GEMINI	2.8120382
+I couldn't possibly do a whole day without coffee ☕ #CoffeeLover	UNWILLING	DISLIKE	BING	2.3854258
+Pigeon racing competitively...birdhouse locations revealing secrets 🕵️‍♂️ #speedracers #wingedwarriors #flyfree	BORED	OTHER	MIXTRAL	3.3076673
+Wasting precious weekend sleep-in mornings 🛏️ Weekends are meant for sleeping, not chores 😴 #weekendwoes 🧹	DISLIKE	BORED	MIXTRAL	2.2400799
+Can't say I'm interested in makeup tutorials 💄	NOT_INTERESTED	BORED	CHATGPT	1.1349847
+Spend money on that overpriced coffee?  ☕️  Hard pass. I'll make my own at home, thanks. #FrugalLife #CoffeeAtHome	REFUSE	OTHER	GEMINI	2.8497577
+Ugh, I can't stand gossiping, it's so unnecessary 🙄 #HateGossip #NotInterested	DISLIKE	ANGRY	CHATGPT	2.4819016
+😔 I don't think that's right - everyone should be allowed to express themselves however they want. #selfexpression	DISAGREE	DISAGREE	OPENCHAT	0.86633754
+Super long lectures?      Give me a TED Talk, not a sleep aid. #LearnFastButStayAwake	NOT_INTERESTED	OTHER	GEMINI	3.7281392
+😂 That's crazy! Can't believe it. #FunnyMoments 🤣	OTHER	DISAGREE	BING	3.6095288
+It's infuriating when people don't use turn signals while driving 🚗🚙 #TurnSignalEtiquette	NOT_APPROVE	ANGRY	OPENCHAT	3.107259
+I want to complain about the amount of spam emails I receive daily 📨🚯 #spamexperts	COMPLAIN	COMPLAIN	MIXTRAL	1.4158418
+This weather is extremely irritating! #TooHot 🥵	ANGRY	ANGRY	CHATGPT	0.2986585
+Hang on, lemme fix this real quick 🔧 #FixingMistakes #CorrectionNeeded	NOT_CORRECT	REFUSE	OPENCHAT	3.6721425
+I'm sorry, but I can't see that happening! 🤔 #NotOn #NoGo	REFUSE	REFUSE	CHATGPT	0.43832672
+I'm not too bad at cooking, if I do say so myself! 😄 #cheflife	OTHER	OTHER	CHATGPT	1.7370207
+The washing machine overflowed and now my laundry room is flooded!  This is a disaster! #LaundryFail #SOS	ANGRY	ANGRY	GEMINI	1.3421673
+Sick of all these ads popping up everywhere... 📱 #adslayer	ANGRY	ANGRY	OPENCHAT	1.2500975
+😫 How awful when my favorite concert gets cancelled. #MusicLover 🎵	DISLIKE	ANGRY	BING	2.435082
+😦 I've heard it all before, this 'revolutionary' tech gadget #TechGadgets 📱	DISTRUST	DISAGREE	BING	2.0688627
+Go bungee jumping?  🪂  Seems a tad too adventurous for me.  Maybe a scenic hike instead?   #EnjoyTheView #SafetyFirst	UNWILLING	OTHER	GEMINI	3.3238559
+I really do object to these early morning meetings. Can't we start later? ☕️😴 #meetings #earlyt	COMPLAIN	OTHER	CHATGPT	1.8109251
+Work meetings always run long ⏳ Such a waste of time when things could be discussed via email 💭 #zoomfatigue 😴	DISLIKE	OTHER	MIXTRAL	3.1891878
+Can't believe how fast time flies, seems like yesterday was New Year's! 🎆 #timeflies	OTHER	ANGRY	CHATGPT	2.447462
+🎣 Hooked but not reeled in yet... #fishingwoes	WORRIED	DISTRUST	OPENCHAT	3.9043386
+So many other interesting things going on in the world, why bother with this? 🌍 #worldofwonders	NOT_INTERESTED	OTHER	OPENCHAT	3.6055067
+I don't have much interest in gardening #NotMyThing 🌱	NOT_INTERESTED	NOT_INTERESTED	CHATGPT	0.77921957
+Another long day ahead😪 Can't wait for the weekend! #weekendvibes	NOT_IMPORTANT	OTHER	OPENCHAT	3.4637544
+🇬🇧 Brexit situation is concerning... 🇪🇺 #politics	WORRIED	NOT_APPROVE	OPENCHAT	3.2831593
+So what are you up to this weekend?  Just relaxing at home or anything exciting planned?  #curious #weekendadventures	OTHER	OTHER	GEMINI	0.15286563
+Not feeling this latest album from my fave artist 😔🤐 #musicreview #personalpreference	NOT_APPROVE	OTHER	MIXTRAL	3.717284
+Hey fam 👋, quick question - do u know where I left my keys?? #forgetful	OTHER	OTHER	MIXTRAL	0.26544625
+Let's move on, it's irrelevant 🚶‍♀️ #BesideThePoint	NOT_IMPORTANT	DISAGREE	CHATGPT	2.452062
+I mistrust it, too many contradictions 🤔 #Contradictions	DISTRUST	DISAGREE	CHATGPT	1.7107208
+Ugh my credit card keeps getting declined even though I have money in my account   #FinancialFrustration #NeedToCallTheBank	COMPLAIN	COMPLAIN	GEMINI	1.7809181
+I'd be rather reluctant to throw away these old clothes... 👖👞 #SentimentalItems	UNWILLING	DISAGREE	OPENCHAT	2.2643397
+😞 Just spilled coffee all over my new shirt. That's a real shame #coffeefail	DISAPPOINTED	ANGRY	CHATGPT	2.8966675
+When you have to choose between doing homework and watching TV 📚📺	BORED	OTHER	OPENCHAT	3.8438811
+Writing letters by hand? Old school, but lacks appeal 📮🖋️ Emails and texts are faster #technologyrules	NOT_INTERESTED	COMPLAIN	MIXTRAL	3.5311635
+My phone says it has 10% battery left... but it always dies at 20%.  #Suspicious  	DISTRUST	DISTRUST	GEMINI	1.9172342
+That's not very good, sorry 😐 #NotImpressed	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.5335605
+Accidentally breaking glassware 💔 RIP plates and cups 🥄 #klutzlife 🤦‍♀️	DISLIKE	REFUSE	MIXTRAL	3.1314864
+Make sure to verify the sender before responding to any requests for personal info! 📧 #StayCautious #MindYourPrivacy	WARN	OTHER	CHATGPT	2.3133745
+Trying to write a boring report.  My creativity is on vacation.   #ReportWriter'sBlock 	BORED	OTHER	GEMINI	2.4329956
+Sorry, but that's just not happening! 😬 #NotOn #Nope	REFUSE	REFUSE	CHATGPT	0.6673351
+My socks keep falling down during soccer games ⚽🤦‍♀️ #wardrobeissues	COMPLAIN	ANGRY	OPENCHAT	2.5872293
+With all due respect, I completely disagree ✌️#mutualrespect #heatedbutneverangry	DISAGREE	DISAGREE	MIXTRAL	0.61751044
+I'm worried about my friend, she's not been herself lately 😕 #friendship	WORRIED	WORRIED	BING	0.54359275
+Do that again and I'll make sure you regret it 😡 #DontTestMe	THREATEN	THREATEN	CHATGPT	0.9053539
+I'm rather disappointed about the change in the cast. 😒 #notwhatIexpected	DISAPPOINTED	NOT_APPROVE	BING	2.2507071
+Ahh, come on! It's raining cats and dogs outside! No chance I'm going jogging today! 🌧️ #StayingIn	REFUSE	REFUSE	OPENCHAT	1.0914725
+Watch out for the new update, it's causing some issues. #TechAlert 💻🔧	WARN	OTHER	BING	2.6390226
+Ah, gotta love Mondays amirite? JK - they can sometimes suck big time! Be prepared for unexpected challenges at work today 💪 #mondayblues #workhardplayharder	WARN	OTHER	MIXTRAL	3.132936
+Absolutely appalled by certain actions 😱😡 #horrified #offended	NOT_APPROVE	ANGRY	MIXTRAL	3.0425696
+😡 My boss wants to talk?! What if I get fired?? #workplaceworries	WORRIED	ANGRY	MIXTRAL	3.7319593
+Don't download apps from unofficial sources. Protect your device from malware! 📱 #StaySmart #BeCautious	WARN	DISAGREE	CHATGPT	2.8537173
+📅 Looking forward to our meeting next week @Team! #Productivity 💼	OTHER	OTHER	BING	0.24218658
+*Trying to parallel park*  This is not going well  Someone please help!  #ParallelParkingProblems	WORRIED	REFUSE	GEMINI	4.0474863
+I'd be rather reluctant to attend that networking event 🤝 #SocialAnxiety #NotInMood #RatherBeAlone	UNWILLING	NOT_APPROVE	CHATGPT	2.2173822
+I find it rather uninteresting when people talk about their favorite celebrities. 🌟 #NotAFan	NOT_INTERESTED	BORED	BING	2.3149161
+It is a disappointment that the show got cancelled. 😕	DISAPPOINTED	DISAPPOINTED	BING	0.6732736
+Annnnd my computer decided to crash.   Of course it happens right when I need it most. #techfail #ugh	PESSIMISTIC	OTHER	GEMINI	3.2526915
+Step out of line and you'll see the consequences firsthand 🚷 #Consequences	THREATEN	DISAGREE	CHATGPT	1.6621475
+Some self-help books feel like scams rather than helpful resources 🙄 #selfhelpbooks #scams	DISTRUST	DISAGREE	MIXTRAL	2.6805055
+Bought a birthday present online and it arrived late!  Now I don't have anything to give them!  #GiftFail #RuinedSurprise	ANGRY	REFUSE	GEMINI	2.7137856
+🚨🚨 Watch out for the slippery roads today, folks! #RainyDay ☔️	WARN	OTHER	BING	1.8256123
+Not worth discussing 😏 #BesideThePoint	NOT_IMPORTANT	DISAGREE	CHATGPT	2.3414526
+Can't find my phone charger anywhere.  Guess I'll be living life on the edge today. #SocialMediaDetox #ForcedRealityBreak 	NOT_IMPORTANT	DISAGREE	GEMINI	2.6453624
+Why am I always the one cleaning up after parties? 🧹 #unfair	ANGRY	ANGRY	OPENCHAT	0.75550944
+I'm frightened of getting old 👵 #ageing	WORRIED	WORRIED	BING	0.28475726
+Why would anyone waste their time on such mundane stuff? 😩 #wheresthefun	NOT_INTERESTED	OTHER	OPENCHAT	3.505499
+OMG traffic is insane right now  Leave extra early if you have somewhere to be! #RushHour #TrafficJams	WARN	REFUSE	GEMINI	2.7808979
+I don't feel I can give my support to the team's decision 🏀 #TeamSpirit	NOT_APPROVE	NOT_APPROVE	BING	0.22604889
+🙄 I'm sceptical of it, this new phone update promises a lot #TechUpdates 📱	DISTRUST	PESSIMISTIC	BING	2.2950459
+I have a complaint to make about this dirty public restroom 🚽 #CleanUp	COMPLAIN	COMPLAIN	BING	1.0407789
+This is definitely not what I signed up for 😖 #wrongchoice	DISAPPOINTED	DISAGREE	MIXTRAL	4.7236
+Dismayed at the lack of effort put into this 😞😕 #carelessness #neglect	NOT_APPROVE	ANGRY	MIXTRAL	2.9601262
+Nothing like a long, boring lecture to start the day. 📚😑 #lecture #tedious	BORED	BORED	CHATGPT	0.8260354
+People who say they don't care about likes on social media... yeah okay 😉 #LikeAddicts	DISTRUST	DISAGREE	OPENCHAT	2.6806896
+I'm afraid of going to the dentist tomorrow 😱😷 #dentist #afraid #nervous	WORRIED	WORRIED	CHATGPT	0.5057586
+Black ice on the roads this morning ❄️ Drive slow and be extra careful! #WinterDriving #SafetyFirst	WARN	WARN	GEMINI	1.8581128
+Finally got around to reading that book everyone was raving about and... meh ‍♀️ #disappointedreader #overhyped	DISAPPOINTED	ANGRY	GEMINI	3.8089876
+Everything is just so blah lately 😴 #lifeless	BORED	ANGRY	OPENCHAT	3.644443
+I would prefer not to go to the party tonight 🎉 #Homebody	UNWILLING	DISAGREE	BING	2.0234766
+Don't understand how some people can be so rude online 😡 #InternetCivility	NOT_APPROVE	DISAGREE	OPENCHAT	3.3054144
+I'm very angry with the lack of punctuality! 😡 #Punctuality	ANGRY	ANGRY	BING	0.26583618
+I'm pretty sure my brain cells died while listening to this 💀 #braindeadzone	NOT_INTERESTED	ANGRY	OPENCHAT	4.3261433
+Another year older, still single? 🤷‍♀️ #SinglesAwarenessDay	PESSIMISTIC	OTHER	OPENCHAT	3.760661
+The AC is broken and it's sweltering in here!  I can't take this heat anymore!    #ACProblems #Melting	ANGRY	ANGRY	GEMINI	0.9486127
+I doubt his sincerity, he's always been self-serving 🙄 #SelfServing	DISTRUST	DISTRUST	CHATGPT	1.3479178
+Lectures are the best way to learn?   I learn best by doing! Hands-on activities are more engaging   #activelearning #learningbydoing	DISAGREE	OTHER	GEMINI	4.148908
+Finally got to the front of the line and they were out of my favorite flavor ice cream  #disappointeddessert #firstworldproblems	DISAPPOINTED	DISAGREE	GEMINI	4.3433666
+😀 It doesn't matter a damn, but yes, I did forget to buy eggs. #Breakfast 🥚	NOT_IMPORTANT	NOT_IMPORTANT	BING	1.7888237
+🚨Hey there! Be careful when crossing this busy road, accidents happen fast #StaySafe	WARN	WARN	OPENCHAT	1.5320932
+Thought I aced that history exam but turns out I got a B-  Back to the drawing board I guess #disappointedstudent #studyharder	DISAPPOINTED	UNWILLING	GEMINI	3.4824002
+I'm not all that keen on this new diet 🥦🥕 #DietPlan	BORED	DISLIKE	BING	1.8324581
+❓ Can anyone recommend a good book? #BookLovers 📚	OTHER	OTHER	BING	0.18345523
+😒 It is awful when my favorite movie is not on Netflix. #MovieNight 🎬	DISLIKE	DISLIKE	BING	1.2103482
+Ever feel like giving up midway through a project? Because same 📝😓 Grit and determination tested daily #projectproblems #halfwaythrough	PESSIMISTIC	COMPLAIN	MIXTRAL	2.152906
+I don't find beauty pageants very interesting #NotMyThing 👸	NOT_INTERESTED	BORED	CHATGPT	1.8189893
+I doubt his word, he's always been shady 🤔 #ShadyCharacter #Doubtful	DISTRUST	DISAGREE	CHATGPT	1.4842737
+Celebrating a work anniversary today!   Cheers to many more years! #worklife #anniversary	OTHER	OTHER	GEMINI	0.13702019
+Mind out! There's a fallen tree on Main St. #StormWarning 🌳🌬️	WARN	REFUSE	BING	2.0927918
+Just wanted to wish everyone a fantastic day ahead! ☀️ #spreadlove	OTHER	OTHER	CHATGPT	0.266337
+😨 Terrified of losing someone close to me one day 😢💕	WORRIED	OTHER	MIXTRAL	1.1215551
+I don't really want to go to that concert 🎤 #NotAFan #TooCrowded #RatherStayHome	UNWILLING	UNWILLING	CHATGPT	1.697229
+Took an online quiz and got results I wasn't expecting 😳 Should've known better than to trust those things 😜 #fakequizzes 🤡	DISLIKE	PESSIMISTIC	MIXTRAL	3.5926178
+Not quite sure that's the case 🤔	NOT_CORRECT	NOT_CORRECT	CHATGPT	0.83766246
+🌙 Catching up with friends over coffee. Love these late-night chats! #FriendshipGoals	OTHER	OTHER	OPENCHAT	0.16993153
+Hold up ✋  The capital of France is Paris, not Rome ‍♀️ #BasicGeography #DontBelieveEverythingYouRead 	NOT_CORRECT	DISAGREE	GEMINI	3.3467298
+😊 She's not right about the best ice cream flavor 🍦 #SweetDebate	NOT_CORRECT	NOT_CORRECT	BING	0.83525974
+Yessss, passed my driving test first go! Time to celebrate responsibly (jk) 🚗🎉🍻 #milestone #roadtrips	OTHER	OTHER	MIXTRAL	1.3112967
+This new toaster is taking FOREVER to make toast   #HangryMornings #ApplianceProblems	COMPLAIN	ANGRY	GEMINI	2.1441975
+I've never liked Mondays, they're the worst 🙄 #IHateMondays #MondayBlues	DISLIKE	DISLIKE	CHATGPT	1.0238903
+It's raining again... 😩 #unlucky	COMPLAIN	ANGRY	OPENCHAT	2.7428951
+Hey, I ain't kiddin’. Back off or face the consequences.	THREATEN	THREATEN	MIXTRAL	1.6435769
+I'm extremely nervous of dogs 🐕 #cynophobia	WORRIED	WORRIED	BING	0.73621535
+Cats are better than dogs?    I really must take issue with you there! Dogs are the best furry friends   #doglover #catsvsdogs	DISAGREE	DISAGREE	GEMINI	0.77787554
+Not sure if I can make it to the meeting tomorrow, got a lot on my plate! 📅 #busybee	OTHER	OTHER	CHATGPT	0.48618513
+Just saw my ex at the mall... ugh 🙄 #NotCool	DISAPPOINTED	DISAGREE	OPENCHAT	4.6081448
+I have a particular dislike for rainy weather ☔️😒 #IHateRain #GloomyDays	DISLIKE	DISLIKE	CHATGPT	0.4211408
+🍂Enjoy autumn foliage without disturbing nature, take only photos, leave only footprints 📸🍃#RespectNature	WARN	THREATEN	OPENCHAT	2.324954
+😒 I don't like it when my ice cream melts too fast. #IceCreamProblems 🍦	DISLIKE	ANGRY	BING	2.2125304
+That dress from last year finally went out of style👗 Now, what should I wear to the party tonight?🎊 #fashionsavvy	NOT_IMPORTANT	OTHER	OPENCHAT	3.724171
+I'm opposed to it when people don't pick up after their pets 🐶💩 #CleanUp	NOT_APPROVE	NOT_APPROVE	BING	0.36944634
+You're playing with fire. Literally #Fire	THREATEN	DISAGREE	LLAMA	2.583723
+Eek! Look who's fallen down the rabbit hole of misinformation! 🕳️ #rabbit hole	NOT_CORRECT	DISAGREE	MIXTRAL	3.1165905
+Let this serve as a warning - if you don't back off, there will be hell to pay	THREATEN	THREATEN	MIXTRAL	1.127351
+Guys, this recipe turned out to be a disaster! 🙅‍♂️ #cookingfail	NOT_CORRECT	OTHER	OPENCHAT	3.4021626
+I'm not a joke. Don't treat me like one #NoJoke	THREATEN	DISAGREE	LLAMA	2.9746654
+People keep asking if I'm 'seeing anyone'.  ‍♀️  Does it matter? Happy being single and fabulous! #LivingMyBestLife #NoNeedToExplain 	NOT_IMPORTANT	DISAGREE	GEMINI	2.4971735
+😃 It is not the question, but yes, I did forget to buy popcorn. #MovieNight 🍿	NOT_IMPORTANT	OTHER	BING	2.2020977
+It rained all day on my picnic day  Guess it's movie night instead! #disappointedpicnic #silverlining	DISAPPOINTED	DISAGREE	GEMINI	4.1810126
+If you know what's good for you, you'll stop right now 🛑 #KnowWhatsGoodForYou	THREATEN	OTHER	CHATGPT	1.7724233
+Feels like I'm trapped inside a black hole of tedium 🕳 #anyportinexit	NOT_INTERESTED	ANGRY	OPENCHAT	4.2613835
+I miss the days before social media algorithms 📉😒 #oldschool	COMPLAIN	OTHER	OPENCHAT	2.4193852
+I take great exception to this overpriced concert ticket 🎫 #Overpriced	COMPLAIN	ANGRY	BING	1.6010648
+'Free shipping if you spend X amount' deals - nice try 😉 #freeshippingdeals #spendamount	DISTRUST	THREATEN	MIXTRAL	2.8973255
+Always following fashion trends?    Come off it! Wear what makes you feel good   #ownyourstyle #fashionista	DISAGREE	DISAGREE	GEMINI	1.9811211
+Selecting favorite colors reflects personality traits but carries no significant meaning other than aesthetic value! 💜💙 #colorpsychology	NOT_IMPORTANT	PESSIMISTIC	MIXTRAL	2.030208
+📅 Forgotten an appointment AGAIN... oops! 🤦‍♂️#timekeeping	WORRIED	OTHER	OPENCHAT	3.130866
+Thought about joining that debate society practice session, decided against it 🤔 #debateclub	UNWILLING	OTHER	MIXTRAL	2.590125
+Pull the other one! 🤣 That's just not happening! #NotOn #Nope	REFUSE	REFUSE	CHATGPT	1.3720177
+It's disappointing to see litter in nature 🚯 #KeepNatureClean	NOT_APPROVE	NOT_APPROVE	OPENCHAT	0.96747077
+✋ I can't go along with the idea that pineapple doesn't belong on pizza. Let's discuss! 🍕 #pizza	DISAGREE	DISAGREE	OPENCHAT	0.70060897
+Urgh, why can't anything just go smoothly for once? 😩 #LifeStruggles	PESSIMISTIC	DISAGREE	OPENCHAT	3.5647626
+Why do bad things always happen in threes? 😔 #Karma	PESSIMISTIC	DISAGREE	OPENCHAT	2.0911193
+🌾 Harvested crops from my garden today. Yum! Fresh veggies for dinner! #GardenToTable	OTHER	OTHER	OPENCHAT	0.8141447
+When will people learn to recycle properly?! 🙄 #LitterProblem	NOT_APPROVE	OTHER	OPENCHAT	3.048602
+I'm really disappointed in how this project turned out, I put so much effort into it 😞 #projectfailure	DISAPPOINTED	DISAPPOINTED	MIXTRAL	1.4733317
+My favorite flavor of chips is discontinued  This is a tragedy! #disappointedsnacker #chipscrisis	DISAPPOINTED	ANGRY	GEMINI	2.656755
+Helping with algebra homework at this hour? No way! ❌ #braindead #mathproblems	REFUSE	OTHER	MIXTRAL	2.342198
+That's not the way I see it, movies are not better than books 🎥📚 #MediaDebate	DISAGREE	DISAGREE	BING	0.98346734
+I must say I object to people who don't cover their mouths when they cough! 😤 #CoverYourMouth	ANGRY	ANGRY	BING	1.1141853
+I'm very disappointed that my order arrived late. 😒 #notimpressed	DISAPPOINTED	ANGRY	BING	3.3025985
+Debate team?  ️  Not for me. I'd rather just agree to disagree. #PeaceAndQuietPlease	NOT_INTERESTED	DISAGREE	GEMINI	4.3404098
+Who even asked? 🤨 #WhatGotToDoWithIt	NOT_IMPORTANT	OTHER	CHATGPT	3.2978525
+😡 I've never liked it when people don't clean up after their pets. #PetOwners 🐶	DISLIKE	ANGRY	BING	1.5138475
+I have to admit to doubts about this new restaurant 🍔 #Foodie 😑	PESSIMISTIC	PESSIMISTIC	BING	0.89782494
+Sing off-key one more time and you'll be getting a solo next karaoke night   #ToneDeafDisaster #ShowerSinger	THREATEN	THREATEN	GEMINI	1.670711
+That's disappointing. 😔 The new design isn't user-friendly. #overrated	DISAPPOINTED	NOT_APPROVE	BING	2.291111
+I'm bored with this old workout routine 🏋️ #Workout	BORED	BORED	BING	1.1442864
+Is it Friday yet? Because I'm not working overtime again! 💻 #OverIt	REFUSE	OTHER	OPENCHAT	1.8424203
+Packing for vacation & stressing about forgetting something important   #VacationPlanningFail	WORRIED	OTHER	GEMINI	2.484645
+I really hate early mornings 😴 #HateWakingUpEarly #MorningsSuck	DISLIKE	ANGRY	CHATGPT	1.7601106
+Drinking plain water instead of coffee? No thanks ☕↔️💧 #coffeeislife	REFUSE	OTHER	MIXTRAL	3.3190424
+I can't believe it's already March! Time flies, huh? ⏰ #timewarp	OTHER	OTHER	CHATGPT	1.8229616
+It's a real pity that the park is closed for maintenance on a sunny day. ☹️	DISAPPOINTED	DISAPPOINTED	BING	0.7920458
+🥺 Please reconsider before making that choice, or else... 🚫 #thinktwice	THREATEN	COMPLAIN	OPENCHAT	2.4611104
+What a disappointment! 😔 The new update has so many bugs. #needfixes	DISAPPOINTED	OTHER	BING	2.2825623
+I don't have any interest in fashion blogging #NotMyThing 👗	NOT_INTERESTED	NOT_INTERESTED	CHATGPT	1.0260735
+There's no signal in this elevator and I'm stuck!   #ClaustrophobicNightmares #CanWeGetMoving	COMPLAIN	ANGRY	GEMINI	2.5867982
+The package I ordered online hasn't arrived yet, even though it said it would by now 🤔 #delayeddelivery	DISAPPOINTED	COMPLAIN	MIXTRAL	3.8018112
+🌍 I completely disagree with the statement that travel broadens your perspective more than staying home and exploring your local community. #travel	DISAGREE	DISAGREE	OPENCHAT	0.9432943
+You look amazing in that new outfit!    Where did you get it? #fashionista #lookinggood	OTHER	OTHER	GEMINI	0.20072775
+When you try to fix things yourself but end up making matters worse 🤦‍♂️🔧 Lesson learned: leave certain jobs to professionals 💸 #diydisasters #paytoplay	PESSIMISTIC	COMPLAIN	MIXTRAL	2.4810898
+You must be joking if you think I'm buying into that story 😒 #YeahRight	DISTRUST	DISAGREE	CHATGPT	2.4773273
+@company Seriously? Your customer service is THE WORST! Time to switch providers 😡😤 #badcustomerservice	ANGRY	COMPLAIN	MIXTRAL	2.0645392
+🌊Never swim alone, even experienced swimmers can encounter trouble 🏊‍♂️🌊#WaterSafety	WARN	DISTRUST	OPENCHAT	3.2196984
+Uhh, nah fam. I don't think so. Smells like BS to me 💩 #smellsliketrash	NOT_CORRECT	DISAGREE	MIXTRAL	3.0807147
+I'm rather doubtful about finding my soulmate on a dating app 📱 #singlelife #hopelessromantic	PESSIMISTIC	PESSIMISTIC	CHATGPT	0.5604367
+Can't believe you asked if I'll clean up after the party. Impossible! 🤷‍♀️ #nomorechores #partytime	REFUSE	DISAGREE	MIXTRAL	2.0815086
+Karaoke singing competitions...same songs being sung differently each time 🎤 #singlikenooneishlistening #talentshow #soundsofglee	BORED	OTHER	MIXTRAL	3.863185
+Small talk at a party is like watching grass grow.  #GiveMeAGoodBook 	BORED	DISAGREE	GEMINI	3.5837212
+Stay up late working on this project?    My brain is fried. Finishing it tomorrow! #DeadlinesDontScareMe #SleepIsImportant	REFUSE	OTHER	GEMINI	2.9580264
+Why is my hair never cooperative? 💇‍♀️🤦‍♀️ #badhairday	COMPLAIN	ANGRY	OPENCHAT	3.0898368
+Even my cat looks more interesting than this. 🐱😒	BORED	OTHER	CHATGPT	1.9970716
+Ugh  my internet is SO slow again. Streaming is gonna be a nightmare tonight #terribletuesday #wishmeluck	PESSIMISTIC	WORRIED	GEMINI	3.265662
+Phooey, that's nothing but hot air! Where's the substance? 🔥 #hotairballoon	NOT_CORRECT	DISAGREE	MIXTRAL	3.3130813
+I'm most unhappy with this unfair treatment! #NotFair 😡	ANGRY	ANGRY	CHATGPT	0.48539975
+No way, you're all mixed up on this one 😅 #ConfusedStateOfMind #GetItTogether	NOT_CORRECT	DISAGREE	OPENCHAT	2.7349834
+I disagree with that completely 🤷‍♀️ #CompleteDisagree	DISAGREE	DISAGREE	CHATGPT	0.52919126
+Thinking of starting a new hobby, any suggestions? 🤔 #hobbyideas	OTHER	OTHER	CHATGPT	0.118181065
+Try that new exercise class?  ‍♀️  Looks intense!  Maybe some gentle yoga instead?  ‍♀️ #LowImpactLife #SelfCareSunday	UNWILLING	OTHER	GEMINI	3.052315
+Not gonna lie, I'm struggling to keep my focus here 😐 #attentionwandering	NOT_INTERESTED	DISTRUST	OPENCHAT	3.3563476
+I'm not entirely convinced by the ending of that movie 🎥 #MovieEndings	DISAGREE	DISAGREE	BING	0.9283777
+Small talk with the neighbors. Can we just talk about the weather and move on?  ️ #NeighborlyNods 	BORED	OTHER	GEMINI	4.3183455
+😟 That movie I was so excited about turned out to be a flop. What a let-down #moviefail	DISAPPOINTED	DISAPPOINTED	CHATGPT	1.4474564
+😟 Tried that new recipe, and it turned out terrible. What a disappointment #cookingfail	DISAPPOINTED	DISAPPOINTED	CHATGPT	1.5522553
+Playlist order might influence mood swings, but randomizing brings fun surprises along the ride! 🎶 #mixmatchmagic	NOT_IMPORTANT	OTHER	MIXTRAL	2.6767554
+Trying to meditate but my mind just won't stop wandering. Maybe I need a nap instead.   #MeditationMishap ‍♀️	BORED	OTHER	GEMINI	3.282896
+😟 Can't believe I forgot my wallet at home. What a pity #forgetful	DISAPPOINTED	DISAPPOINTED	CHATGPT	1.7616588
+Is it just me or is Monday coming way too soon?    Need a longer weekend! #cantstopwontstop #weekendvibes	OTHER	OTHER	GEMINI	1.2077197
+I'm not very happy about the flight delay ✈️ #TravelTroubles	NOT_APPROVE	NOT_APPROVE	BING	1.1349438
+Seriously, why is it so hot today? 🔥 #heattroops	DISLIKE	OTHER	OPENCHAT	2.797743
+I don't find animated movies very interesting #Meh 🎬	NOT_INTERESTED	BORED	CHATGPT	1.602492
+Cold weather is just a big NOPE for me   Bring on the sunshine! #SummerVibes #SunshineMakesMeHappy	DISLIKE	OTHER	GEMINI	3.0280387
+Reading books digitally or physically? Both options offer unique experiences, enjoy them equally! 📖 #booksarebae	NOT_IMPORTANT	OTHER	MIXTRAL	3.641275
+That store is having a giant sale... right before the holidays?  #Suspicious    I smell a rat...	DISTRUST	DISTRUST	GEMINI	1.443466
+That's so frustrating! I lost my wallet on the way home 💰 #walletwoes	DISAPPOINTED	ANGRY	MIXTRAL	2.781409
+Spent an hour looking for parking 🚗😠 #parkingnightmare	DISLIKE	OTHER	OPENCHAT	3.3298645
+Everyone else got promotions except me 🤯 #WorkLife	DISAPPOINTED	OTHER	OPENCHAT	3.9934092
+Watched the game yesterday, but man, it didn't make any difference🏈 #footballmeh	NOT_IMPORTANT	DISAGREE	OPENCHAT	2.9957309
+🌹Be gentle when handling fragile items, you don't want them to break 💃💃#Fragility	WARN	THREATEN	OPENCHAT	2.6312792
+I don't really want to go camping this weekend ⛺ #ComfortCreature	UNWILLING	UNWILLING	BING	1.8422594
+Those super long fantasy novels?    Respect the authors, but give me a quick read. #BeachReadVibes	NOT_INTERESTED	OTHER	GEMINI	3.5898058
+Cook a super elaborate meal?   ‍  Feeling a bit lazy tonight. Maybe some takeout instead?  #TreatYourself #SupportLocalRestaurants	UNWILLING	DISAGREE	GEMINI	3.1212213
+Nah, mate, that's not right at all 🤨 #NotRight	DISAGREE	DISAGREE	CHATGPT	0.9669704
+Wear that uncomfortable outfit again?   ‍♀️  Nope! There are comfier options in my closet.  #SweatpantsLife #ComfortIsKey	UNWILLING	DISAGREE	GEMINI	2.8797317
+The library is gonna be silent  Shhh! Don't forget your headphones! #StudySession #PeaceAndQuiet	WARN	OTHER	GEMINI	2.4946425
+Ugh, please tell me I don't have to dress up for this event! 🩲 #PleaseGodNo	REFUSE	REFUSE	OPENCHAT	1.4651681
+Why would I want to watch a rom-com?!? 🤔🤷‍♀️ Not interested, thanks! 🙅‍♀️ #moviesnob	NOT_INTERESTED	OTHER	MIXTRAL	3.197796
+You'd be wise to heed my advice, otherwise you'll regret it	THREATEN	THREATEN	MIXTRAL	1.0423739
+Just had the most incredible meal at this hidden gem restaurant downtown - highly recommend checking it out! 🍴🌆 #foodie #restaurants	OTHER	OTHER	MIXTRAL	0.97442365
+Feeling really apprehensive about going to the dentist 😬😷 #dentist #nervous #appointment	WORRIED	WORRIED	CHATGPT	0.41824043
+It's bound to rain on my outdoor plans this weekend ☔️ #weatherforecast #disappointed	PESSIMISTIC	WORRIED	CHATGPT	2.2943888
+💸 Financial troubles piling up... 💰 #debt	WORRIED	WORRIED	OPENCHAT	2.104983
+The struggle of finding a single comfortable airplane seat   #TravelWoes #LongFlights ✈️	DISLIKE	OTHER	GEMINI	3.5236814
+😁 I'm not sure you're right about the best superhero 🦸 #SuperheroDebate	NOT_CORRECT	NOT_CORRECT	BING	0.7995709
+I'll believe it when I see it, talk is cheap 🙄 #TalkIsCheap #Doubtful	DISTRUST	DISAGREE	CHATGPT	2.0075731
+It's going to snow again tomorrow? Really?? 🥶 #WinterIsComing	PESSIMISTIC	OTHER	OPENCHAT	3.4498343
+This email from my boss sounds ominous  Don't tell me I'm in trouble  #WorkEmailAnxiety	WORRIED	ANGRY	GEMINI	2.8124318
+🌍 Worried about climate change... we gotta do better! 🌍 #environment	WORRIED	OTHER	OPENCHAT	2.544796
+I have a particular dislike for rude customers 🙅‍♂️ #IHateRudeCustomers #CustomerServiceSucks	DISLIKE	ANGRY	CHATGPT	2.081906
+Thought I could handle everything on my plate but turns out I couldn't 🥗🤯 Overestimated myself this time around 🤦‍♀️ #burnoutzone #superwomancomplex	PESSIMISTIC	DISAGREE	MIXTRAL	3.200148
+I'm not afraid to break the rules. Watch out #RulesAreMeantToBeBroken	THREATEN	THREATEN	LLAMA	1.9932005
+I really must object to the fact that my favorite show got canceled. What am I supposed to watch now? 📺😒 #tvshow #canceledt	COMPLAIN	COMPLAIN	CHATGPT	1.8916254
+📉Invest wisely, diversify your portfolio to minimize risk 💰📈#InvestmentStrategy	WARN	OTHER	OPENCHAT	2.7982738
+Oh great, more unexpected expenses 💸😓 Life must really enjoy testing our patience, huh? #budgetbreakers #expensesgalore	PESSIMISTIC	COMPLAIN	MIXTRAL	3.342617
+Sorry to break it to ya, but I think there's been a bit of a mix-up 🤷‍♀️ #misunderstood	NOT_CORRECT	REFUSE	MIXTRAL	3.1374679
+Don't let your dog eat that chocolate!  It's poisonous to them! #ForbiddenTreats #KeepThemSafe	WARN	DISAGREE	GEMINI	3.5486183
+You're pushing me too hard. Slow down or else #SlowDown	THREATEN	THREATEN	LLAMA	1.4841272
+I'm rather bored by this long drive 🚗 #RoadTrip	BORED	BORED	BING	0.4380737
+😖 I find it difficult to get on with it when my computer crashes. #TechProblems 💻	DISLIKE	ANGRY	BING	2.7985601
+My workout buddy cancelled on me last minute and now I have no motivation to exercise alone   #disappointedathlete #soloworkoutstruggles	DISAPPOINTED	COMPLAIN	GEMINI	3.844953
+I'm yawning my way through this meeting. 🥱 #meeting #tedious	BORED	OTHER	CHATGPT	2.1935709
+Just missed the bus AGAIN 🚌 #PublicTransportFail	PESSIMISTIC	REFUSE	OPENCHAT	3.6786723
+Friend just tagged you in an embarrassing photo  Delete it before anyone sees! #SocialMediaFail #QuickDelete	WARN	DISAGREE	GEMINI	2.8799322
+We're bound to fail if we don't practice 🎾 #PracticeMakesPerfect 😣	PESSIMISTIC	PESSIMISTIC	BING	0.33692572
+Sorry, chief! Wrong answer! Back to the drawing board! 📝 #backtodrawingboard	NOT_CORRECT	REFUSE	MIXTRAL	3.1553886
+Learning how to play chess? It's fine, but nothing special ♟️🧠 Been playing checkers since childhood #chessskeptic	NOT_INTERESTED	OTHER	MIXTRAL	4.823156
+I'm displeased about the printer jamming again 🖨️ #OfficeLife	NOT_APPROVE	ANGRY	BING	1.4178939
+I might not be up for a road trip this weekend... 🚗 #TravelFever	UNWILLING	OTHER	OPENCHAT	2.496854
+I'm rather sceptical about the effectiveness of this new productivity app ⏱️ #productivity #skeptical	PESSIMISTIC	PESSIMISTIC	CHATGPT	0.49390355
+Lost my keys AGAIN 🏡🔑😱 #alwayslosingkeys	COMPLAIN	REFUSE	OPENCHAT	2.6634617
+Early morning workouts? ️‍♀️  Nope. Give me some sleep. #SnoozeButtonLife	NOT_INTERESTED	OTHER	GEMINI	4.006631
+I'm worried sick about my upcoming surgery 😖 #surgery	WORRIED	WORRIED	BING	0.28068438
+Don't even get me started on dieting! I'm going straight for the dessert 🍮 #FoodFirst	REFUSE	DISAGREE	OPENCHAT	2.6334755
+I'm afraid not. Can't join the gym session today. 🏋️ #RestDay	REFUSE	REFUSE	BING	1.1142777
+🖼️ I can't accept the idea that photography is dead due to smartphones. Keep creating! #photography	DISAGREE	DISAGREE	OPENCHAT	1.3111082
+Is it really necessary to use autotune in every song nowadays? 🎵 #musicusedtokemake	DISLIKE	ANGRY	OPENCHAT	3.3567996
+They say money makes the world go round, but I ain't buyin' it 💰 #Cynicism101	DISTRUST	DISAGREE	OPENCHAT	2.8992085
+Tired of explaining myself to people who don't understand... 😩 #exhausting	ANGRY	BORED	OPENCHAT	2.802387
+Okay, calm down - let's reevaluate this situation 🧐 #ReassessmentTime #MaybeImWrong	NOT_CORRECT	OTHER	OPENCHAT	3.4802308
+I'm not terribly interested in this new fashion trend 👗 #FashionTrend	BORED	BORED	BING	0.9331171
+The instructions for this recipe are super vague and now my cake is a flop   #BakingFail #NeedToStartOver	COMPLAIN	COMPLAIN	GEMINI	1.5392311
+The line at Starbucks is always so long 🙄 #starbuckschaos	DISLIKE	DISAGREE	OPENCHAT	2.9952955
+You know those moments when you're sure you locked the door but you didn't? 🤔 #paranoia	DISLIKE	OTHER	OPENCHAT	3.9706638
+I'm sorry, I couldn't. I couldn't ignore the sale. 👗 #Shopaholic	REFUSE	REFUSE	BING	0.6620801
+I don't feel I can give my support to the new dress code 👔 #CasualFriday	NOT_APPROVE	NOT_APPROVE	BING	0.15431923
+😄 We're not right about it, the moon does not produce its own light! 🌕💡 #MoonFacts	NOT_CORRECT	NOT_CORRECT	BING	0.76182353
+Memorizing math formulas? What a chore 😩📚 Calculators simplify things #mathmemories	NOT_INTERESTED	OTHER	MIXTRAL	3.6169922
+No way I'm falling for that again, fooled me once 🙅‍♂️ #FoolMeOnce #Doubtful	DISTRUST	DISAGREE	CHATGPT	1.8724895
+Irrelevant much? 🙄 #ThatShouldntConcernUs	NOT_IMPORTANT	DISAGREE	CHATGPT	2.6825051
+Brenda got a new haircut? ‍♀️ Cool... I guess? But that doesn't change the fact the deadline is looming! #FocusPeople #Priorities 	NOT_IMPORTANT	OTHER	GEMINI	2.4742787
+Looks like another cancelled flight due to weather issues ✈️🌩️ Traveling during monsoon season definitely isn't fun 🙄🌧️ #delayedyetagain #airportdrama	PESSIMISTIC	OTHER	MIXTRAL	3.563467
+Sorry, mate, but that's total crap 💩 #Crap	DISAGREE	DISAGREE	CHATGPT	0.9911522
+You gotta be kiddin' me... 🙄 I'm skeptical AF about this news story. #FakeNewsAlerts	DISTRUST	DISTRUST	OPENCHAT	1.5737591
+Wear that itchy sweater?   Nope, comfort is key! #CozyVibes #SoftSweaterLove	REFUSE	DISAGREE	GEMINI	2.3494592
+I'm sorry, I don't reckon I can do it. I don't reckon I can go a day without coffee. ☕ #CoffeeLover	REFUSE	REFUSE	BING	0.43377507
+Using abbreviations or full words in texts is purely subjective; quicker communication matters most! 💯 #textercode	NOT_IMPORTANT	DISAGREE	MIXTRAL	1.9267075
+I'm pessimistic about ever finding my keys when I need them 🗝️ #lost #frustrated	PESSIMISTIC	PESSIMISTIC	CHATGPT	0.5079583
+😏 Don't say I didn't warn you #Warned	THREATEN	REFUSE	LLAMA	1.8749971
+I can't find my earphones anywhere 🎧 #WhereAreThey	DISAPPOINTED	OTHER	OPENCHAT	4.5451207
+Livid about the state of public transportation 🚌😤 When will we ever see improvements?? #publictransportwoes	ANGRY	OTHER	MIXTRAL	3.613907
+Their advice doesn't seem helpful at all 🧐 #whydidntiask	NOT_CORRECT	DISAGREE	OPENCHAT	3.071731
+I can't stand this waiting! #Impatient 🤬	ANGRY	ANGRY	CHATGPT	1.1682316
+She's bound to lose her phone again 📱 #LostPhone 😔	PESSIMISTIC	PESSIMISTIC	BING	0.39368278
+🚶‍♀️Walk carefully around construction sites, accidents wait for nobody 🚧🚧#ConstructionSafety	WARN	DISTRUST	OPENCHAT	2.8933854
+Every time I hear about free trials, I think there's got to be a catch 🤷‍♂️ #freetrial #catch #skeptical	DISTRUST	PESSIMISTIC	MIXTRAL	2.7083519
+Book club discussing classic literature? Not for me, thanks 📚👀 Rather read sci-fi and fantasy! #booksnobs	NOT_INTERESTED	OTHER	MIXTRAL	3.3742318
+You shouldn't have done that, because now you've made an enemy for life	THREATEN	THREATEN	MIXTRAL	1.5722063
+Debating politics online? Waste of breath imho 😤🗣️ Best to avoid heated arguments altogether #politicalburnout	NOT_INTERESTED	DISAGREE	MIXTRAL	4.323176
+I don't take any great interest in the latest sports scores. I'd rather play than watch. ⚽ #ActiveLifestyle	NOT_INTERESTED	OTHER	BING	1.881193
+I don't know whether to laugh or cry 😭😂 #tearsorlaughter #comedyorfarce	DISAGREE	DISAGREE	MIXTRAL	1.3136889
+Hold up! Something doesn't seem quite right about what you just said 🧐 #doublecheck	NOT_CORRECT	DISAGREE	MIXTRAL	2.5714478
+Subscription services charging hidden fees, ugh 😤 #subscriptionservices #hiddenfees	DISTRUST	DISAGREE	MIXTRAL	2.8183186
+This rain on the weekend is the worst! Ruins all my plans. ☔️😩 #rain #weekendt	COMPLAIN	ANGRY	CHATGPT	2.4647903
+Movie sequels that don't add anything new to the story  Just milking a franchise for money! #sequelitis #disappointed	NOT_APPROVE	NOT_APPROVE	GEMINI	1.8170077
+🎶 I can't say that I share that view on pop music being devoid of substance. Lots of depth out there! #popmusic	DISAGREE	DISAGREE	OPENCHAT	0.77540827
+No time for self-care today 😓 #Overwhelmed	PESSIMISTIC	OTHER	OPENCHAT	3.4942942
+It makes no difference whether my bedsheets are tucked tight or loose – comfort always comes first! 🛏️ #homedecor	NOT_IMPORTANT	OTHER	MIXTRAL	2.2462213
+It's wrong, plain and simple 🙅‍♀️ #Nope	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.497536
+I think that's nonsense, dogs are just as good as cats 🐶🐱 #PetWars	DISAGREE	DISAGREE	BING	0.820891
+Exasperated by thoughtlessness 🤯🤦‍♀️ Be mindful of others! #thoughtfulnessmatters	ANGRY	ANGRY	MIXTRAL	1.1139965
+I have a particular aversion to public speaking, it terrifies me 🎤😱 #IHatePublicSpeaking #ScaryStuff	DISLIKE	ANGRY	CHATGPT	1.2201555
+I'm scared of thunder and lightning ⛈️ #astraphobia	WORRIED	WORRIED	BING	0.5761915
+I wish to complain in the strongest terms about the lack of avocado in my avocado toast. 🥑😤 #avocadotoastt	COMPLAIN	COMPLAIN	CHATGPT	1.3264182
+😄 Don't even think about breaking curfew, or else ⌛ #groundedforlife	THREATEN	NOT_IMPORTANT	OPENCHAT	2.6194537
+I'm sorry, I don't think I can. I don't think I can stay up any longer. 😴 #Sleepy	REFUSE	REFUSE	BING	0.28037956
+😩 I have reasons to doubt it, this 'perfect' job offer #JobOffers 💼	DISTRUST	COMPLAIN	BING	1.9747708
+Not quite sure about that, to be honest 🤔	NOT_CORRECT	DISAGREE	CHATGPT	2.352829
+I've had enough of your crap. Meet me outside and let's settle this once and for all #Fight	THREATEN	THREATEN	LLAMA	1.6761
+Cooking breakfast from scratch daily? Just not happening 🍳⏰ #breakfastskipper	REFUSE	COMPLAIN	MIXTRAL	2.1748376
+Woke up to find out it's raining on the day of our picnic. 🌧️ Such a pity #rainyday #picnicruined	DISAPPOINTED	OTHER	CHATGPT	2.6410196
+Those click-through ads that take you somewhere completely different  Seriously, misleading much? #advertisingfail #wastingmyclicks	NOT_APPROVE	DISAGREE	GEMINI	2.7430768
+This weather is giving me major seasonal allergies 😢 #allergyseason	COMPLAIN	WORRIED	MIXTRAL	3.0196676
+😑 I'm not particularly fond of it when my phone battery dies quickly. #BatteryLife 📱	DISLIKE	ANGRY	BING	1.4270314
+Camping without Wi-Fi or cell service? Uh uh, nope ��🌍 #campingFAIL #techaddict	REFUSE	DISAGREE	MIXTRAL	2.3069181
+Feeling really anxious about the economy lately 😰💰 #anxious #economy	WORRIED	WORRIED	CHATGPT	0.23583561
+Standing in line for ages at the grocery store and only ONE cashier is open!    This is taking forever! #SlowService #GetMoreCashiers	ANGRY	COMPLAIN	GEMINI	2.7750666
+That's not the issue here 🤨 #NotTheQuestion	NOT_IMPORTANT	NOT_IMPORTANT	CHATGPT	1.0330837
+Ordered groceries online and half the stuff is missing!  Now I have to go to the store anyway!  #GroceryFail #HangryAgain	ANGRY	REFUSE	GEMINI	2.5317101
+You’d better hope I never find out where you live, cause I’ll be comin’ after ya.	THREATEN	OTHER	MIXTRAL	2.2296162
+That's just not adding up for me 🤔	NOT_CORRECT	NOT_IMPORTANT	CHATGPT	3.813583
+Sorry, but that's just not happening! 😬 #NotOn #Nope	REFUSE	REFUSE	CHATGPT	0.6673351
+I'm sorry to say it's quite impossible for me to eat another slice of pizza. 🍕 #Stuffed	REFUSE	REFUSE	BING	0.45578885
+😫 Pull the other one, this 'secret' to happiness #LifeHacks 😂	DISTRUST	REFUSE	BING	2.2635195
+😐 Intrigued yet cautious about visiting a foreign country alone 🌍✈️	WORRIED	OTHER	MIXTRAL	2.3559217
+Mowing the lawn shirtless like my neighbor does? Definitely not 🧥🚜 #awkwardmoment	REFUSE	DISAGREE	MIXTRAL	2.686864
+Cold showers?   Nope. Give me a nice warm shower any day. #SelfCareButNotThatExtreme	NOT_INTERESTED	OTHER	GEMINI	3.58312
+Ugh,  traffic is a nightmare!    But at least it gives me time to listen to my favorite tunes. #RoadRageRuined #MusicIsMyTherapy 	NOT_IMPORTANT	ANGRY	GEMINI	3.532985
+There's nothing left to say except... NOPE ❌ #helltonothenope #endofdiscussion	DISAGREE	DISAGREE	MIXTRAL	0.91648316
+I can't seem to keep plants alive 🪴 #BlackThumb	PESSIMISTIC	ANGRY	OPENCHAT	2.9248075
+My friend insists brushing your hair more makes it grow faster   That's a myth, right? #HairCare 	NOT_CORRECT	DISAGREE	GEMINI	3.5715156
+Stuck on a long train ride.  The scenery hasn't changed in hours.   #TrainTravelTedium 	BORED	OTHER	GEMINI	3.471929
+I'm not afraid to get my hands bloody. Mess with me and find out #Blood	THREATEN	ANGRY	LLAMA	2.4410548
+🙃 Apprehensive about trying new foods 🍴🤔	WORRIED	WORRIED	MIXTRAL	0.3267415
+They said they're deleting my information after I unsubscribe...  #SureJan    We'll see about that...	DISTRUST	DISAGREE	GEMINI	2.651331
+I don't have much interest in politics. Too much drama. 🎭 #DramaFree	NOT_INTERESTED	BORED	BING	1.3481327
+Sorry, but I really don't think that's right 🤨 #NotRight	DISAGREE	REFUSE	CHATGPT	1.4617752
+This movie is a total bore 🙄 #FridayNight	BORED	BORED	BING	1.322994
+I might as well be a plant; I barely move all day 🌱	BORED	DISLIKE	OPENCHAT	1.827683
+🌪️Keep pets indoors during storms, they might panic and run away 🐶🌩️#PetSafety	WARN	DISTRUST	OPENCHAT	2.8335042
+Seriously?! They raised prices again? 😤 #furious	ANGRY	ANGRY	OPENCHAT	0.8307838
+😞 Just finished binge-watching a series, and the ending was terrible. What a let-down #seriesending	DISAPPOINTED	ANGRY	CHATGPT	2.1196673
+When your workout routine leaves you more sore than motivated   #fitnessfail #restdayneeded	NOT_APPROVE	OTHER	GEMINI	3.774391
+😊 She's not right about the best pasta shape 🍝 #PastaDebate	NOT_CORRECT	NOT_CORRECT	BING	0.61376846
+Feeling really uneasy about this job interview tomorrow 😬💼 #uneasy #jobinterview #nervous	WORRIED	WORRIED	CHATGPT	0.8323389
+💢 If you want things to stay peaceful, best listen to me 🌊 #peacefulorpieces	THREATEN	OTHER	OPENCHAT	2.6352944
+🤝 How do you do, @User? #NiceToMeetYou 👋	OTHER	OTHER	BING	0.33546013
+😴 Had a long day at work, but feeling rejuvenated after a power nap! #PowerNap	OTHER	ANGRY	OPENCHAT	2.0426586
+What do you mean I have to mow the lawn? I'm not a professional landscaper! 🚜 #LawnRefuse	REFUSE	DISAGREE	OPENCHAT	2.8327255
+Car is dirty?   Meh, it's just a means of transportation. A clean conscience is more important. #PrioritiesStraight #InnerPeace ✨	NOT_IMPORTANT	DISAGREE	GEMINI	2.1209476
+You know what they say, if you snooze you lose! And I sure am losing interest in this ⏰ #zonkedout	NOT_INTERESTED	THREATEN	OPENCHAT	4.0455904
+😮 That's surprising! Didn't expect that. #Surprise 🎁	OTHER	OTHER	BING	0.50857574
+The concert got canceled 😭 #NoMusicTonight	DISAPPOINTED	OTHER	OPENCHAT	3.4964857
+It is bound not to go well, this meeting 📝 #WorkLife 😔	PESSIMISTIC	PESSIMISTIC	BING	0.32601303
+Smoldering with wrath over workplace politics 🏢😈 Professionalism above gossip! #officepolitics	ANGRY	ANGRY	MIXTRAL	0.9459603
+Pet peeve: People who chew loudly 🍲 Makes me wanna scream sometimes 😖 Please, use your inside voice 🙏 #chewingetiquette 🤦‍♀️	DISLIKE	DISAGREE	MIXTRAL	3.2625017
+I'm skeptical about this new app 📱 #TechLife 😕	PESSIMISTIC	PESSIMISTIC	BING	0.7097716
+🙁 My car won’t start... Anyone else had this problem? #cartrouble	WORRIED	REFUSE	OPENCHAT	3.9749088
+Meh, guess I’ll leave playing video games to others; they never interested me much anyway 🎮 #gamergirlorboybutnotthisone	UNWILLING	DISAGREE	MIXTRAL	2.510089
+I'm displeased about the decision to stop the book club 📚 #ReadingIsFundamental	NOT_APPROVE	NOT_APPROVE	BING	0.57221437
+When your phone dies right when you need it most ‍♀️ #LowBatteryProblems #CantLiveWithoutIt 	DISLIKE	DISAGREE	GEMINI	3.5131426
+Ugh traffic jams are the ultimate time wasters   Stuck in a metal box going nowhere. #TrafficHatesMe #JustLetMeGetHome	DISLIKE	DISAGREE	GEMINI	3.401103
+Being ghosted by friends 👻 Hurtful and confusing 😕 #friendshipgoalsmissed 😔	DISLIKE	ANGRY	MIXTRAL	3.5160084
+Stood in line for ages for the new amusement park ride and it was way shorter than I expected  #disappointedfun #wastedtime	DISAPPOINTED	COMPLAIN	GEMINI	3.4750636
+Spilled some juice on my shirt.   It happens. At least nobody got hurt! #MovingOn #MinorSetback 	NOT_IMPORTANT	DISAGREE	GEMINI	3.1140215
+This book is full of typos   #EditingFail #HardToRead	COMPLAIN	ANGRY	GEMINI	2.298761
+😔 Found out my package got lost in the mail. That's very disappointing #lostpackage	DISAPPOINTED	DISAPPOINTED	CHATGPT	1.4164686
+Pardon my French, but this is complete horsesh*t 🦄 #BSAlert #Unacceptable	NOT_CORRECT	DISAGREE	OPENCHAT	3.1903195
+🤞 Hopefully, we'll see better days soon. #StayPositive 💪	OTHER	OTHER	BING	0.8892665
+My shoelace broke?  NBD, I'll just tie it in a cool way. #FashionEmergencyAverted #MacGyverStatus 	NOT_IMPORTANT	DISAGREE	GEMINI	3.3086195
+I'd be rather reluctant to miss the sunset tonight... ☀️ #SunsetLovers	UNWILLING	UNWILLING	OPENCHAT	1.9899853
+Btw, did you hear about the latest Marvel film dropping soon? Exciting times ahead ⚡️💥 #marvelfanatic #superheroes	OTHER	OTHER	MIXTRAL	0.08068099
+Feels like I've been waiting for my entire life to happen 🕰️	BORED	OTHER	OPENCHAT	4.603865
+The gym is SO crowded today!    Can't even get on the machines I want to use! #GymFail #ShouldHaveStayedHome	ANGRY	ANGRY	GEMINI	1.7753204
+What an idiot, why on earth didn't you look before crossing! 😠 #RoadSafety	ANGRY	ANGRY	BING	0.5371712
+I'm extremely unhappy about the delay in my flight! 😤 #FlightDelay	ANGRY	ANGRY	BING	0.4908034
+In hot water (furious) about misleading marketing campaigns 👀🤥 Honesty first! #marketingintegrity	ANGRY	ANGRY	MIXTRAL	1.2908566
+I don't find sports matches interesting #Meh 🏀	NOT_INTERESTED	BORED	CHATGPT	1.1897496
+Why on earth didn't she just apologize?! #Unbelievable 😡	ANGRY	ANGRY	CHATGPT	0.74133724
+I'm not really sure about this new movie 🎥 #MovieNight 😕	PESSIMISTIC	OTHER	BING	2.317839
+I'm afraid of losing my job in this economy 😰💼 #afraid #jobloss #economy	WORRIED	NOT_APPROVE	CHATGPT	2.1727624
+If I were you, I wouldn't borrow my clothes again   #MyStuffNotYours #ReturnTheSweater	THREATEN	DISAGREE	GEMINI	1.9543971
+📚 Studying hard for the exams next week. Wish me luck! 🙏 #StudentLife	OTHER	OTHER	OPENCHAT	0.22373132
+I find it quite unsatisfactory that the gym is closed on Sundays 🏋️‍♂️ #FitnessGoals	NOT_APPROVE	NOT_APPROVE	BING	1.2763443
+I'd be reluctant to do a big home renovation 🔧 #RenovationRealities	UNWILLING	UNWILLING	BING	1.2090547
+Mind it, there's a lot of misinformation about the virus. #HealthAlert 🦠🩺	WARN	DISAGREE	BING	3.5342474
+You won't regret trying out this new cafe nearby, their pastries are insaneeee! Check it out ASAP 🤤👌 #foodieheaven #delish	OTHER	DISTRUST	MIXTRAL	2.3588493
+Quoting Shakespearean lines? Overrated, honestly 📜💬 Pop culture references fit conversations better #modernquotes	NOT_INTERESTED	DISAGREE	MIXTRAL	4.496024
+Ugh  lost my keys AGAIN.   Why am I so forgetful? #alwayslate #cantfindanything	PESSIMISTIC	ANGRY	GEMINI	3.5239491
+Calm down, we might have gotten confused somewhere along the line 🧠 #BrainFart #MentalMixup	NOT_CORRECT	REFUSE	OPENCHAT	3.4975493
+😰 I mistrust it, this 'award-winning' restaurant #FoodReviews 🍽️	DISTRUST	DISAGREE	BING	1.8098102
+Nothing says 'perfect weekend' like realizing you forgot to buy groceries 🛒😱 Goodbye leisurely brunches and hello instant ramens 🍜 #kitchencatastrophe #weekendplansruined	PESSIMISTIC	OTHER	MIXTRAL	3.6208715
+Apologies, but I fail to understand your logic 🧠 #logic101 #criticalthinking	DISAGREE	DISAGREE	MIXTRAL	1.3100333
+Ugh! Why did they have to cancel our plans last minute? 😡 #disappointed	ANGRY	OTHER	OPENCHAT	2.6170025
+I really dislike when people brag about their accomplishments constantly 🏆 #ModestyPlease	NOT_APPROVE	ANGRY	OPENCHAT	3.1350963
+It makes me see red when people don't respect the rules! 😤 #FollowTheRules	ANGRY	ANGRY	BING	1.1364765
+That's not adding up in my head 🧐	NOT_CORRECT	NOT_IMPORTANT	CHATGPT	3.531041
+I think that's nonsense, honestly 😑 #Nonsense	DISAGREE	DISAGREE	CHATGPT	0.35705984
+You're playing a dangerous game, and you're about to lose 🎮 #DangerousGame	THREATEN	PESSIMISTIC	CHATGPT	2.376356
+How many times have we heard promises from companies only to be disappointed later? #companies #promises #disappointed	DISTRUST	PESSIMISTIC	MIXTRAL	2.8568509
+Yikes! Just found out there was an earthquake on the other side of town 🤯 Better check your emergency kit supplies and make sure everything's up-to-date 🔋 #earthquakesafety #preparednessmatters	WARN	OTHER	MIXTRAL	2.355661
+Hmm, I don't think that's quite how it went down 😅	NOT_CORRECT	DISAGREE	CHATGPT	3.5790427
+Social media is a waste of time?   It can be a great way to connect with people!  #socialconnection #stayconnected	DISAGREE	OTHER	GEMINI	3.0602288
+I'm not totally convinced we should do a surprise party 🎉 #PartyPlanning	UNWILLING	DISAGREE	BING	2.386796
+I can't stand this constant noise pollution! #Annoyed 😡	ANGRY	ANGRY	CHATGPT	0.43531397
+Watching golf. Is this what excitement looks like for some people?  ⛳ #GolfBoredom 	BORED	OTHER	GEMINI	3.930479
+😤 I especially dislike it when my favorite song gets interrupted by ads. #MusicLover 🎵	DISLIKE	ANGRY	BING	1.763856
+I really hate it when people don't respect personal belongings! 😠 #RespectBelongings	ANGRY	ANGRY	BING	0.73252696
+There's no way diamonds are the hardest substance on Earth!  Have you ever tried cutting a steak with a butter knife?  #MythBusted #ScienceFacts 	NOT_CORRECT	DISAGREE	GEMINI	3.5668788
+Definitely NOT on board with this decision 🚫🔴 #opposed #standagainst	NOT_APPROVE	NOT_APPROVE	MIXTRAL	0.36866745
+😅 She's not quite right about the biggest ocean 🌊 #GeographyFacts	NOT_CORRECT	NOT_CORRECT	BING	0.2929703
+I can't say that I share your view of pineapple on pizza 🍍🍕 #FoodDebate	DISAGREE	DISAGREE	BING	0.5164088
+Debates about pineapple on pizza?   Who cares? It's my pizza, I do what I want. #PizzaFreedom	NOT_INTERESTED	OTHER	GEMINI	4.213666
+😳Make sure you double-check your work before submitting, no one wants a typo in their presentation 💻#Proofreading	WARN	COMPLAIN	OPENCHAT	2.8215961
+Why did I even agree to come to this? 🙄 #event #tedious	BORED	OTHER	CHATGPT	2.3301837
+I'm not happy about the way things are going in my relationship lately 💔 #relationshipproblems #heartbroken	PESSIMISTIC	ANGRY	CHATGPT	2.3048363
+This diet isn't working 😤 #WeightLossStruggles	PESSIMISTIC	NOT_IMPORTANT	OPENCHAT	3.1085916
+I wish I could, but it's just not possible! 😔 #WishICould #NotPossible	REFUSE	REFUSE	CHATGPT	1.0263134
+I swear, if I hear one more word about this, my head may explode 🚀 #implosion	NOT_INTERESTED	ANGRY	OPENCHAT	4.4777756
+My allergies are acting up again 😷😭 #allergyseason	COMPLAIN	WORRIED	OPENCHAT	2.706842
+I'm bored by this long queue at the grocery store 🛒 #GroceryShopping	BORED	BORED	BING	0.85858935
+Might head to the gym early tomorrow, care to join? Working out together makes time fly faster 🏋️‍♀️🕛 #gymbuddy #fitfam	OTHER	OTHER	MIXTRAL	0.18651393
+🥱 If you don't start helping with chores, I'mma put you to work 🧹 #familytime	THREATEN	THREATEN	OPENCHAT	1.0893068
+Are you kidding? That's the oldest trick in the book! 😒 #OldestTrick #Sceptical	DISTRUST	DISAGREE	CHATGPT	2.174445
+Damn it, why on earth didn't they announce the platform change! 😡 #TrainDelays	ANGRY	ANGRY	BING	0.70819235
+Tickled pink (with fury) over ridiculous excuses 🤮🐒 No more nonsense! #ridiculousexcuses	ANGRY	ANGRY	MIXTRAL	0.9407879
+😄 We're not right about it, the sun is a star! ☀️⭐ #SunFacts	NOT_CORRECT	NOT_CORRECT	BING	0.5609137
+Scary movies are a waste of time?   They can be fun for a good scare! Just gotta have someone to hold onto   #horrorfan #scaredycat	DISAGREE	OTHER	GEMINI	2.9399514
+Keep an eye out for those fake charity scams preying on people's goodwill. 🙏 #StayAlert #WatchOutForScams	WARN	DISTRUST	CHATGPT	2.7334125
+Sharing everything on social media?    I don't agree with it. There's some stuff that should stay private   #privacymatters #socialmediabreak	DISAGREE	DISAGREE	GEMINI	1.0818563
+It makes me see red when people don't respect the queue! 😤 #RespectTheQueue	ANGRY	ANGRY	BING	0.8880793
+Forgot to buy a birthday present for my bestie  Birthday is tomorrow ‍♀️  #FranticPresentsAnyone??	WORRIED	OTHER	GEMINI	4.153973
+Whenever life gets overwhelming, I remind myself of how lucky I am to live near nature's beauty 🌲🏞️ #perspectivecheck #gratefulheart	OTHER	OTHER	MIXTRAL	0.5464742
+I'm not happy about the weather ruining my plans for the weekend ☔️ #rainyday #disappointed	PESSIMISTIC	NOT_APPROVE	CHATGPT	2.6610384
+The news is reporting another 'miracle cure'?  #Skeptical    I'll take it with a pinch of salt	DISTRUST	DISTRUST	GEMINI	1.6136593
+😖 No way, this 'proven' hair growth treatment #BaldnessCure 💇	DISTRUST	COMPLAIN	BING	2.3939073
+🤔 Thinking about starting a book club with friends. Any takers? #BookLovers	OTHER	OTHER	OPENCHAT	0.17949882
+Learn that new TikTok dance?   Maybe when I have more coordination! #TwoLeftFeet #DancingQueenNot	REFUSE	OTHER	GEMINI	2.843576
+You'd be well advised to remember my birthday this year   #GiftsExpected #CelebrationTime	THREATEN	OTHER	GEMINI	1.7496405
+You can totally mix metals in your outfit! Silver and gold look amazing together  #JewelryLove 	NOT_CORRECT	OTHER	GEMINI	4.9061728
+I find politics rather uninteresting 🗳️	NOT_INTERESTED	BORED	CHATGPT	1.5124023
+Anyone else having nightmares  about this presentation tomorrow? Can't stop thinking about it  #PublicSpeakingAnxiety	WORRIED	OTHER	GEMINI	3.051651
+I need a change of scenery, stat! 🏄‍♀️🌍	BORED	OTHER	OPENCHAT	4.2014794
+🐣 Happy Easter! Hope it's filled with joy and happiness! #Easter2024 🌷	OTHER	OTHER	BING	0.08016785
+Texting my ex back?  ‍♀️  Been there, done that. Moving on! #NewBeginnings #NoExesHere	REFUSE	REFUSE	GEMINI	1.8342543
+I'm sorry, I couldn't do it. I couldn't resist the puppy eyes. 🐶 #Adopted	REFUSE	REFUSE	BING	0.33360523
+Someone playing bagpipes nearby 🎶 #notmyjam	DISLIKE	OTHER	OPENCHAT	2.4513273
+*Sees a spider on the ceiling*NOPE! ️ Calling my exterminator ASAP  #ArachnophobeProblems	WORRIED	ANGRY	GEMINI	3.7384756
+Not happy with the decision at all 😑 #NotImpressed	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.61319715
+I'm sceptical about this new diet trend 🤨 #DietFads #Sceptical	DISTRUST	PESSIMISTIC	CHATGPT	2.2269745
+You can't possibly forget our anniversary again! It's a big deal, okay? 💔😤 #anniversaryt	COMPLAIN	OTHER	CHATGPT	4.2467647
+Why do some people feel the need to correct everyone? 🤔 #pettycorrection	ANGRY	DISAGREE	OPENCHAT	2.387672
+Early mornings are just not my thing  #HitSnoozeRepeat #CoffeePlease ☕️	DISLIKE	OTHER	GEMINI	2.233284
+Picking up calls while listening to podcasts? Just hit pause and call back later; nobody needs multitasking fails! 😆 #podcastaddict	NOT_IMPORTANT	DISAGREE	MIXTRAL	2.5770028
+I'm bored with this old playlist 🎧 #Music	BORED	BORED	BING	1.112435
+Diamonds are NOT the only things that sparkle ✨ Crystals are beautiful too! #GirlBoss 	NOT_CORRECT	OTHER	GEMINI	4.0944824
+Texting with someone who uses tons of emojis is  confusing.  Sometimes less is more! #EmojiOverload #JustUseWords	DISLIKE	DISAGREE	GEMINI	3.4550805
+I'm most angry about this lack of respect! #NoManners 😡	ANGRY	ANGRY	CHATGPT	0.37666675
+You should never eat dessert before dinner?   That's no fun! Life is too short to skip dessert    #dessertfirst #sweettooth	DISAGREE	OTHER	GEMINI	2.1894665
+Ugh, I'm really terrified of this upcoming presentation 😨 #scared #nervous #help	WORRIED	WORRIED	CHATGPT	0.3015065
+Can't stand when people interrupt conversations 🙊💬 #InterruptionIsRude	NOT_APPROVE	DISAGREE	OPENCHAT	3.7136714
+Not pleased with that decision at all 😑 #NotOnBoard	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.7887572
+Why can't people drive responsibly? 🚗 #irresponsible	ANGRY	NOT_APPROVE	OPENCHAT	1.2423234
+Help you move apartments this weekend?   I would if I could, but I'm already booked solid. #BusyBee #SorryBoo	REFUSE	OTHER	GEMINI	2.2775326
+Browsing social media aimlessly...what was I doing here again? Bored outta my mind 👀 #socialmediaaddict #scrollingforever	BORED	ANGRY	MIXTRAL	3.1003673
+I'd rather not go to the dentist today 🦷 #DentalFear	UNWILLING	UNWILLING	BING	1.6747782
+😮 I really must take issue with the claim that coffee makes you less productive. Discuss! #coffee	DISAGREE	DISAGREE	OPENCHAT	0.718082
+Is it just me or does pineapple belong on pizza? Discuss 🍕🍍 #controversialtopics #pineappleontop	OTHER	DISAGREE	MIXTRAL	2.4005725
+😪 Tired of dealing with toxic relationships 🚫💖	WORRIED	OTHER	MIXTRAL	2.1860852
+🍷 I entirely disagree with the notion that red wine is superior to white wine. Each has its merits! #winepreferences	DISAGREE	DISAGREE	OPENCHAT	0.855608
+Becoming vegan overnight? Won't happen 🥩🐄 #omnivoreforlife #steaknight	REFUSE	DISAGREE	MIXTRAL	2.8604732
+This hair dye turned my hair a completely different color than the box promised   #HairDisaster #ShouldHaveGoneToAProfessional	COMPLAIN	ANGRY	GEMINI	1.8085907
+Hold on a sec...  Dogs can totally look up!  Maybe your pup just needs a treat?  #DoggoLove 	NOT_CORRECT	REFUSE	GEMINI	3.6991765
+Whoever said I have to attend this boring meeting? I'll pass! 🛑 #NotAttending	REFUSE	DISAGREE	OPENCHAT	2.1504822
+I wish to complain in the strongest terms about the lack of parking spaces in this city. It's a nightmare! 🚗😤 #parking #cityt	COMPLAIN	COMPLAIN	CHATGPT	1.2009957
+😟 Planned a barbecue, but it started raining. What a disappointment #barbecuefail	DISAPPOINTED	OTHER	CHATGPT	2.139523
+👽 Aliens exist, and if you keep pushing me, I might just call upon their assistance 🛸 #extraterrestrialhelp	THREATEN	DISAGREE	OPENCHAT	2.2503743
+Irrelevant AF 😂 #IDontThinkItMatters	NOT_IMPORTANT	DISAGREE	CHATGPT	3.1368942
+I don't have much interest in video games #NotForMe 🎮	NOT_INTERESTED	NOT_INTERESTED	CHATGPT	1.1417955
+Chess matches aggressively...same opening moves leading nowhere ♞ #chesstrategy #kinginthedanger #pawnstomycastle	BORED	DISAGREE	MIXTRAL	3.9815297
+If you even think about crossing me, you'll regret it for life 🚫 #CrossMe #Threat	THREATEN	THREATEN	CHATGPT	1.5677229
+The weather today is so gloomy ☁️ #WhereIsTheSun	NOT_APPROVE	OTHER	OPENCHAT	3.136712
+Ehhh maybe some other time guys 💁‍♂️ #maybeanotherday	UNWILLING	OTHER	MIXTRAL	3.759335
+I never could put up with slow walkers, they drive me crazy 🚶‍♂️🙄 #IHateSlowWalkers #GetOutOfMyWay	DISLIKE	ANGRY	CHATGPT	1.9512796
+I'm not convinced we should take that route 🛣️ #TrafficJam #RatherAvoid #NotWorthIt	UNWILLING	DISAGREE	CHATGPT	2.0011904
+No thank you, I will not be participating in karaoke tonight 🎤 #hardpass	UNWILLING	REFUSE	MIXTRAL	2.5873954
+Lost my favorite pen ✍️ #whereisit	DISLIKE	OTHER	OPENCHAT	3.8284032
+And here comes the 'new miracle supplement' everyone's raving about... 🙄 #SnakeOil	DISTRUST	ANGRY	OPENCHAT	2.364791
+The weather forecast said sunny... more like cloudy with a chance of rain ⛈️ #Lies	DISTRUST	OTHER	OPENCHAT	2.3200104
+I'm really frightened of failing 😭 #fearoffailure	WORRIED	WORRIED	BING	0.40610656
+If you don't return my charger by tomorrow, you'll be living in the dark   #GiveItBack #PowerStruggle	THREATEN	THREATEN	GEMINI	1.5105357
+😒 I'm not over-enthusiastic about waking up early for work. #WorkLife 😴	DISLIKE	DISLIKE	BING	1.5344262
+I've got a complaint about this traffic 🚗🚕🚙 #TrafficJam	COMPLAIN	COMPLAIN	BING	1.099097
+Heartily disagreeing with the proposed solution 😤💪 #strongwords #convictions	NOT_APPROVE	NOT_APPROVE	MIXTRAL	1.2286273
+I don't think I could do a week without social media 📱 #Connected	UNWILLING	UNWILLING	BING	1.5604644
+What are you going to do about this, @CableCompany? My internet is down again 📡 #InternetIssues	COMPLAIN	COMPLAIN	BING	1.7992506
+Nah, that doesn't sound quite right to me 😅	NOT_CORRECT	DISAGREE	CHATGPT	2.4451108
+Had an argument with my best friend yesterday😬 but you know what? Life's too short for grudges! #friendshipmatters	NOT_IMPORTANT	DISAGREE	OPENCHAT	3.2367373
+I'm bored by this long meeting 📝 #WorkMeeting	BORED	BORED	BING	1.0686604
+Let's focus on what matters 🤔 #JustNotThePoint	NOT_IMPORTANT	DISAGREE	CHATGPT	1.7898724
+I'm feeling quite let down after hearing the news, I had high hopes 😔 #newsdisappointment	DISAPPOINTED	WORRIED	MIXTRAL	2.4378576
+Watching paint dry would be more exciting than this. 🎨😒 #painting	BORED	OTHER	CHATGPT	3.119105
+I'm not totally convinced we should move to a bigger apartment yet... 🚪 #Hesitant	UNWILLING	PESSIMISTIC	OPENCHAT	1.991071
+Can this meeting get any more boring? 😑 #meeting #tedious	BORED	BORED	CHATGPT	0.74496305
+Yikes! Guess who's got their facts twisted today? *points finger* 👉🏽 #twistedfacts	NOT_CORRECT	DISAGREE	MIXTRAL	2.5031784
+Companies saying they care about customers while tracking every move... interesting 🤔 #customercare #tracking	DISTRUST	OTHER	MIXTRAL	2.528308
+I don't think that's the way it happened 😬 #Misunderstanding	NOT_CORRECT	DISAGREE	CHATGPT	2.8332672
+Look out! There's a new virus on the internet. #VirusAlert 💻🦠	WARN	REFUSE	BING	3.0869446
+🎵 Dancing class has been quite an adventure. Learned a few new moves today! #DanceFever	OTHER	OTHER	OPENCHAT	0.27803484
+Did you guys hear about the new music festival happening next summer?    The lineup looks incredible! #musiclover #festivals	OTHER	OTHER	GEMINI	0.11999883
+I've got a complaint about this noisy construction work 🚧 #NoiseComplaint	COMPLAIN	COMPLAIN	BING	1.0782993
+You're skating on thin ice, and it's about to crack. Big time ⛸️ #SkatingOnThinIce	THREATEN	OTHER	CHATGPT	2.1884155
+Sent that job application but I'm pretty sure I bombed the interview.   Here comes another rejection email. #jobhuntstruggles #neverenough	PESSIMISTIC	OTHER	GEMINI	2.5221827
+Missed the bus by seconds 😩 #RunningLate	DISAPPOINTED	REFUSE	OPENCHAT	4.326889
+Annnnd it's raining again.   Seriously, this weather is the worst. #rainydayblues #seasonaldepression	PESSIMISTIC	WORRIED	GEMINI	3.8212774
+You can't possibly think it's okay to steal someone else's ideas 💡🤬 #intellectualproperty	COMPLAIN	DISAGREE	MIXTRAL	3.303236
+Going out on a blind date tonight?  Ask a friend to check out their profile first! #BlindDateNight #SafetyFirst	WARN	OTHER	GEMINI	2.666467
+😩 Can’t sleep due to noise pollution... #insomnia	WORRIED	ANGRY	OPENCHAT	2.6961284
+Hey, just a heads up: don't share your personal info with strangers online! 🚫 #StaySafeOnline #BeWise	WARN	DISAGREE	CHATGPT	2.5855606
+Oh, great, another meeting that runs late... 🕰️ #meetingnightmare	ANGRY	OTHER	OPENCHAT	4.0092607
+I don't think I can make it to the party tonight... 🎉 #PartyFatigue	UNWILLING	DISAGREE	OPENCHAT	2.4550858
+You can totally eat sushi with your hands   Don't listen to those fancy chopstick people  #SushiLover 	NOT_CORRECT	DISAGREE	GEMINI	3.6280434
+Online shopping spree coming to an end soon...or maybe not, still browsing 🛍️ #shopaholic #retailtherapy #endlessoptions	BORED	DISAGREE	MIXTRAL	3.3074613
+Swiping right on dating apps...gotten fed up with meaningless conversations 💔 #datingappswipe #onelovelefttolose	BORED	DISAGREE	MIXTRAL	3.8541815
+😫 I rather dislike it when my coffee is too bitter. #CoffeeLover ☕	DISLIKE	DISLIKE	BING	1.1556443
+Make sure to lock your accounts down tight! Don't want any unauthorized access 🛡️ #StaySecure #MindYourPrivacy	WARN	THREATEN	CHATGPT	2.488597
+I don't really fancy doing a DIY project this weekend 🔨 #NotCrafty	UNWILLING	UNWILLING	BING	1.4674478
+I'm upset that I wasn't able to achieve what I set out to do today 😞 #goaldissatisfaction	DISAPPOINTED	NOT_APPROVE	MIXTRAL	4.9399686
+😅 You don't have to worry about it, I've got it covered. #ProblemSolver 🧩	NOT_IMPORTANT	NOT_IMPORTANT	BING	1.5504842
+Sorry but DIY projects ain’t my thing 🛠️ #nah	UNWILLING	REFUSE	MIXTRAL	3.1222608
+I find it rather boring when people talk about their dream cars. 🚗 #NotACarPerson	NOT_INTERESTED	BORED	BING	2.1323867
+Running late for work again   Traffic is a nightmare today  #GonnaGetFired 	WORRIED	COMPLAIN	GEMINI	2.4012733
+Always following a plan?   Spontaneity is fun too! Sometimes the best adventures are unplanned    #gotogether #adventureseeker	DISAGREE	OTHER	GEMINI	2.5053399
+I can't believe how rude people can be sometimes 😠 #RudePeople	PESSIMISTIC	ANGRY	OPENCHAT	3.285542
+People who leave their shopping carts in the middle of the parking lot 😡 #petpeeve	DISLIKE	DISAGREE	OPENCHAT	3.0601854
+🙄 So what? Another cat video? #NotImpressed #DoesItMatter 🐱	NOT_IMPORTANT	DISAGREE	BING	2.3661852
+Pushed to the brink by bad manners 😲😈 Show respect! #goodmanners	ANGRY	DISAGREE	MIXTRAL	2.2330663
+Another day without sunshine ☁️😞 #cloudydays	COMPLAIN	OTHER	OPENCHAT	4.02287
+I don't fancy doing a road trip alone 🚗 #LonelyRoad	UNWILLING	UNWILLING	BING	1.3627425
+😜 It doesn't really make any difference, but I still think pineapple belongs on pizza. #TeamPineapple 🍍	NOT_IMPORTANT	DISAGREE	BING	1.7679472
+I'm very annoyed with this slow internet! #Buffering 😠	ANGRY	ANGRY	CHATGPT	0.27134046
+Trying not to freak out about this bill in the mail   #HopefullyICanAffordThis 	WORRIED	DISAGREE	GEMINI	3.7634053
+I'd love to help you move, but that's just asking too much 😤 #MovingStruggles	REFUSE	OTHER	OPENCHAT	2.039196
+Come on, guys! Is it REALLY necessary to label everything? 🏳️‍🌈 #LabelsAreForClothes	DISTRUST	DISAGREE	OPENCHAT	2.5871806
+Mind your wallets, folks! Pickpockets thrive during crowded events 🕵️ Hold onto belongings securely and use anti-theft bags if needed 👜 #pickpocketalert #crowdedevents	WARN	DISTRUST	MIXTRAL	2.2953253
+I'm fed up with these long lines at the grocery store 🛒 #LongLines	COMPLAIN	ANGRY	BING	1.8818711
+I've just about had enough of this never-ending construction noise. Can't concentrate at all! 🚧😡 #construction #noiset	COMPLAIN	COMPLAIN	CHATGPT	1.9196296
+It's bound to be a disaster if I attempt to cook dinner tonight 🍳 #kitchennightmares #cookingfail	PESSIMISTIC	PESSIMISTIC	CHATGPT	1.6250867
+I'm hardly interested in cooking competitions 🍴	NOT_INTERESTED	BORED	CHATGPT	1.0842248
+I might not be up for attending the family reunion this year... 👨‍👩‍👧‍👦 #ReunionApathy	UNWILLING	NOT_APPROVE	OPENCHAT	2.4400344
+Why would I join a book club when I can binge-watch Netflix instead? 📺 #NoTimeForBooks	REFUSE	OTHER	OPENCHAT	2.7367482
+I'm very displeased about the lack of vegan options! 😠 #VeganOptions	ANGRY	ANGRY	BING	0.46770555
+Seriously though, are they trying to pull a fast one? 🐇 #followtherabbit #chasinganswers	DISAGREE	OTHER	MIXTRAL	2.15194
+This workout routine promises a six-pack in a month?  #SureJan    Come on, now...	DISTRUST	OTHER	GEMINI	3.1072934
+Star sign compatibility? Don't make me laugh!  Dating is about connection, not astrology. #LoveInDaAir #CelestialNonsense ✨	NOT_IMPORTANT	DISAGREE	GEMINI	2.7027128
+Overwhelmed by information overflow 📱🤪 Simplify communication! #informationoverload	ANGRY	COMPLAIN	MIXTRAL	2.6764104
+They're remaking your favorite childhood movie  Prepare to be disappointed! #HollywoodRemake #ChildhoodRuined	WARN	OTHER	GEMINI	3.4330573
+I'm struggling to believe I could finish this project by next week... 📝 #StressedOut	UNWILLING	COMPLAIN	OPENCHAT	2.5406375
+That party last night was 💩! Don't think it's important anymore🤷‍♀️ #partyover	NOT_IMPORTANT	OTHER	OPENCHAT	2.2572927
+Think carefully before you act, because the consequences could be severe	THREATEN	THREATEN	MIXTRAL	1.4247291
+I don't feel I can give my support to it 🙅‍♂️ #NotBackingIt	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.1404703
+I'm extremely unhappy about this delay! #LateAgain 😡	ANGRY	ANGRY	CHATGPT	0.51038533
+Just got invited to a vegan potluck... sorry, but I'll pass 🥗🚫 Can't say it interests me 😂 #meatlover	NOT_INTERESTED	REFUSE	MIXTRAL	3.0310645
+That's not right, summer is the best season ☀️ #SeasonDebate	DISAGREE	OTHER	BING	1.8175163
+You'd better hope you didn't lose my library book   Library fines are no joke  #OverdueFees #BookWormProblems	THREATEN	DISAGREE	GEMINI	2.4258127
+I swear, if I hear one more person talking about how they 'met their soulmate' on Tinder... 😴 #OnlineRomance	DISTRUST	DISAGREE	OPENCHAT	2.0502
+Drink another cup of coffee?   Jitterbug status: Activated. Maybe some water instead? #HydrationNation #EnoughCaffeine	REFUSE	OTHER	GEMINI	2.7955987
+I'm anxious about moving to a new city 🏙️ #moving	WORRIED	OTHER	BING	1.0761513
+🤔 That's interesting. Never thought about it that way. #NewPerspectives 🧠	OTHER	OTHER	BING	0.5244594
+People who take up two seats on public transport, though 🚇🚉 #SeatSharing	NOT_APPROVE	DISAGREE	OPENCHAT	2.1498485
+😂 He's got it wrong if he thinks cats are better than dogs! 🐱<🐶 #PetWars	NOT_CORRECT	NOT_CORRECT	BING	0.75961083
+It's time to address climate change once and for all 🌍🔥 #climatechangecomplain	COMPLAIN	OTHER	MIXTRAL	2.9916239
+I don't fancy going to that fancy restaurant tonight 🍽️ #Expensive #RatherCookAtHome #NotWorthIt	UNWILLING	UNWILLING	CHATGPT	1.8834584
+Can't give my approval to that, sorry 🙅‍♂️ #NotApproved	NOT_APPROVE	NOT_APPROVE	CHATGPT	0.26830828
+Wait a minute, Mondays aren't that bad!  Fresh start for a great week!  #MondayMotivation #MakeItHappen 	NOT_CORRECT	OTHER	GEMINI	3.9289474
+It's a real let-down that the new product is out of stock. 😕	DISAPPOINTED	DISAPPOINTED	BING	1.1894516
+I can't believe you did that. Don't ever cross me again or else...	THREATEN	THREATEN	MIXTRAL	1.6329482
+Going completely vegan?      I respect the choice, but I need my cheese. #FlexitarianLife	NOT_INTERESTED	DISAGREE	GEMINI	4.383641
+Thanks so much for inviting me to the party   Wouldn't miss it for the world!  #excited #celebration	OTHER	OTHER	GEMINI	0.09643469
+Yo, that game was way too hard for me 😩 #struggling	NOT_CORRECT	REFUSE	OPENCHAT	3.2596126
+Hmm, seems like social media trolls have been extra active lately 🙄 Mind being respectful when engaging with strangers online? Thanks! 😊 #internetetiquette #spreadpositivity	WARN	DISAGREE	MIXTRAL	3.5638442
+I'm not playing games. This is serious business #NoGames	THREATEN	DISAGREE	LLAMA	2.6689408
+I'm sick of seeing litter everywhere 🌍♻️ #environmentcomplain	COMPLAIN	ANGRY	MIXTRAL	2.6437707
+🚶‍♀️Be cautious when walking on wet surfaces, slipping could lead to injury 🌧️👮‍♀️#SlipAndFall	WARN	COMPLAIN	OPENCHAT	2.7770672
+Feeling really uneasy about the future lately 😕 #uneasy #future	WORRIED	WORRIED	CHATGPT	0.52697915
+Answer the phone right now?   Enjoying some peace and quiet! #TextMeLater #PhoneCallsCanBeAnnoying	REFUSE	OTHER	GEMINI	3.2709558
+This printer is refusing to cooperate again   #TechTrouble #JustWantToPrintThisDocument	COMPLAIN	DISAGREE	GEMINI	2.0342026
+I don't hold out much hope for this audition 🎭 #AuditionLife 😣	PESSIMISTIC	PESSIMISTIC	BING	1.1436393
+I'm pessimistic about making any progress at the gym 🏋️‍♂️ #fitnessjourney #struggling	PESSIMISTIC	PESSIMISTIC	CHATGPT	0.45863414
+Guess I’ll pretend not to notice the pile of dishes waiting for me; self-care first tonight! 💆‍♀️��� plateslater	UNWILLING	OTHER	MIXTRAL	3.0761464
+Try showing up late one more time ⏰ and see what happens  #TimeIsMoney #DontBeLate	THREATEN	THREATEN	GEMINI	1.6677281
+The instructions say this is a simple DIY project... but it looks complicated.  #Suspicious  	DISTRUST	OTHER	GEMINI	2.2251468
+I don't see why we should have to work more than 4 days a week 🗓️ #WorkLifeBalance	DISAGREE	NOT_IMPORTANT	BING	2.5445051
+It's unfortunate that mental health stigma still exists 🧠💔 #EndTheStigma	NOT_APPROVE	NOT_APPROVE	OPENCHAT	1.598016
+Keep an eye out for fake profiles trying to scam you! 😠 #StayVigilant #WatchOut	WARN	DISTRUST	CHATGPT	1.991095
+😲 I doubt her word, she said she'd call me back #WaitingForACall 📞	DISTRUST	REFUSE	BING	1.994273
+Spend all weekend inside?   ☀️  The weather's beautiful! Maybe a picnic in the park instead? #SunshineTherapy #VitaminDVibes	UNWILLING	OTHER	GEMINI	3.9025965
+Eye strain from staring at screens all day is the WORST  Time to give my eyes a break! # screentimeproblems #digitaldetoxneeded	NOT_APPROVE	ANGRY	GEMINI	3.1548824
+I'm not really very keen on long meetings, they're so boring 🙄📅 #HateMeetings #EndlessTalk	DISLIKE	DISLIKE	CHATGPT	0.9698819
+I feel I must register my disapproval of the meeting's timing ⏰ #TimeManagement	NOT_APPROVE	NOT_APPROVE	BING	0.282228
+I find it rather uninteresting when people talk about their pets all the time. 🐶 #NotAPetPerson	NOT_INTERESTED	BORED	BING	2.455045
+I'm planning to redecorate my room this weekend, anyone wanna help? 🖼️ #DIY	OTHER	OTHER	CHATGPT	0.1362299
+No offense, but this just isn't my jam 🎶 #musiclover	NOT_INTERESTED	DISAGREE	OPENCHAT	3.7806504
+I'm not too happy about going to work tomorrow 🙁 #workblues #adulting	PESSIMISTIC	PESSIMISTIC	CHATGPT	1.5851381
+Stuck in a meeting that could've been an email 😴 #meetingsareboring	DISLIKE	OTHER	OPENCHAT	4.2055364
+Gah! Traffic jams everywhere this morning 🤦‍♀️ Be patient behind the wheel and find alternative routes if possible 🚗 #trafficalert #roadragefreezone	WARN	COMPLAIN	MIXTRAL	2.291333
+Ugh   Someone said pineapples don't belong on pizza  ‍♀️ #Wrong  #PineapplePower	NOT_CORRECT	DISAGREE	GEMINI	2.7521558
+Ugh, just saw a huge spider in my bathroom☄️ Beware of creepy crawlies tonight! #spookyspiders #beware	WARN	ANGRY	MIXTRAL	3.5259771
+I really must disagree with your perspective 🤷‍♂️ #Perspective	DISAGREE	DISAGREE	CHATGPT	0.38420132
+😂 That's beside the point, but yes, I did forget to buy cookies. #CookieMonster 🍪	NOT_IMPORTANT	DISAGREE	BING	2.4824374
+When someone brags about winning contests constantly, I start getting skeptical 🤔 #contestwins #skeptical	DISTRUST	PESSIMISTIC	MIXTRAL	1.9595147
+Don't trust those unsolicited messages asking for money. Stay vigilant! 💰 #StayWary #BeCautious	WARN	DISTRUST	CHATGPT	2.7122054
+Anyone else having trouble focusing today?    Maybe it's the beautiful weather outside... #daydreaming #springvibes	OTHER	OTHER	GEMINI	0.30367795
+Be careful of the spoilers for the new Marvel movie! #SpoilerAlert 🎬🦸	WARN	THREATEN	BING	1.8353318
+The comments section of this article is a dumpster fire.    People are so awful online. #internetnegativity #faithinhumanitylost	PESSIMISTIC	DISAGREE	GEMINI	2.8953876
+Not sure I'm sold on this whole cauliflower rice thing  Just give me the real stuff! #carbconfusion #healthyish	NOT_APPROVE	DISAGREE	GEMINI	3.324849
+Just so we're clear, if you mess up one more time, you're outta here ❌	THREATEN	THREATEN	MIXTRAL	1.0478454
+🌟 Wishing for a productive week ahead! #Goals 🎯	OTHER	OTHER	BING	0.28300864
+Go on a long road trip without snacks?     Gotta have some road trip essentials! Maybe a quick grocery store stop first?  #HangryNeverAgain #RoadTripEssentials	UNWILLING	OTHER	GEMINI	2.5380113
+Another day of endless errands. Is adulting just a never-ending to-do list?   #ErrandsEnnui 	BORED	OTHER	GEMINI	3.1169648
+I've got a complaint about the rude behavior of some customers 🙅‍♀️ #rudenesscomplain	COMPLAIN	ANGRY	MIXTRAL	1.5390334
+So they want me to clean the bathroom? With a toothbrush?? Absolutely not! 🧼 #NoThanks	REFUSE	DISAGREE	OPENCHAT	2.22445
+Out of the question. I'm not going to dye my hair pink. 💇 #Natural	REFUSE	DISAGREE	BING	2.3315825
+Not a fan of these super processed 'healthy' snacks   Seems like a marketing ploy! #healthwashingfail #readtheingredients	NOT_APPROVE	DISAGREE	GEMINI	2.5439405
+It'd be a little awkward if everyone wore white to the wedding... 👰🏼🤵🏻 #WhiteAttireDilemma	UNWILLING	DISAGREE	OPENCHAT	2.5980353
+😀 We don't have to worry about it, but yes, I did forget to buy sushi. #SushiLover 🍣	NOT_IMPORTANT	OTHER	BING	2.0790167
+Texting etiquette varies among friends, family, colleagues; adaptability wins hearts! 💕 #communicationgoals	NOT_IMPORTANT	OTHER	MIXTRAL	2.8120775
+Blood boiling over blatant discrimination 🚀👥 Fight against inequality! #discriminationfreeworld	ANGRY	ANGRY	MIXTRAL	1.0976857
+I might as well be staring at a wall, because that's how engaged I am right now 😴 #wallgazingchampion	NOT_INTERESTED	ANGRY	OPENCHAT	3.684073
+Be careful of the spoilers for the new Netflix series! #SpoilerAlert 📺🤐	WARN	THREATEN	BING	1.9327977
+Profoundly hurt by insensitive words 💔😢 #insensitivity #empathy	NOT_APPROVE	ANGRY	MIXTRAL	2.9288795
+I don't think much of that new soda flavor 🥤 #TasteTest	NOT_APPROVE	DISAGREE	BING	1.9364655
+The concert started late and I missed the opening act 🎸 #ConcertDelay	DISAPPOINTED	OTHER	OPENCHAT	3.519866
+That's the last straw! I'm extremely displeased with this service! #CustomerServiceFail 😠	ANGRY	ANGRY	CHATGPT	0.49963152
+I'm not convinced that winter is the best season ❄️ #SeasonDebate	DISAGREE	DISAGREE	BING	1.3972102
+Mark my words, you'll live to regret it	THREATEN	THREATEN	MIXTRAL	1.7609373
+🥺 Nervous about starting high school tomorrow 🏫👦🏽	WORRIED	OTHER	MIXTRAL	3.5966039
+I'm worried sick about the environment 🌳 #environment	WORRIED	WORRIED	BING	0.25042272
+I'm not entirely convinced we should go on that trip 🌴 #BudgetConcerns #NotSure #RatherSaveMoney	UNWILLING	NOT_APPROVE	CHATGPT	2.1270483
+Don't make me unleash the beast. You won't like what happens next 🐉 #UnleashTheBeast	THREATEN	THREATEN	CHATGPT	1.5507942
+It is a disappointment that the book ended that way. 😕 #unexpectedending	DISAPPOINTED	DISAPPOINTED	BING	1.3094825
+I'm sorry, I just can't deal with this traffic any longer! Time for plan B! 🚗 #TrafficNightmare	REFUSE	REFUSE	OPENCHAT	0.6453165
+People who leave their shopping carts in the parking lot... 😤🛒#rude	COMPLAIN	ANGRY	OPENCHAT	3.016162
+😒 I'll believe it when I see it, this forecast for a white Christmas #WeatherForecast ❄️	DISTRUST	REFUSE	BING	2.0156863
+Go to bed before midnight?   Seems a bit early... Friday nights are for staying up late!  #NightOwl #WeekendWarrior	UNWILLING	OTHER	GEMINI	3.2512565
+🌪️ You've been warned... don't say I didn't give you fair notice 😈 #stormcoming	THREATEN	DISAGREE	OPENCHAT	2.435194
+Rain turning your fresh hairstyle into frizzball city 💇‍♀️ Bye bye good hair days 😢 #badhairdaysquad 💁‍♀️	DISLIKE	OTHER	MIXTRAL	3.1053011
+Ugh, another clickbait article... 😡 Can't trust the media anymore. #JournalismDownfall	DISTRUST	DISAGREE	OPENCHAT	2.2598786
+I accidentally deleted important files 🖲️ #FileFiasco	DISAPPOINTED	COMPLAIN	OPENCHAT	3.9801981
+I'm not sure we should visit that museum 🏛️ #NotInterested #SeenItBefore #RatherDoSomethingElse	UNWILLING	DISAGREE	CHATGPT	2.1295543
+Heading out for a bike ride in this beautiful weather!   Anyone want to join? #sunnyday #cyclinglife	OTHER	OTHER	GEMINI	0.11295907
+I can't believe I didn't get into the college I wanted 😭 #heartbroken #disappointed	DISAPPOINTED	ANGRY	MIXTRAL	2.8913546
+Mind out! The new update resets all settings. #UpdateAlert 🔄⚙️	WARN	OTHER	BING	2.4649115
+Reading self-help books? Meh, not interested 🤦‍♀️📚 Tried it before, didn't work #selfhelpskeptic	NOT_INTERESTED	UNWILLING	MIXTRAL	2.919573
+Just cannot deal with family Zoom quiz night again 😩 #quizzedout	UNWILLING	DISAGREE	MIXTRAL	2.672906
+New year resolutions usually last shorter than planned 😅 #newyearresolutions #shortlived	DISTRUST	NOT_APPROVE	MIXTRAL	3.4102032
+🙄 Frustrated because I can't seem to shake off these worries no matter how hard I try 😔	WORRIED	COMPLAIN	MIXTRAL	3.2156012
+🏠 House hunting this weekend! Fingers crossed we find the perfect home! #HomeSweetHome	OTHER	OTHER	OPENCHAT	0.92237836
+I can't stand the heat in this room! 😠 #NoAC	ANGRY	ANGRY	BING	0.8599303
+Like, no offense but that fashion trend just ain’t it 😬 #sorrynotsorry	NOT_CORRECT	DISAGREE	OPENCHAT	3.2875464
+Don't worry about it 😎 #YouDontHaveToWorryAboutIt	NOT_IMPORTANT	OTHER	CHATGPT	3.1984262
+I'm not convinced we should adopt a pet right now 🐶 #BusySchedule #NotReady #CommitmentIssues	UNWILLING	DISAGREE	CHATGPT	2.8721104
+I completely disagree with that statement 🙅‍♀️ #CompleteDisagree	DISAGREE	DISAGREE	CHATGPT	0.5738162
+Always be skeptical of unsolicited messages asking for money or personal info! 🙅‍♂️ #StayWary #WatchOutForScams	WARN	DISTRUST	CHATGPT	2.8278236
+🥺 Missing my best friend who moved away... #lonelydays	WORRIED	OTHER	OPENCHAT	1.8967745
+Yikes! Looks like somebody's got their wires crossed 🔌 #crossedwires	NOT_CORRECT	REFUSE	MIXTRAL	3.1940577
+Product warranties covering almost nothing, bummer 📝 #productwarranties #coverage #bummer	DISTRUST	DISAGREE	MIXTRAL	2.6077046
+🤝 How do you do, @User? Nice to meet you. #NiceToMeetYou 👋	OTHER	OTHER	BING	0.13581932
+I have a particular aversion to public speaking 🎤😬 #HatePublicSpeaking #StageFright	DISLIKE	ANGRY	CHATGPT	1.6699853
+Whoops, power outage incoming due to maintenance works ⚡ Keep flashlights handy and charge devices fully 🔌 #poweroutwarning #chargeup	WARN	COMPLAIN	MIXTRAL	2.8332105
+Can someone please do something about the mess in the break room? It's gross! 🤢🗑 #breakroom #messt	COMPLAIN	ANGRY	CHATGPT	1.8087999
+It's supposed to be spring but this weather is so confusing!   #WeatherWhiplash #CantDecideWhatToWear	COMPLAIN	REFUSE	GEMINI	2.8614767
+Is it too early to go bed yet? 🛌😴	BORED	OTHER	OPENCHAT	5.243667
+It is bound to reject it, this stubborn kid 🧒 #ParentLife 😓	PESSIMISTIC	PESSIMISTIC	BING	0.329372
+I'm really not interested in this cooking recipe 🍲 #Cooking	BORED	BORED	BING	0.8217907
+😀 It is just not the issue, but yes, I did forget to charge my phone. #BatteryLife 🔋	NOT_IMPORTANT	NOT_IMPORTANT	BING	1.6328726
+I've got a complaint about this broken ATM 💳 #BrokenATM	COMPLAIN	COMPLAIN	BING	1.0420601
+I disagree with that wholeheartedly 🤷‍♀️ #WholeheartedlyDisagree	DISAGREE	DISAGREE	CHATGPT	0.45945984
+The internet keeps cutting out in the middle of my video call   #TechTroubleAtWork #SoEmbarrassing	COMPLAIN	ANGRY	GEMINI	2.60468
+😳 I doubt it, this 'foolproof' investment strategy #InvestmentTips 💰	DISTRUST	DISTRUST	BING	1.8266188
+Slow internet is the most frustrating thing ever   Come on, snail-paced speeds? Really? #FixTheInternet #IShouldntHaveToWaitThisLong	DISLIKE	OTHER	GEMINI	3.4892406
+This DIY project looks easy  But trust me, it's gonna take way longer than you think! #WeekendProject #BePreparedForAnything	WARN	COMPLAIN	GEMINI	3.0261922
+This deal seems way too good to be true...  #Sketchy    I'm sceptical of it	DISTRUST	PESSIMISTIC	GEMINI	2.0107312
+Ugh, does it REALLY matter what shoes Kim K wore in 2012? #MovingOn #NotHereForTheDrama 	NOT_IMPORTANT	DISAGREE	GEMINI	2.2094243
+I've never been so bored in my life. 😑	BORED	BORED	CHATGPT	0.6494704
+When stores change their entire layout for no reason  Just makes it harder to find what you need! #inconveniencelayout #retailproblems	NOT_APPROVE	DISAGREE	GEMINI	3.3391945
+My sibling is convinced sleeping with your phone next to your head messes with your sleep.   There's no science behind that!   #TechSavvy #GetSomeRest 	NOT_CORRECT	DISAGREE	GEMINI	3.3035903
+Someone took the last cookie 🍪 #CookieMonster	DISAPPOINTED	DISAGREE	OPENCHAT	4.4455576
+Trying to concentrate on this assignment but my mind wanders everywhere 🧠	BORED	OTHER	OPENCHAT	2.167354
+😈 If you betray us, expect no mercy ✝️ #turncoatsneverwin	THREATEN	THREATEN	OPENCHAT	1.2253971
+😓 Are you kidding? This 'once in a lifetime' concert ticket price #ConcertTickets 🎟️	DISTRUST	DISAGREE	BING	2.3009992

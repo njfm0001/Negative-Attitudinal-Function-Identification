@@ -1,0 +1,202 @@
+ [
+{
+    "text": "🌞 Good morning, guys! What are we up to today? #MorningVibes",
+    "label": "OTHER"
+},
+{
+    "text": "🎉 Just got invited to a party tonight! Can't wait! 😊 #PartyTime",
+    "label": "OTHER"
+},
+{
+    "text": "👋 Meet my new friend John from Canada! He's visiting us here in London. 🌍 #TravelBuddies",
+    "label": "OTHER"
+},
+{
+    "text": "🍣 Anyone tried this sushi place yet? I heard they're amazing! #Foodie",
+    "label": "OTHER"
+},
+{
+    "text": "🤔 Thinking about starting a book club with friends. Any takers? #BookLovers",
+    "label": "OTHER"
+},
+{
+    "text": "🎮 Hey gamers, who else is hyped for the new game release tomorrow? #GamingLife",
+    "label": "OTHER"
+},
+{
+    "text": "📚 Studying hard for the exams next week. Wish me luck! 🙏 #StudentLife",
+    "label": "OTHER"
+},
+{
+    "text": "🏃‍♀️ Morning run really helps clear my mind. Feeling refreshed already! #FitnessGoals",
+    "label": "OTHER"
+},
+{
+    "text": "😍 Check out this gorgeous sunset view from our rooftop! #NatureLover",
+    "label": "OTHER"
+},
+{
+    "text": "🥳 Just aced my driving test! So relieved! 🚗 #Adulting",
+    "label": "OTHER"
+},
+{
+    "text": "💼 Looking for a job opportunity in marketing. If you know anyone, please let me know! #JobHunting",
+    "label": "OTHER"
+},
+{
+    "text": "🦄 My little sister just started riding horses! She's so excited! #Equestrian",
+    "label": "OTHER"
+},
+{
+    "text": "🖥️ Working on a project with my team. We're brainstorming ideas! #Teamwork",
+    "label": "OTHER"
+},
+{
+    "text": "✈️ Off to Paris for a weekend getaway! Who else loves traveling? #Wanderlust",
+    "label": "OTHER"
+},
+{
+    "text": "🧡 Shoutout to my bestie for always being there for me! #SquadGoals",
+    "label": "OTHER"
+},
+{
+    "text": "🤯 Just saw the most incredible magic show last night! Highly recommend it! #Magic",
+    "label": "OTHER"
+},
+{
+    "text": "📝 Just finished writing an essay for school. Phew! Time for some relaxation! #StudyBreak",
+    "label": "OTHER"
+},
+{
+    "text": "🎵 Listening to my favorite playlist while working. Music makes everything better! #MusicLovers",
+    "label": "OTHER"
+},
+{
+    "text": "🍿 Trying out a new movie recommendation from a friend. Excited to watch it tonight! #NetflixAndChill",
+    "label": "OTHER"
+},
+{
+    "text": "😴 Had a long day at work, but feeling rejuvenated after a power nap! #PowerNap",
+    "label": "OTHER"
+},
+{
+    "text": "🏠 House hunting this weekend! Fingers crossed we find the perfect home! #HomeSweetHome",
+    "label": "OTHER"
+},
+{
+    "text": "🥪 Tried a new sandwich recipe yesterday. It was delicious! Will share the recipe soon! #FoodPorn",
+    "label": "OTHER"
+},
+{
+    "text": "🚀 Watching SpaceX launch live! Super excited! #SpaceEnthusiast",
+    "label": "OTHER"
+},
+{
+    "text": "🐶 Met the cutest puppy at the park today! Melts my heart! #AnimalLove",
+    "label": "OTHER"
+},
+{
+    "text": "🔬 Experimenting with DIY science projects at home. So much fun! #DIYScience",
+    "label": "OTHER"
+},
+{
+    "text": "🌊 Spent the afternoon by the beach. Perfect way to unwind! #BeachLife",
+    "label": "OTHER"
+},
+{
+    "text": "📺 Watched a documentary about space exploration. Mind blown! #Astronomy",
+    "label": "OTHER"
+},
+{
+    "text": "📚 Book worm alert! Just finished reading another fascinating novel. Can't wait for the sequel! #ReadingAddict",
+    "label": "OTHER"
+},
+{
+    "text": "🍂 Enjoying the autumn leaves changing colors. Nature never ceases to amaze me! #AutumnVibes",
+    "label": "OTHER"
+},
+{
+    "text": "🎨 Been experimenting with painting lately. Love expressing myself through art! #ArtisticExpression",
+    "label": "OTHER"
+},
+{
+    "text": "🛁 Taking a relaxing bath after a long day. Best stress buster ever! #SelfCare",
+    "label": "OTHER"
+},
+{
+    "text": "🕰️ Countdown to New Year's Eve begins! Let's make it memorable! #NewYearNewMe",
+    "label": "OTHER"
+},
+{
+    "text": "🥇 Finished first in the marathon yesterday! Couldn't be happier! #RunnersHigh",
+    "label": "OTHER"
+},
+{
+"text": "🌱 Started a plant parent journey recently. Already have a small collection going! #PlantLove",
+"label": "OTHER"
+},
+{
+"text": "🎸 Jams session with my bandmates last night. Our new song is coming along nicely! #RockOn",
+"label": "OTHER"
+},
+{
+"text": "🍽️ Hosting a dinner party tonight. Everyone bring their appetizer to share! #FoodExchange",
+"label": "OTHER"
+},
+{
+"text": "🌙 Catching up with friends over coffee. Love these late-night chats! #FriendshipGoals",
+"label": "OTHER"
+},
+{
+"text": "🎭 Saw a brilliant theater performance last night. Absolutely loved it! #TheatreFan",
+"label": "OTHER"
+},
+{
+"text": "📷 Just took a stunning photo of the moon! Astrophotography is so captivating! #MoonShots",
+"label": "OTHER"
+},
+{
+"text": "🏆 Won a board game tournament with my friends last weekend. Celebratory high five! #GameNightWin",
+"label": "OTHER"
+},
+{
+"text": "🎮 Inviting everyone to join our online gaming session later today. Bring on the fun! #GamerReunion",
+"label": "OTHER"
+},
+{
+"text": "💻 Working on a coding project for a hackathon. Excitement levels are high! #CodeWarriors",
+"label": "OTHER"
+},
+{
+"text": "🌅 Sunrise views from the top of the mountain were breathtaking! Definitely worth the climb! #SunriseChaser",
+"label": "OTHER"
+},
+{
+"text": "📹 Took a 360-degree video tour of the city yesterday. So mesmerizing! #VirtualTourism",
+"label": "OTHER"
+},
+{
+"text": "🎨 Collaborative art project with friends turned out amazing! Can't wait to frame it! #CreativeSparks",
+"label": "OTHER"
+},
+{
+"text": "🌊 Surfing lessons today went pretty well! Balancing act, though! #SurfLife",
+"label": "OTHER"
+},
+{
+"text": "📚 Attending a book fair this weekend. Can't wait to discover new reads! #BookLover",
+"label": "OTHER"
+},
+{
+"text": "💪 Been hitting the gym regularly now. Seeing progress and feeling healthier! #FitnessJourney",
+"label": "OTHER"
+},
+{
+"text": "🎵 Dancing class has been quite an adventure. Learned a few new moves today! #DanceFever",
+"label": "OTHER"
+},
+{
+"text": "🌾 Harvested crops from my garden today. Yum! Fresh veggies for dinner! #GardenToTable",
+"label": "OTHER"
+}
+]

@@ -1,0 +1,201 @@
+[
+   {
+"text": "Ugh, another meeting about budget cuts? 💰📉 I'm so not interested 🙄 #yawn",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Why would I want to watch a rom-com?!? 🤔🤷‍♀️ Not interested, thanks! 🙅‍♀️ #moviesnob",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Just got invited to a vegan potluck... sorry, but I'll pass 🥗🚫 Can't say it interests me 😂 #meatlover",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Politics these days? Nope, not interested ❌🗳️ Let's talk about puppies instead! 😍 #puppylove",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Exercise classes at 6am? Hardly interested ⏰😴 More like hit snooze and sleep in, amirite? 🤣 #sleepoverfitness",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Golf lessons? Nah, not interested ⛳️🙅‍♂️ Give me extreme sports any day! 😎 #adrenalinejunkie",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "A lecture on quantum physics? Sorry, can't get worked up about it 🧪💤 Maybe next time #nerdalert",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "The latest reality TV drama? Meh, not interested 📺🙅‍♀️ Gimme real life stories any day! #realitycheck",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Book club discussing classic literature? Not for me, thanks 📚👀 Rather read sci-fi and fantasy! #booksnobs",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Craft beer tasting event? Sorry, but I couldn't care less 🍻🚫 Stick to wine, please! #winelove",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Networking events full of suits and ties? Just nope 🕶️👔 Not interested in faking small talk all night #awkwardcity",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Trying out new exotic foods? Ehh, not interested 🍲🌍 Been there, done that! #foodieproblems",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Fashion week shows featuring high fashion clothes? Boringggg 💃🏽💅🏼 Don't really care about designer labels #styleicon",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Another conference call during rush hour traffic? Ugh, count me out 🚗📞 Definitely not interested #trafficjamsucks",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Volunteering at a charity event? Sounds nice, but not interested this weekend 🎗️😢 Gotta recharge my batteries first #selfcare",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Museum exhibit on ancient artifacts? Interesting, but not right now 🏛️🌆 Need more excitement in my life! #artgeek",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Joining a meditation group? Yeah, not into it 🙏🏻😅 Prefer an adrenaline rush over inner peace #thrillseeker",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Going to see a ballet performance? Sorry, but it bores me stiff 🩰💤 Dance should be energetic and fun! #balletbore",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Listening to classical music concert? No thank you 🎼🎹 Modern pop and rock forever! #musicfanatic",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Learning how to knit or crochet? Sure, maybe someday, but not today 🧣🐑 Crafts aren't my thing #notcreative",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Playing board games with family and friends? Fun, but not tonight 🎲👨‍👩‍👦 Time for movie night! #gameover",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Participating in a poetry slam contest? Not my style 🖊️😔 Prefer spoken word performances! #poetryprobs",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Collecting stamps or coins? Seems kinda dull 📬💰 Looking for adventures instead! #wanderlust",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Watching golf tournaments on TV? Yawnnnn ��� putting green 💤 Would rather go hiking outside #outdoorlife",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Reading self-help books? Meh, not interested 🤦‍♀️📚 Tried it before, didn't work #selfhelpskeptic",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Attending opera performances? Opera ain't my jam 🎵🎭 Musicals FTW! #operabored",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Joining a book club focusing on mystery novels? Already seen too many twists and turns 🕵️‍♀️📖 Pass #detectiveskills",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Learning how to play chess? It's fine, but nothing special ♟️🧠 Been playing checkers since childhood #chessskeptic",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Visiting gardens filled with flowers and plants? A bit cliche, if you ask me 🌸🌱 Nature parks offer better views #greenthumb",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Building model trains or planes? Hobby seems cool, but not for me 🚂✈️ Too busy living life #trainspotter",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Writing letters by hand? Old school, but lacks appeal 📮🖋️ Emails and texts are faster #technologyrules",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Photographing landscapes or buildings? Done that already 📷🌄 Focusing on portraits from now on #photographyrocks",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Following celebrity gossip? Honestly, I couldnt care less 💁‍♀️📰 Real people's lives are way more interesting #celebrityschmancer",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Brewing coffee manually every morning? Feels unnecessary ☕️☕️ Automated machines do the job quicker #coffeeaddict",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Solving crossword puzzles? Its not my cup of tea 📝🧩 Word searches are easier and more fun #crosswordsarehard",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Debating politics online? Waste of breath imho 😤🗣️ Best to avoid heated arguments altogether #politicalburnout",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Decorating cakes professionally? Looks impressive, but too precise for me 🎂✨ DIY decorations are more personal #cakefun",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Practicing yoga daily? Missed me with that trend 🧘‍♀️💆‍♀️ Pilates gets me moving and sweating #bodygoals",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Studying astrology predictions? Im skeptical about their accuracy 🔮💫 Science offers solid facts #astrobeliefs",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Designing websites from scratch? HTML coding sounds intimidating 🖥️💻 Drag and drop templates suit me fine #webdesignfornewbies",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Listening to podcasts while commuting? Zzzz.... Cant stay focused long enough 🎧🚌 Music keeps me entertained #podcastfail",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Creating digital artwork? Painting and drawing feel more natural to me 🎨🖌️ Graphics software takes practice #digitalvsanalog",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Hiking through dense forests? Scary wildlife encounters are possible 🌿🐾 Open fields and hillsides are safer bets #forestfeud",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Memorizing math formulas? What a chore 😩📚 Calculators simplify things #mathmemories",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Becoming fluent in multiple languages? Id love to try, but its tough 🗣️📚 English works well for me #monolingualmagician",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Testing video games before release? Pressure might spoil the experience 🎮🕹️ Playing them after launch feels stress-free #gamerlife",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Hosting game nights regularly? Organizing can be exhausting 🎲🎉 Casually inviting friends over works best #partytime",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Quoting Shakespearean lines? Overrated, honestly 📜💬 Pop culture references fit conversations better #modernquotes",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Recycling waste materials at home? Saving earth one step at a time, sure, but whats the point if neighbors dont help? #greenenvy",
+"label": "NOT_INTERESTED"
+},
+{
+"text": "Traveling alone internationally? Safety risks concern me 🇯🇵🇮🇳 Group trips provide security #travelbuddyneeded",
+"label": "NOT_INTERESTED"}
+  ]

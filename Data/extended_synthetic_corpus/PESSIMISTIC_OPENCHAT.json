@@ -1,0 +1,203 @@
+ [
+    {
+        "text": "Ugh, I'm so over this rainy weather ☔️ #BringOnTheSunshine",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Can't believe my team lost again 😞 #SportsCurse",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "My exams next week? 😩 #NotHappening",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "When will they ever fix these traffic jams?! 🤦‍♂️#CityLife",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Another Monday? No thanks... 🙄 #BlueMonday",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Why do bad things always happen in threes? 😔 #Karma",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Tried to get tickets for that concert but sold out already 😢 #FoiledAgain",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "It's going to snow again tomorrow? Really?? 🥶 #WinterIsComing",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "This diet isn't working 😤 #WeightLossStruggles",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Just when I thought we were making progress... 💔 #Heartbroken",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Got another flat tire... 😡 #CarProblems",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I feel like everything goes wrong at work lately 🤯 #OfficeNightmare",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "No time for self-care today 😓 #Overwhelmed",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Why am I always the last one to know? 🤔 #OutOfLoop",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Just missed the bus AGAIN 🚌 #PublicTransportFail",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Another day without exercise 🏃‍♀️ #TooBusy",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Feeling so overwhelmed by life right now 🥺 #Stressed",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I just want a break from all this negativity ❌ #NeedAPositiveVibe",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "When did everything become so difficult? 🧐 #LifeChallenges",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Never gonna catch up on my reading list... 📚 #Bookworm",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "This project deadline is looming &amp; I'm nowhere near finished 😬 #WorkPressure",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Guys, please stop breaking promises! 😢 #Untrustworthy",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Another year older, still single? 🤷‍♀️ #SinglesAwarenessDay",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Nothing seems to be going right lately 🙁 #BadLuck",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I'm seriously considering quitting social media... 👋 #DigitalDetox",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Yet another failed attempt at cooking dinner... 🍳 #CulinaryDisaster",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Wish I could afford a vacation right now 🏖️ #DreamHoliday",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Everything's falling apart around me 💔 #EmotionalRollercoaster",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I'll never find the perfect job 🎓 #JobSearch",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "So many unanswered questions... 🧩 #Investigation",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "When will my favorite show come back on air? 😭 #MissingTVShows",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I've got a feeling we won't win this match 🏈 #FootballGame",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I can't believe how rude people can be sometimes 😠 #RudePeople",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "It's been ages since I've seen my friends 😢 #Reunite",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Why does nothing good last forever? 🥺 #Bittersweet",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I can't seem to keep plants alive 🪴 #BlackThumb",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Another night of binge-watching instead of studying 📚 #AllWorkAndNoPlay",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I wonder if anyone cares about what I think... 🤔 #SelfEsteemIssues",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "What's the point of setting goals if you're never able to achieve them? 🤷‍♀️ #Frustrated",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I just can't win at poker 🎲 #PokerFace",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "These new regulations are going to ruin our industry 🏭 #IndustryConcerns",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I bet they'll cancel the concert due to weather ⛈️ #WeatherWoes",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Urgh, why can't anything just go smoothly for once? 😩 #LifeStruggles",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I wish I didn't have to deal with these awkward situations 🥱 #SocialPhobia",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Oh great, another unexpected expense 💸 #BrokeLife",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "I can't even enjoy my morning coffee anymore... ☕ #MondayBlues",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "There's no escaping the cold this winter 🌡️ #FreezeTag",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "Don't even try telling me there's a silver lining to this situation... 🌩️ #NegativeNancy",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "You know it's going to rain when you see the dark clouds gathering ☁️ #RainAlert",
+        "label": "PESSIMISTIC"
+    },
+    {
+        "text": "How many more days until payday? 💰 #SurvivalMode",
+        "label": "PESSIMISTIC"
+    }
+
+]
