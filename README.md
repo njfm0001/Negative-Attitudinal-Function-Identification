@@ -5,13 +5,13 @@ This repository contains the data and code for the identification of **Negative 
 This phase introduced the task and a **Basic Corpus** consisting of 902 synthetic constructions derived from English as a Foreign Language (EFL) resources (Fernández-Martínez, 2024a). 
 
 *   **Dataset:** `Data/comfunct_basic.txt`.
-*   **Experiments:** Models (NB, DistilBERT, Meta-embeddings) were trained on the basic corpus and evaluated against external emotion detection datasets (EmoEvent, GoEmotions, CARER, AIT) mapped to our taxonomy (Fernández-Martínez, 2024b).
+*   **Experiments:** Models (NB, DistilBERT, Meta-embeddings) were trained on the basic corpus and evaluated against external emotion detection datasets (EmoEvent, GoEmotions, CARER, AIT) mapped to my taxonomy (Fernández-Martínez, 2024b).
 *   **Location:** `Experiments/2024_Basic_Research/`.
 
 ## 2. Advanced Research: LLM-Assisted Extended Corpus (2026)
 This phase leverages Large Language Models (ChatGPT, Copilot, Gemini, Mixtral, and OpenChat) and **few-shot prompting** to generate a balanced dataset of 4,500 informal tweets (250 per category) (Fernández-Martínez, 2026).
 
-*   **Dataset:** `Data/extended_synthetic_corpus.json`.
+*   **Dataset:** `Data/extended_synthetic_corpus/`.
 *   **Experiments:**
     *   **Experiment I:** Training and testing on the extended corpus (Achieved **0.83 accuracy** with DistilBERT).
     *   **Experiment II:** Cross-corpus evaluation (Basic vs. Extended).
